@@ -1,0 +1,6 @@
+{
+  "name": "Vibes Deals",
+  "description": "Discover great deals and shop smarter with curated product recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
