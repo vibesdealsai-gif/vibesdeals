@@ -4,6 +4,12 @@ import { notFound } from 'next/navigation';
 import { blogPosts, products } from '@/lib/data';
 import { ProductCard } from '@/components/ui/ProductCard';
 
+export function generateStaticParams() {
+  return blogPosts.map((post) => ({
+    slug: post.slug,
+  }));
+}
+
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;
   const post = blogPosts.find(p => p.slug === resolvedParams.slug);
