@@ -14,7 +14,6 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-
   output: 'export',
 
   transpilePackages: ['motion'],
