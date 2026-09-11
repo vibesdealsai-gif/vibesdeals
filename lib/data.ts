@@ -198,593 +198,584 @@ export const categories: Category[] = [
 
 export const blogPosts: BlogPost[] = [
   {
-id: 'b1',
-title: 'Best Budget Smartphones in 2026: Best Phones Under ₹15,000 in India',
-slug: 'best-budget-smartphones-2026',
-excerpt: 'Looking for the best budget smartphone in 2026? Discover the best phones under ₹15,000 in India and learn what to check for performance, camera, battery, display, 5G, software updates and long-term value.',
-content: `
+     id: 'b1',
+     title: 'Best Budget Smartphones in 2026: Best Phones Under ₹15,000 in India',
+     slug: 'best-budget-smartphones-2026',
+     excerpt: 'Looking for the best budget smartphone in 2026? Discover the best phones under ₹15,000 in India and learn what to check for performance, camera, battery, display, 5G, software updates and long-term value.',
+     content: `Best Budget Smartphones in 2026: Best Phones Under ₹15,000 in India
+     Looking for the best budget smartphone in 2026 can be confusing. There are more choices than ever, and budget phones now offer features that were once limited to expensive flagship smartphones.
+     In 2026, you can find affordable phones with 5G connectivity, high-refresh-rate displays, large batteries, fast charging, capable cameras and powerful processors.
+     But choosing the right smartphone is not only about specifications.
+     A good budget phone should provide a balanced combination of performance, camera quality, battery life, display quality, software experience, durability and value for money.
+     In this guide, we will explain how to choose the best budget smartphone in 2026, especially if you are looking for the best phone under ₹15,000 in India.
 
-Best Budget Smartphones in 2026: Best Phones Under ₹15,000 in India
+     Quick Answer
 
-Looking for the best budget smartphone in 2026 can be confusing. There are more choices than ever, and budget phones now offer features that were once limited to expensive flagship smartphones.
+     If you are looking for the best budget smartphone in 2026, focus on these features:
 
-In 2026, you can find affordable phones with 5G connectivity, high-refresh-rate displays, large batteries, fast charging, capable cameras and powerful processors.
+     - 5G connectivity
+     - 6GB or 8GB RAM
+     - 128GB or more storage
+     - A capable processor
+     - 90Hz or 120Hz display
+     - Large battery
+     - Fast charging
+     - Good primary camera
+     - Reliable software updates
+     - Strong build quality
+     - Good after-sales service
 
-But choosing the right smartphone is not only about specifications.
+     There is no single smartphone that is perfect for everyone. Your ideal phone depends on whether you prioritize gaming, camera, battery, performance, display or everyday use.
 
-A good budget phone should provide a balanced combination of performance, camera quality, battery life, display quality, software experience, durability and value for money.
+     ---
 
-In this guide, we will explain how to choose the best budget smartphone in 2026, especially if you are looking for the best phone under ₹15,000 in India.
+     Best Phone Under ₹15,000 in India
 
-Quick Answer
+     The ₹15,000 smartphone segment is one of the most competitive categories in India.
 
-If you are looking for the best budget smartphone in 2026, focus on these features:
+     Many smartphones in this price range now provide features such as:
 
-- 5G connectivity
-- 6GB or 8GB RAM
-- 128GB or more storage
-- A capable processor
-- 90Hz or 120Hz display
-- Large battery
-- Fast charging
-- Good primary camera
-- Reliable software updates
-- Strong build quality
-- Good after-sales service
+    - 5G
+    - High-refresh-rate displays
+    - Large batteries
+    - Fast charging
+    - Multiple cameras
+    - Modern Android software
+    - Powerful mid-range processors
 
-There is no single smartphone that is perfect for everyone. Your ideal phone depends on whether you prioritize gaming, camera, battery, performance, display or everyday use.
+    However, specifications can vary significantly between models.
 
----
+    Before purchasing, always compare the complete package rather than choosing a phone based on one specification.
 
-Best Phone Under ₹15,000 in India
+    ---
 
-The ₹15,000 smartphone segment is one of the most competitive categories in India.
+   1. Processor: The Most Important Performance Component
 
-Many smartphones in this price range now provide features such as:
+   The processor controls many aspects of your smartphone experience.
 
-- 5G
-- High-refresh-rate displays
-- Large batteries
-- Fast charging
-- Multiple cameras
-- Modern Android software
-- Powerful mid-range processors
+   A good processor helps with:
 
-However, specifications can vary significantly between models.
+   - App launching
+   - Multitasking
+   - Gaming
+   - Camera processing
+   - Video playback
+   - Battery efficiency
+   - Long-term performance
 
-Before purchasing, always compare the complete package rather than choosing a phone based on one specification.
+   If you mainly use WhatsApp, Instagram, YouTube, Chrome and other everyday apps, you don't need the most powerful processor.
 
----
+   However, if you play games such as BGMI, Call of Duty Mobile or other demanding games, choose a smartphone with a stronger chipset and good thermal management.
 
-1. Processor: The Most Important Performance Component
+   What to look for
 
-The processor controls many aspects of your smartphone experience.
+   For a budget smartphone in 2026, look for:
 
-A good processor helps with:
+   - Modern processor architecture
+   - 5G support
+   - Good GPU performance
+   - Efficient power consumption
+   - Good thermal management
 
-- App launching
-- Multitasking
-- Gaming
-- Camera processing
-- Video playback
-- Battery efficiency
-- Long-term performance
+   Don't judge a processor only by benchmark scores. Real-world performance and sustained performance are more important.
 
-If you mainly use WhatsApp, Instagram, YouTube, Chrome and other everyday apps, you don't need the most powerful processor.
+   ---
 
-However, if you play games such as BGMI, Call of Duty Mobile or other demanding games, choose a smartphone with a stronger chipset and good thermal management.
+   2. How Much RAM Do You Need?
 
-What to look for
+   RAM allows your smartphone to keep apps available in memory.
 
-For a budget smartphone in 2026, look for:
+   For most users:
 
-- Modern processor architecture
-- 5G support
-- Good GPU performance
-- Efficient power consumption
-- Good thermal management
+   6GB RAM is a good starting point.
 
-Don't judge a processor only by benchmark scores. Real-world performance and sustained performance are more important.
+   For multitasking:
 
----
+   8GB RAM is preferable.
 
-2. How Much RAM Do You Need?
+   For heavy gaming and multitasking:
 
-RAM allows your smartphone to keep apps available in memory.
+   8GB or more can be useful.
 
-For most users:
+   However, more RAM does not automatically mean better performance.
 
-6GB RAM is a good starting point.
+   An efficient processor and well-optimized software are equally important.
 
-For multitasking:
+   Recommended RAM
 
-8GB RAM is preferable.
+   User Type| Recommended RAM
+   Basic users| 4GB–6GB
+   Everyday users| 6GB
+   Multitaskers| 8GB
+   Heavy users| 8GB+
+   ---
 
-For heavy gaming and multitasking:
+   3. Storage: 128GB Is the Sweet Spot
 
-8GB or more can be useful.
+   Apps, photos and videos are getting larger every year.
 
-However, more RAM does not automatically mean better performance.
+   For most users in 2026, 128GB storage is a much better starting point than 64GB.
 
-An efficient processor and well-optimized software are equally important.
+   Choose 256GB if you:
 
-Recommended RAM
+   - Record lots of videos
+   - Download movies
+   - Install large games
+   - Store many photos
+   - Keep your phone for several years
 
-User Type| Recommended RAM
-Basic users| 4GB–6GB
-Everyday users| 6GB
-Multitaskers| 8GB
-Heavy users| 8GB+
+   Also check whether the phone supports a microSD card if expandable storage is important to you.
 
----
+   ---
 
-3. Storage: 128GB Is the Sweet Spot
+   4. Display: Look Beyond Refresh Rate
 
-Apps, photos and videos are getting larger every year.
+   A smooth display can make a smartphone feel much more premium.
 
-For most users in 2026, 128GB storage is a much better starting point than 64GB.
+   Many budget smartphones now offer:
 
-Choose 256GB if you:
+   - 90Hz refresh rate
+   - 120Hz refresh rate
+   - AMOLED displays on selected models
+   - High brightness
+   - Full HD+ resolution
 
-- Record lots of videos
-- Download movies
-- Install large games
-- Store many photos
-- Keep your phone for several years
+   A high refresh rate makes scrolling and animations smoother.
 
-Also check whether the phone supports a microSD card if expandable storage is important to you.
+   However, 120Hz alone does not guarantee a better display.
 
----
+   Also check:
 
-4. Display: Look Beyond Refresh Rate
+   - Brightness
+   - Color accuracy
+   - Resolution
+   - Outdoor visibility
+   - Viewing angles
+   - Display protection
 
-A smooth display can make a smartphone feel much more premium.
+   For people who watch YouTube, Netflix and other streaming content, display quality can make a significant difference.
 
-Many budget smartphones now offer:
+   ---
 
-- 90Hz refresh rate
-- 120Hz refresh rate
-- AMOLED displays on selected models
-- High brightness
-- Full HD+ resolution
+   5. Battery Life
 
-A high refresh rate makes scrolling and animations smoother.
+   Battery life is one of the biggest reasons people choose a budget smartphone.
 
-However, 120Hz alone does not guarantee a better display.
+   A phone with a large battery can comfortably handle:
 
-Also check:
+   - YouTube
+   - Instagram
+   - WhatsApp
+   - Web browsing
+   - Video calls
+   - Navigation
+   - Gaming
 
-- Brightness
-- Color accuracy
-- Resolution
-- Outdoor visibility
-- Viewing angles
-- Display protection
+   Many budget smartphones now offer batteries around 5,000mAh or more.
 
-For people who watch YouTube, Netflix and other streaming content, display quality can make a significant difference.
+   But battery capacity is not everything.
 
----
+   Battery life also depends on:
 
-5. Battery Life
+   - Processor efficiency
+   - Display brightness
+   - Refresh rate
+   - Mobile network usage
+   - Software optimization
+   - Background apps
 
-Battery life is one of the biggest reasons people choose a budget smartphone.
+   Ideal battery
 
-A phone with a large battery can comfortably handle:
+   For most users, a 5,000mAh or larger battery is a good target.
 
-- YouTube
-- Instagram
-- WhatsApp
-- Web browsing
-- Video calls
-- Navigation
-- Gaming
+   ---
 
-Many budget smartphones now offer batteries around 5,000mAh or more.
+   6. Fast Charging
 
-But battery capacity is not everything.
+   A large battery is useful, but charging speed is also important.
 
-Battery life also depends on:
+   Fast charging allows you to quickly add battery when you are in a hurry.
 
-- Processor efficiency
-- Display brightness
-- Refresh rate
-- Mobile network usage
-- Software optimization
-- Background apps
+   Before buying, check:
 
-Ideal battery
+   - Charging wattage
+   - Charger included in the box
+   - Charging time
+   - Battery health features
 
-For most users, a 5,000mAh or larger battery is a good target.
+   Don't choose a phone only because it advertises extremely high charging wattage. Battery safety, thermal management and long-term battery health also matter.
 
----
+   ---
 
-6. Fast Charging
+   7. Camera: Don't Choose Only by Megapixels
 
-A large battery is useful, but charging speed is also important.
+   One of the biggest smartphone marketing points is camera megapixels.
 
-Fast charging allows you to quickly add battery when you are in a hurry.
+   But a 108MP or 200MP camera isn't automatically better than a 50MP camera.
 
-Before buying, check:
+   Real camera quality depends on:
 
-- Charging wattage
-- Charger included in the box
-- Charging time
-- Battery health features
+   - Sensor size
+   - Lens quality
+   - Image processing
+   - HDR
+   - Night mode
+   - Stabilization
+   - Video processing
 
-Don't choose a phone only because it advertises extremely high charging wattage. Battery safety, thermal management and long-term battery health also matter.
+   For the best camera experience
 
----
+   Look for a smartphone with a good primary camera rather than several low-quality cameras.
 
-7. Camera: Don't Choose Only by Megapixels
+   A strong main camera can be more useful than having three or four average sensors.
 
-One of the biggest smartphone marketing points is camera megapixels.
+   ---
 
-But a 108MP or 200MP camera isn't automatically better than a 50MP camera.
+   8. 5G Connectivity
 
-Real camera quality depends on:
+   If you are buying a new phone in 2026, 5G is worth considering.
 
-- Sensor size
-- Lens quality
-- Image processing
-- HDR
-- Night mode
-- Stabilization
-- Video processing
+   5G can provide faster mobile connectivity in supported areas.
 
-For the best camera experience
+   It is particularly useful if you:
 
-Look for a smartphone with a good primary camera rather than several low-quality cameras.
+   - Stream video frequently
+   - Download large files
+   - Use mobile hotspots
+   - Travel frequently
+   - Plan to keep your phone for several years
 
-A strong main camera can be more useful than having three or four average sensors.
+   Before buying, check whether the phone supports the relevant 5G bands for your network provider.
 
----
+   ---
 
-8. 5G Connectivity
+   9. Software Updates
 
-If you are buying a new phone in 2026, 5G is worth considering.
+   Software support is an important factor for long-term smartphone ownership.
 
-5G can provide faster mobile connectivity in supported areas.
+   Before buying a phone, check:
 
-It is particularly useful if you:
+   - Android version
+   - Security update policy
+   - Major OS update commitment
+   - Update frequency
+   - Manufacturer support
 
-- Stream video frequently
-- Download large files
-- Use mobile hotspots
-- Travel frequently
-- Plan to keep your phone for several years
+   A smartphone with good software support can remain secure and useful for longer.
 
-Before buying, check whether the phone supports the relevant 5G bands for your network provider.
+   This is one area where buyers should not focus only on hardware specifications.
 
----
+   ---
 
-9. Software Updates
+   Best Budget Smartphone for Students
 
-Software support is an important factor for long-term smartphone ownership.
+   Students usually need a phone for:
 
-Before buying a phone, check:
+   - Online classes
+   - YouTube
+   - Social media
+   - Video calls
+   - Google searches
+   - Notes
+   - Documents
+   - Photography
+   - Casual gaming
 
-- Android version
-- Security update policy
-- Major OS update commitment
-- Update frequency
-- Manufacturer support
+   What students should prioritize
 
-A smartphone with good software support can remain secure and useful for longer.
+   1. Good battery life
+   2. 5G
+   3. 128GB storage
+   4. Smooth display
+   5. Reliable processor
+   6. Good front camera
+   7. Good software support
 
-This is one area where buyers should not focus only on hardware specifications.
+   A student usually doesn't need the most expensive gaming phone.
 
----
+   ---
 
-Best Budget Smartphone for Students
+   Best Budget Phone for Gaming
 
-Students usually need a phone for:
+   Gaming-focused buyers should prioritize performance.
 
-- Online classes
-- YouTube
-- Social media
-- Video calls
-- Google searches
-- Notes
-- Documents
-- Photography
-- Casual gaming
+   Look for:
 
-What students should prioritize
+   - Strong chipset
+   - Good GPU
+   - High-refresh-rate display
+   - Large battery
+   - Fast storage
+   - Good cooling
+   - Stable performance
 
-1. Good battery life
-2. 5G
-3. 128GB storage
-4. Smooth display
-5. Reliable processor
-6. Good front camera
-7. Good software support
+   Don't choose a gaming phone simply because it has a high benchmark score.
 
-A student usually doesn't need the most expensive gaming phone.
+   Thermal performance is important because smartphones can reduce performance when they become too hot.
 
----
+   ---
 
-Best Budget Phone for Gaming
+   Best Budget Phone for Camera
 
-Gaming-focused buyers should prioritize performance.
+   If photography is your priority, compare real-world camera performance.
 
-Look for:
+   Look for:
 
-- Strong chipset
-- Good GPU
-- High-refresh-rate display
-- Large battery
-- Fast storage
-- Good cooling
-- Stable performance
+   - Good main camera sensor
+   - Accurate colors
+   - Good HDR
+   - Night photography
+   - Portrait mode
+   - Video stabilization
+   - Good selfie camera
 
-Don't choose a gaming phone simply because it has a high benchmark score.
+   Camera reviews and real-world samples can be more useful than megapixel numbers.
 
-Thermal performance is important because smartphones can reduce performance when they become too hot.
+   ---
 
----
+   Best Budget Phone for Battery Life
 
-Best Budget Phone for Camera
+   If you frequently travel or spend long hours away from a charger, battery life should be one of your top priorities.
 
-If photography is your priority, compare real-world camera performance.
+   Look for:
 
-Look for:
+   - 5,000mAh or larger battery
+   - Efficient processor
+   - Fast charging
+   - Good standby performance
 
-- Good main camera sensor
-- Accurate colors
-- Good HDR
-- Night photography
-- Portrait mode
-- Video stabilization
-- Good selfie camera
+   A balanced combination of battery capacity and processor efficiency usually provides better results than simply choosing the phone with the biggest battery.
 
-Camera reviews and real-world samples can be more useful than megapixel numbers.
+   ---
 
----
+   AMOLED vs LCD Display
 
-Best Budget Phone for Battery Life
+   When choosing a budget phone, you may come across both AMOLED and LCD displays.
 
-If you frequently travel or spend long hours away from a charger, battery life should be one of your top priorities.
+   AMOLED advantages
 
-Look for:
+   - Better contrast
+   - Deeper blacks
+   - More vibrant appearance
+   - Often better for watching videos
 
-- 5,000mAh or larger battery
-- Efficient processor
-- Fast charging
-- Good standby performance
+   LCD advantages
 
-A balanced combination of battery capacity and processor efficiency usually provides better results than simply choosing the phone with the biggest battery.
+   - Can be more affordable
+   - Good visibility on many models
+   - Often suitable for everyday use
 
----
+   If you watch a lot of videos or want a more premium display experience, an AMOLED panel can be attractive.
 
-AMOLED vs LCD Display
+   But don't ignore brightness and overall display quality.
 
-When choosing a budget phone, you may come across both AMOLED and LCD displays.
+   ---
 
-AMOLED advantages
+   4G vs 5G: Which Should You Buy?
 
-- Better contrast
-- Deeper blacks
-- More vibrant appearance
-- Often better for watching videos
+   For a new smartphone purchase in 2026, 5G is generally the more future-friendly option when the price difference is reasonable.
 
-LCD advantages
+   Choose 5G if:
 
-- Can be more affordable
-- Good visibility on many models
-- Often suitable for everyday use
+   - Your area has 5G coverage
+   - Your carrier supports 5G
+   - You use mobile data frequently
+   - You plan to keep the phone for several years
 
-If you watch a lot of videos or want a more premium display experience, an AMOLED panel can be attractive.
+   A 4G smartphone can still be suitable for basic users who don't need faster mobile connectivity.
 
-But don't ignore brightness and overall display quality.
+   ---
 
----
+   How to Get the Best Smartphone Deal
 
-4G vs 5G: Which Should You Buy?
+   The price you see today may not be the lowest possible price.
 
-For a new smartphone purchase in 2026, 5G is generally the more future-friendly option when the price difference is reasonable.
+   Before buying, compare:
 
-Choose 5G if:
+   - Current selling price
+   - Bank offers
+   - Cashback
+   - Exchange discounts
+   - Festival sales
+   - Brand promotions
+   - Warranty
+   - Seller reputation
 
-- Your area has 5G coverage
-- Your carrier supports 5G
-- You use mobile data frequently
-- You plan to keep the phone for several years
+   A phone can become significantly better value when its price drops during a sale.
 
-A 4G smartphone can still be suitable for basic users who don't need faster mobile connectivity.
+   Pro Tip
 
----
+   Don't compare only the launch price.
 
-How to Get the Best Smartphone Deal
+   Compare the current final price after available discounts.
 
-The price you see today may not be the lowest possible price.
+   ---
 
-Before buying, compare:
+   Online vs Offline Smartphone Shopping
 
-- Current selling price
-- Bank offers
-- Cashback
-- Exchange discounts
-- Festival sales
-- Brand promotions
-- Warranty
-- Seller reputation
+   Buying Online
 
-A phone can become significantly better value when its price drops during a sale.
+   Advantages:
 
-Pro Tip
+   - Easy price comparison
+   - More offers
+   - Convenient shopping
+   - Large selection
 
-Don't compare only the launch price.
+   Disadvantages:
 
-Compare the current final price after available discounts.
+   - You cannot physically test the phone before ordering
+   - Seller reliability must be checked
 
----
+   Buying Offline
 
-Online vs Offline Smartphone Shopping
+   Advantages:
 
-Buying Online
+   - Test the display
+   - Hold the phone
+   - Test the camera
+   - Compare size and weight
+   - Local support
 
-Advantages:
+   Disadvantages:
 
-- Easy price comparison
-- More offers
-- Convenient shopping
-- Large selection
+   - Prices may sometimes be higher
+   - Fewer models may be available
 
-Disadvantages:
+   Choose the option that provides the best combination of price, warranty and seller reliability.
 
-- You cannot physically test the phone before ordering
-- Seller reliability must be checked
+   ---
 
-Buying Offline
+   Common Mistakes When Buying a Budget Smartphone
 
-Advantages:
+   1. Choosing only based on megapixels
 
-- Test the display
-- Hold the phone
-- Test the camera
-- Compare size and weight
-- Local support
+   More megapixels don't automatically mean better photos.
 
-Disadvantages:
+   2. Choosing RAM over the processor
 
-- Prices may sometimes be higher
-- Fewer models may be available
+   A powerful processor with adequate RAM can provide a better experience than a weak processor with lots of RAM.
 
-Choose the option that provides the best combination of price, warranty and seller reliability.
+   3. Ignoring software updates
 
----
+   Software support matters if you plan to keep your phone for years.
 
-Common Mistakes When Buying a Budget Smartphone
+   4. Buying too little storage
 
-1. Choosing only based on megapixels
+   64GB can become restrictive quickly.
 
-More megapixels don't automatically mean better photos.
+   5. Ignoring display brightness
 
-2. Choosing RAM over the processor
+   A display that looks great indoors may be difficult to use outdoors.
 
-A powerful processor with adequate RAM can provide a better experience than a weak processor with lots of RAM.
+   6. Buying only because of 5G
 
-3. Ignoring software updates
+   Check supported bands and overall phone quality.
 
-Software support matters if you plan to keep your phone for years.
+   7. Ignoring after-sales service
 
-4. Buying too little storage
+   Check whether service centers are available in your area.
 
-64GB can become restrictive quickly.
+   ---
 
-5. Ignoring display brightness
+   Budget Smartphone Buying Checklist for 2026
 
-A display that looks great indoors may be difficult to use outdoors.
+   Before purchasing your next smartphone, check:
 
-6. Buying only because of 5G
+   ☑ 5G support
 
-Check supported bands and overall phone quality.
+   ☑ 6GB or 8GB RAM
 
-7. Ignoring after-sales service
+   ☑ 128GB storage or more
 
-Check whether service centers are available in your area.
+   ☑ Capable processor
 
----
+   ☑ 90Hz or 120Hz display
 
-Budget Smartphone Buying Checklist for 2026
+   ☑ Good brightness
 
-Before purchasing your next smartphone, check:
+   ☑ 5,000mAh+ battery
 
-☑ 5G support
+   ☑ Fast charging
 
-☑ 6GB or 8GB RAM
+   ☑ Good primary camera
 
-☑ 128GB storage or more
+   ☑ Reliable software updates
 
-☑ Capable processor
+   ☑ Strong build quality
 
-☑ 90Hz or 120Hz display
+   ☑ Warranty
 
-☑ Good brightness
+   ☑ Good after-sales service
 
-☑ 5,000mAh+ battery
+   ☑ Competitive current price
 
-☑ Fast charging
+   ---
 
-☑ Good primary camera
+   Frequently Asked Questions
 
-☑ Reliable software updates
+   Which is the best budget smartphone in 2026?
 
-☑ Strong build quality
+   The best budget smartphone depends on your requirements. For most users, a balanced phone with good performance, battery life, display, camera, 5G and software support is a better choice than a phone that excels in only one specification.
 
-☑ Warranty
+   Which is the best phone under ₹15,000 in India?
 
-☑ Good after-sales service
+   The best phone under ₹15,000 changes as new smartphones launch and prices change. Compare current models based on processor, camera, battery, display, software support and overall value before buying.
 
-☑ Competitive current price
+   Which is the best 5G phone under ₹15,000?
+ 
+   The best 5G phone under ₹15,000 depends on the current price and available offers. Check the processor, 5G bands, battery, display and software support before choosing.
 
----
+   Is 8GB RAM enough in 2026?
 
-Frequently Asked Questions
+   Yes. 8GB RAM is enough for most everyday users, multitasking and many games. Processor performance and software optimization are also important.
 
-Which is the best budget smartphone in 2026?
+   Is 128GB storage enough?
 
-The best budget smartphone depends on your requirements. For most users, a balanced phone with good performance, battery life, display, camera, 5G and software support is a better choice than a phone that excels in only one specification.
+   For most users, 128GB is enough. Heavy users who record lots of videos or install large games should consider 256GB.
 
-Which is the best phone under ₹15,000 in India?
+   Is a 5,000mAh battery enough?
 
-The best phone under ₹15,000 changes as new smartphones launch and prices change. Compare current models based on processor, camera, battery, display, software support and overall value before buying.
+   For many users, a 5,000mAh battery provides good battery life. Actual endurance depends on the processor, display, brightness, network and software optimization.
 
-Which is the best 5G phone under ₹15,000?
+   Is AMOLED better than LCD?
 
-The best 5G phone under ₹15,000 depends on the current price and available offers. Check the processor, 5G bands, battery, display and software support before choosing.
+   AMOLED generally offers deeper blacks and strong contrast, but a high-quality LCD can still provide an excellent experience. Compare brightness and overall display quality instead of choosing only by panel type.
 
-Is 8GB RAM enough in 2026?
+   Should I buy a budget smartphone for gaming?
 
-Yes. 8GB RAM is enough for most everyday users, multitasking and many games. Processor performance and software optimization are also important.
+   Yes, but choose carefully. Gaming users should prioritize the processor, GPU, thermal management, display and battery rather than camera megapixels.
 
-Is 128GB storage enough?
+   How long can a budget smartphone last?
 
-For most users, 128GB is enough. Heavy users who record lots of videos or install large games should consider 256GB.
+   A good budget smartphone can remain useful for several years depending on its hardware, software support, battery health and how heavily it is used.
 
-Is a 5,000mAh battery enough?
+   ---
 
-For many users, a 5,000mAh battery provides good battery life. Actual endurance depends on the processor, display, brightness, network and software optimization.
+   Final Verdict
 
-Is AMOLED better than LCD?
+   The best budget smartphone in 2026 is not necessarily the phone with the highest megapixel camera, biggest battery or most RAM.
 
-AMOLED generally offers deeper blacks and strong contrast, but a high-quality LCD can still provide an excellent experience. Compare brightness and overall display quality instead of choosing only by panel type.
+   The best choice is a phone that offers the right balance of:
 
-Should I buy a budget smartphone for gaming?
+   Performance + Battery + Display + Camera + 5G + Software Support + Durability + Price
 
-Yes, but choose carefully. Gaming users should prioritize the processor, GPU, thermal management, display and battery rather than camera megapixels.
+   If your budget is around ₹15,000, compare multiple phones and check the current price before purchasing.
 
-How long can a budget smartphone last?
+   Prices and offers change frequently, so always look at the latest available deal rather than relying only on the original launch price.
 
-A good budget smartphone can remain useful for several years depending on its hardware, software support, battery health and how heavily it is used.
+   At VibesDeals, our goal is to help you discover better products, compare important features and make smarter shopping decisions.
 
----
+   ---
 
-Final Verdict
+   SEO Keywords
 
-The best budget smartphone in 2026 is not necessarily the phone with the highest megapixel camera, biggest battery or most RAM.
-
-The best choice is a phone that offers the right balance of:
-
-Performance + Battery + Display + Camera + 5G + Software Support + Durability + Price
-
-If your budget is around ₹15,000, compare multiple phones and check the current price before purchasing.
-
-Prices and offers change frequently, so always look at the latest available deal rather than relying only on the original launch price.
-
-At VibesDeals, our goal is to help you discover better products, compare important features and make smarter shopping decisions.
-
----
-
-SEO Keywords
-
-best budget smartphone 2026, best budget smartphones 2026, best smartphone under 15000, best phone under 15000, best phone under ₹15000, best mobile under 15000, best mobile under ₹15000, best smartphone under 15000 in India, best 5G phone under 15000, best 5G smartphone under 15000, best budget phone India 2026, best Android phone under 15000, best camera phone under 15000, best gaming phone under 15000, best battery phone under 15000, affordable smartphones 2026, budget smartphones India, budget mobile phones India, best value for money smartphone, best phone for students under 15000, best smartphone for gaming under 15000, best smartphone for camera under 15000, long lasting smartphone under 15000, best smartphone buying guide 2026, smartphone buying guide India, best phones to buy in 2026, top budget phones 2026, affordable 5G phones India, best Android smartphones 2026
-`,
-image: '/assets/best-budget-smartphones-2026.png',
-date: '2026-09-11',
-author: 'VibesDeals Editorial'
-},
-  {
+   best budget smartphone 2026, best budget smartphones 2026, best smartphone under 15000, best phone under 15000, best phone under ₹15000, best mobile under 15000, best mobile under ₹15000, best smartphone under 15000 in India, best 5G phone under 15000, best 5G smartphone under 15000, best budget phone India 2026, best Android phone under 15000, best camera phone under 15000, best gaming phone under 15000, best battery phone under 15000, affordable smartphones 2026, budget smartphones India, budget mobile phones India, best value for money smartphone, best phone for students under 15000, best smartphone for gaming under 15000, best smartphone for camera under 15000, long lasting smartphone under 15000, best smartphone buying guide 2026, smartphone buying guide India, best phones to buy in 2026, top budget phones 2026, affordable 5G phones India, best Android smartphones 2026`,
+   image: '/assets/best-budget-smartphones-2026-Best-Phones-Under-₹15,000-in-India.png',
+   date: '2026-09-11',
+   author: 'VibesDeals Editorial'
+ },
+ {
     id: 'b2',
     title: 'Best Wireless Headphones for Work and Travel',
     slug: 'best-wireless-headphones',
