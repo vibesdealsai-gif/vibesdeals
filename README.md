@@ -80,8 +80,9 @@ Add the required API keys and configuration values to ".env.local".
 npm run dev
 
 Open your browser and visit:
+🌐 Live:  https://vibesdeals.com
+💻 Local: http://localhost:3000
 
-http://localhost:3000
 
 🏗️ Production Build
 
