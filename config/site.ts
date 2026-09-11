@@ -8,7 +8,7 @@ export const siteConfig = {
     twitter: "https://x.com/@prabhudeva_750",
     facebook: "https://facebook.com/@prabhudevaarts",
     pinterest: "https://pinterest.com/@prabhudevaarts",
-    linkedin: "https://linkedin.com/in/prabhudevaarts"
+    linkedin: "https://linkedin.com/in/prabhu-deva-0a743340a"
   },
   links: {
     home: "/",
