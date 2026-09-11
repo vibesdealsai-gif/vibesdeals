@@ -4,10 +4,10 @@ export const siteConfig = {
   description: "Discover trending products, amazing offers, and carefully selected deals from popular online stores.",
   contactEmail: "vibesdeals.ai@gmail.com",
   social: {
-    instagram: "https://instagram.com/@prabhudevaarts",
-    twitter: "https://x.com/@prabhudeva_750",
-    facebook: "https://facebook.com/@prabhudevaarts",
-    pinterest: "https://pinterest.com/@prabhudevaarts",
+    instagram: "https://instagram.com/prabhudevaarts",
+    twitter: "https://x.com/PrabhuDeva_750",
+    facebook: "https://www.facebook.com/prabhudevaarts",
+    pinterest: "https://www.pinterest.com/vibesdealsai",
     linkedin: "https://linkedin.com/in/prabhu-deva-0a743340a"
   },
   links: {
