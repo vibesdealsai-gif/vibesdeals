@@ -771,7 +771,7 @@ export const blogPosts: BlogPost[] = [
    SEO Keywords
 
    best budget smartphone 2026, best budget smartphones 2026, best smartphone under 15000, best phone under 15000, best phone under ₹15000, best mobile under 15000, best mobile under ₹15000, best smartphone under 15000 in India, best 5G phone under 15000, best 5G smartphone under 15000, best budget phone India 2026, best Android phone under 15000, best camera phone under 15000, best gaming phone under 15000, best battery phone under 15000, affordable smartphones 2026, budget smartphones India, budget mobile phones India, best value for money smartphone, best phone for students under 15000, best smartphone for gaming under 15000, best smartphone for camera under 15000, long lasting smartphone under 15000, best smartphone buying guide 2026, smartphone buying guide India, best phones to buy in 2026, top budget phones 2026, affordable 5G phones India, best Android smartphones 2026`,
-   image: '/assets/best-budget-smartphones-2026-Best-Phones-Under-₹15,000-in-India.png',
+   image: '/assets/aistudio/Best Budget Smartphones in 2026 Best Phones Under ₹15,000 in India.png',
    date: '2026-09-11',
    author: 'VibesDeals Editorial'
  },
