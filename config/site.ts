@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Vibes Deals",
   tagline: "Discover Great Deals. Shop Smarter.",
   description: "Discover trending products, amazing offers, and carefully selected deals from popular online stores.",
-  contactEmail: "your-email@example.com",
+  contactEmail: "vibesdeals.ai@gmail.com",
   social: {
     instagram: "https://instagram.com/@prabhudevaarts",
     twitter: "https://x.com/@prabhudeva_750",
