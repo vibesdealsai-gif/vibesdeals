@@ -1,6 +1,8 @@
+export const dynamic = 'force-static';
+
 import { products, blogPosts } from '@/lib/data';
 
-const baseUrl = 'https://vibesdeals.com';
+const baseUrl = 'https://YOUR-DOMAIN.COM';
 
 export default function sitemap() {
   const staticPages = [
@@ -14,22 +16,20 @@ export default function sitemap() {
     '/disclaimer',
   ];
 
-  const productPages = products.map((product) => ({
-    url: `${baseUrl}/product/${product.slug}`,
-    lastModified: new Date(),
-  }));
-
-  const blogPages = blogPosts.map((post) => ({
-    url: `${baseUrl}/blog/${post.slug}`,
-    lastModified: new Date(),
-  }));
-
   return [
     ...staticPages.map((page) => ({
       url: `${baseUrl}${page}`,
       lastModified: new Date(),
     })),
-    ...productPages,
-    ...blogPages,
+
+    ...products.map((product) => ({
+      url: `${baseUrl}/product/${product.slug}`,
+      lastModified: new Date(),
+    })),
+
+    ...blogPosts.map((post) => ({
+      url: `${baseUrl}/blog/${post.slug}`,
+      lastModified: new Date(),
+    })),
   ];
 }
