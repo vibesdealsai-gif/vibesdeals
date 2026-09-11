@@ -2,7 +2,7 @@ export const dynamic = 'force-static';
 
 import { products, blogPosts } from '@/lib/data';
 
-const baseUrl = 'https://YOUR-DOMAIN.COM';
+const baseUrl = 'https://vibesdeals.com';
 
 export default function sitemap() {
   const staticPages = [
