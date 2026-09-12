@@ -10,30 +10,14 @@ export const products: Product[] = [
     category: 'Electronics',
     brand: 'Sony',
     image: '/assets/aistudio/Sony-WH-1000XM6-The-Best-Wireless-Noise.png',
-    description: 'Sony WH-1000XM6 Wireless Noise Cancelling Headphones – Black
+    description: `Sony WH-1000XM6 Wireless Noise Cancelling Headphones – Black
+
     Experience immersive, distraction-free sound with the Sony WH-1000XM6. Designed for music lovers, travelers, professionals, and everyday entertainment, these premium over-ear headphones combine powerful noise cancellation with studio-quality audio.
+
     Powered by Sony’s advanced HD Noise Cancelling Processor QN3 and an intelligent 12-microphone system, the WH-1000XM6 delivers highly effective real-time noise reduction. The Adaptive NC Optimizer automatically adjusts noise cancellation according to your surroundings for a more personalized listening experience.
-    Enjoy rich, detailed audio with Sony’s carefully tuned sound profile, developed with mastering engineers for a more authentic studio-inspired experience. With LDAC support, Bluetooth connectivity, multipoint pairing, and a long-lasting battery, these headphones are built for both convenience and premium listening.
 
-    Key Features:
-      • Advanced Adaptive Noise Cancellation
-      • HD Noise Cancelling Processor QN3
-      • 12-microphone noise-cancellation system
-      • Adaptive NC Optimizer
-      • Studio-quality sound, mastered with engineers
-      • 30 mm driver unit
-      • Bluetooth wireless connectivity
-      • LDAC high-quality audio support
-      • Multipoint connection for two devices
-      • Ambient Sound & Quick Attention modes
-      • Up to 30 hours of battery life with Noise Cancelling ON
-      • Premium over-ear design
-      • Elegant Black finish
-
-    Ideal For: Music, movies, travel, work, calls, gaming, and everyday entertainment.
-
-    Color: Black
-    Model: WH-1000XM6 Industry leading noise cancellation with two processors control 8 microphones for unprecedented noise cancellation. With Auto NC Optimizer, noise canceling is automatically optimized based on your wearing conditions and environment.',
+    Enjoy rich, detailed audio with Sony’s carefully tuned sound profile, developed with mastering engineers for a more authentic studio-inspired experience. With LDAC support, Bluetooth connectivity, multipoint pairing, and a long-lasting battery, these headphones are built for both convenience and premium listening.`,
+    Terms: 'Warranty information is displayed as provided by the seller, and Amazon.in does not take any responsibility for any inaccuracies or claims based on this information.',
     price: 37989.00,
     originalPrice: 49990.00,
     discount: 24,
