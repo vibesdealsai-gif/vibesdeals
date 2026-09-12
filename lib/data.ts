@@ -17,8 +17,8 @@ export const products: Product[] = [
     Powered by Sony’s advanced HD Noise Cancelling Processor QN3 and an intelligent 12-microphone system, the WH-1000XM6 delivers highly effective real-time noise reduction. The Adaptive NC Optimizer automatically adjusts noise cancellation according to your surroundings for a more personalized listening experience.
 
     Enjoy rich, detailed audio with Sony’s carefully tuned sound profile, developed with mastering engineers for a more authentic studio-inspired experience. With LDAC support, Bluetooth connectivity, multipoint pairing, and a long-lasting battery, these headphones are built for both convenience and premium listening.`,
-    price: '₹37989.00',
-    originalPrice: '₹49990.00',
+    price: 37989,
+    originalPrice: 49990,
     discount: 24,
     rating: 4.8,
     reviewCount: 12450,
@@ -64,8 +64,8 @@ Key Features:
 • Fast and intuitive macOS experience
 • Excellent portability for travel and everyday use
 • Premium Apple design and finish`,
-    price: '₹172490.00',
-    originalPrice: '₹185990.00',
+    price: 172490,
+    originalPrice: 185990,
     discount: 7,
     rating: 4.9,
     reviewCount: 3820,
@@ -105,8 +105,8 @@ Key Features:
 • Ideal for everyday meals and snacks
 • Easy and convenient cooking experience
 • Premium Black finish`,
-    price: '₹24690.00',
-    originalPrice: '₹29990.00',
+    price: 24690,
+    originalPrice: 29990,
     discount: 18,
     rating: 4.7,
     reviewCount: 45000,
@@ -146,8 +146,8 @@ Key Features:
 • Premium and modern monitor design
 • Ideal for gaming, streaming, productivity, and creative work
 • Premium Black finish Samsung’s largest 1000R gaming monitor. Get your head in the game with the 49 inch Odyssey G9, which matches the curve of the human eye, for maximum immersion and minimal eye strain.`,
-    price: '₹91999.00',
-    originalPrice: '₹247500.00',
+    price: 91999,
+    originalPrice: 247500,
     discount: 63,
     rating: 4.5,
     reviewCount: 2100,
@@ -187,8 +187,8 @@ Key Features:
 • Lightweight and comfortable design
 • Smart features for everyday convenience
 • Designed for fitness, wellness, and everyday use`,
-    price: '₹14998.00',
-    originalPrice: '₹14999.00',
+    price: 14998,
+    originalPrice: 14999,
     discount: 1,
     rating: 4.3,
     reviewCount: 5600,
@@ -227,8 +227,8 @@ Key Features:
 • Ideal for hot and cold beverages
 • Suitable for home, office, travel, and outdoor use
 • Premium YETI design`,
-    price: '₹5074.00',
-    originalPrice: '₹8119.00',
+    price: 5074,
+    originalPrice: 8119,
     discount: 38,
     rating: 4.8,
     reviewCount: 89000,
@@ -267,8 +267,8 @@ Key Features:
 • Comfortable design for extended use
 • Ideal for office work, productivity, and creative tasks
 • Premium Graphite finish The iconic mouse, remastered. Feel every moment of your workflow with even more precision, tactility, and performance, thanks to Quiet Clicks and an 8,000 DPI track-on-glass sensor.`,
-    price: '₹12995.00',
-    originalPrice: '₹15995.00',
+    price: 12995,
+    originalPrice: 15995,
     discount: 19,
     rating: 4.7,
     reviewCount: 14500,
@@ -297,8 +297,8 @@ Featuring 3 USB-C ports and 1 USB-A port, the charger allows you to charge up to
 Built with GaN charging technology, the charger delivers high-speed and efficient power in a compact design. Its travel-friendly size makes it easy to carry while reducing the need to carry multiple chargers.
 
 Ideal for smartphones, laptops, tablets, and accessories, the Noise 100W GaN Charger is designed to keep your essential devices powered throughout the day.`,
-    price: '₹3999.00',
-    originalPrice: '₹4999.00',
+    price: 3999,
+    originalPrice: 4999,
     discount: 20,
     rating: 4.8,
     reviewCount: 8200,
