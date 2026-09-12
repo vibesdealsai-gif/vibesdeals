@@ -33,18 +33,43 @@ export const products: Product[] = [
   },
   {
     id: 'p2',
-    name: 'Apple MacBook Air M3 (2024) - 13-inch',
-    slug: 'apple-macbook-air-m3-2024',
+    name: 'Apple MacBook Air M3 (2026) - 13-inch',
+    slug: 'apple-macbook-air-m3-2026',
     category: 'Laptops',
     brand: 'Apple',
     image: 'https://picsum.photos/seed/macbook-m3/800/800',
-    description: 'The M3 chip brings even greater capabilities to the superportable 13-inch MacBook Air. With up to 18 hours of battery life, you can take it anywhere and blaze through work and play.',
-    price: 999.00,
-    originalPrice: 1099.00,
-    discount: 9,
+    description: `Apple MacBook Air M3 (2026) – 13-inch
+
+Experience a powerful combination of performance, portability, and elegant design with the Apple MacBook Air M3 13-inch. Built for students, professionals, creators, and everyday users, this lightweight laptop delivers the performance you need for work, entertainment, productivity, and creative projects in a sleek and portable form factor.
+
+Powered by Apple's M3 chip, the MacBook Air is designed to handle everyday tasks smoothly while providing responsive performance for demanding workflows. From browsing the web and managing documents to editing photos, creating presentations, streaming content, and working across multiple applications, the MacBook Air provides a fast and efficient computing experience.
+
+The 13-inch display offers sharp, vibrant visuals with excellent detail, making it ideal for working on documents, watching movies, editing photos, browsing websites, and enjoying your favorite content. The slim bezels and compact design provide an immersive viewing experience while keeping the laptop easy to carry.
+
+With its thin and lightweight construction, the MacBook Air is designed for people who need a computer that can easily move from home to the office, classroom, coffee shop, or while traveling. Its premium aluminum design gives it a refined appearance while providing a sturdy and durable build.
+
+The MacBook Air also offers a comfortable keyboard and responsive trackpad, making everyday navigation, typing, multitasking, and productivity effortless. macOS provides a clean and intuitive user experience with seamless integration across Apple's ecosystem.
+
+Whether you're working on professional projects, attending online meetings, studying, creating content, editing media, browsing the internet, or enjoying entertainment, the Apple MacBook Air M3 13-inch delivers a balanced combination of performance, portability, and premium design.
+
+Key Features:
+• Apple M3 chip for fast and efficient performance
+• 13-inch high-quality display
+• Slim and lightweight portable design
+• Premium aluminum construction
+• Smooth multitasking and responsive performance
+• Comfortable keyboard and precision trackpad
+• Ideal for productivity, study, work, and entertainment
+• Suitable for photo and creative work
+• Fast and intuitive macOS experience
+• Excellent portability for travel and everyday use
+• Premium Apple design and finish`,
+    price: '₹172490.00',
+    originalPrice: '₹185990.00',
+    discount: 7,
     rating: 4.9,
     reviewCount: 3820,
-    affiliateUrl: 'https://affiliate-link.example.com/product/macbook-m3',
+    affiliateUrl: 'https://link.amazon/B040rndGF',
     featured: true,
     trending: true,
     bestseller: true,
@@ -60,13 +85,32 @@ export const products: Product[] = [
     category: 'Home & Kitchen',
     brand: 'Ninja',
     image: 'https://picsum.photos/seed/ninja-fryer/800/800',
-    description: 'Now enjoy guilt-free food. Air fry with up to 75 percent less fat than traditional frying methods. Maximize your counter space with this compact, powerful 4 quart air fryer.',
-    price: 89.99,
-    originalPrice: 129.99,
-    discount: 31,
+    description: `Ninja AF101 Air Fryer – Black
+
+Enjoy deliciously crispy meals with less oil using the Ninja AF101 Air Fryer. Designed for convenient everyday cooking, this compact countertop appliance makes it easy to prepare a variety of favorite foods with a crispy texture and satisfying results.
+
+The Ninja AF101 offers multiple cooking functions, including Air Fry, Roast, Reheat, and Dehydrate, giving you the flexibility to prepare different meals and snacks in one convenient appliance. Its powerful hot-air cooking technology circulates heated air around your food for even cooking and crisping.
+
+The compact design makes it a practical choice for kitchens with limited counter space, while the easy-to-use controls allow you to select your preferred cooking function, temperature, and time with ease.
+
+Whether you're preparing crispy fries, roasted vegetables, reheating leftovers, or making homemade snacks, the Ninja AF101 provides a simple and convenient way to enjoy delicious meals every day.
+
+Key Features:
+• Versatile air frying and cooking appliance
+• Air Fry, Roast, Reheat, and Dehydrate functions
+• Hot-air circulation for crispy results
+• Requires less oil than traditional frying
+• Easy-to-use digital controls
+• Compact countertop-friendly design
+• Ideal for everyday meals and snacks
+• Easy and convenient cooking experience
+• Premium Black finish`,
+    price: '₹24690.00',
+    originalPrice: '₹29990.00',
+    discount: 18,
     rating: 4.7,
     reviewCount: 45000,
-    affiliateUrl: 'https://affiliate-link.example.com/product/ninja-air-fryer',
+    affiliateUrl: 'https://link.amazon/B0iSTmNmk',
     featured: true,
     trending: false,
     bestseller: true,
@@ -82,13 +126,32 @@ export const products: Product[] = [
     category: 'Gaming',
     brand: 'Samsung',
     image: 'https://picsum.photos/seed/samsung-g9/800/800',
-    description: 'Samsung’s largest 1000R gaming monitor. Get your head in the game with the 49 inch Odyssey G9, which matches the curve of the human eye, for maximum immersion and minimal eye strain.',
-    price: 999.99,
-    originalPrice: 1399.99,
-    discount: 29,
+    description: `Samsung 49" Odyssey G9 Gaming Monitor – Black
+
+Take your gaming and entertainment experience to the next level with the Samsung 49" Odyssey G9 Gaming Monitor. Designed for immersive gaming, multitasking, and high-performance entertainment, this ultra-wide monitor delivers an expansive viewing experience with a sleek and premium design.
+
+The super-ultrawide display provides an immersive field of view, allowing you to see more of your game, applications, and content at once. Its curved screen wraps around your field of vision, creating a more engaging experience for gaming and productivity.
+
+With a high refresh rate and fast response performance, the Odyssey G9 is designed to deliver smooth visuals and responsive gameplay. The large screen is also ideal for multitasking, giving you plenty of workspace for multiple windows, applications, and creative projects.
+
+Whether you're gaming, streaming movies, editing content, or managing multiple tasks, the Samsung Odyssey G9 combines an immersive ultra-wide display with powerful gaming-focused features for an exceptional desktop experience.
+
+Key Features:
+• 49-inch super-ultrawide gaming display
+• Immersive curved screen design
+• High refresh rate for smooth gameplay
+• Fast response performance
+• Ultra-wide viewing area for enhanced immersion
+• Excellent for gaming and multitasking
+• Premium and modern monitor design
+• Ideal for gaming, streaming, productivity, and creative work
+• Premium Black finish Samsung’s largest 1000R gaming monitor. Get your head in the game with the 49 inch Odyssey G9, which matches the curve of the human eye, for maximum immersion and minimal eye strain.`,
+    price: '₹91999.00',
+    originalPrice: '₹247500.00',
+    discount: 63,
     rating: 4.5,
     reviewCount: 2100,
-    affiliateUrl: 'https://affiliate-link.example.com/product/samsung-g9',
+    affiliateUrl: 'https://link.amazon/B02XUBrVm',
     featured: true,
     trending: true,
     bestseller: false,
@@ -104,13 +167,32 @@ export const products: Product[] = [
     category: 'Fitness',
     brand: 'Fitbit',
     image: 'https://picsum.photos/seed/fitbit-c6/800/800',
-    description: 'Give your routine a boost with Charge 6, the only fitness tracker with Google built in. Charge 6 has your favorite Google essentials, like Maps and Wallet, right on your wrist.',
-    price: 139.95,
-    originalPrice: 159.95,
-    discount: 13,
+    description: `Fitbit Charge 6 Fitness Tracker – Black
+
+Stay active, motivated, and connected with the Fitbit Charge 6 Fitness Tracker. Designed for everyday fitness and wellness, this sleek and lightweight tracker helps you monitor your activity, workouts, heart rate, sleep, and other important health metrics throughout the day.
+
+Track your workouts and daily movement with built-in GPS and a range of exercise modes. The Charge 6 provides useful insights into your activity levels, helping you understand your progress and stay focused on your fitness goals.
+
+With continuous heart rate tracking, sleep monitoring, and activity tracking, the Fitbit Charge 6 makes it easier to build healthier daily habits. Its comfortable design is suitable for wearing throughout the day, whether you're working, exercising, traveling, or relaxing.
+
+The Fitbit Charge 6 combines fitness tracking, smart features, and a compact design to give you a convenient way to keep an eye on your health and stay connected with your daily goals.
+
+Key Features:
+• Advanced fitness and activity tracking
+• Continuous heart rate monitoring
+• Built-in GPS for workout tracking
+• Sleep tracking and detailed insights
+• Multiple exercise and workout modes
+• Daily activity and step tracking
+• Lightweight and comfortable design
+• Smart features for everyday convenience
+• Designed for fitness, wellness, and everyday use`,
+    price: '₹14998.00',
+    originalPrice: '₹14999.00',
+    discount: 1,
     rating: 4.3,
     reviewCount: 5600,
-    affiliateUrl: 'https://affiliate-link.example.com/product/fitbit-charge-6',
+    affiliateUrl: 'https://amzn.in/d/03J1zoR3',
     featured: false,
     trending: true,
     bestseller: true,
@@ -126,13 +208,31 @@ export const products: Product[] = [
     category: 'Travel',
     brand: 'YETI',
     image: 'https://picsum.photos/seed/yeti-20oz/800/800',
-    description: 'Any tumbler that\'s coming along for the ride needs to be tough enough to keep up. Our Rambler 20 oz. is made from durable stainless steel with double-wall vacuum insulation.',
-    price: 35.00,
-    originalPrice: 35.00,
-    discount: 0,
+    description: `YETI Rambler 20 oz Tumbler – Stainless Steel
+
+Keep your favorite drinks at the right temperature with the YETI Rambler 20 oz Tumbler. Built for everyday use, this durable tumbler combines rugged construction with a convenient size, making it ideal for home, office, travel, road trips, and outdoor adventures.
+
+Made with durable stainless steel, the Rambler is designed to handle everyday use while helping keep cold drinks cold and hot beverages hot. Its insulated construction provides reliable temperature retention, while the sturdy design makes it a dependable companion for busy days and outdoor activities.
+
+The 20 oz capacity offers a practical balance between portability and hydration, making it easy to carry your favorite coffee, tea, water, or other beverages wherever you go.
+
+Designed for convenience and durability, the YETI Rambler 20 oz Tumbler is a great choice for anyone looking for a dependable drinkware solution for everyday adventures.
+
+Key Features:
+• 20 oz practical capacity
+• Durable stainless steel construction
+• Double-wall insulated design
+• Helps maintain beverage temperature
+• Rugged and travel-friendly build
+• Ideal for hot and cold beverages
+• Suitable for home, office, travel, and outdoor use
+• Premium YETI design`,
+    price: '₹5074.00',
+    originalPrice: '₹8119.00',
+    discount: 38,
     rating: 4.8,
     reviewCount: 89000,
-    affiliateUrl: 'https://affiliate-link.example.com/product/yeti-rambler',
+    affiliateUrl: 'https://link.amazon/B0cdpjpV5',
     featured: false,
     trending: true,
     bestseller: true,
@@ -143,18 +243,36 @@ export const products: Product[] = [
   },
   {
     id: 'p7',
-    name: 'Logitech MX Master 3S Wireless Mouse',
-    slug: 'logitech-mx-master-3s',
+    name: 'Logitech MX Master 4 Wireless Mouse',
+    slug: 'logitech-mx-master-4',
     category: 'Office Products',
     brand: 'Logitech',
     image: 'https://picsum.photos/seed/mx-master/800/800',
-    description: 'The iconic mouse, remastered. Feel every moment of your workflow with even more precision, tactility, and performance, thanks to Quiet Clicks and an 8,000 DPI track-on-glass sensor.',
-    price: 99.99,
-    originalPrice: 99.99,
-    discount: 0,
+    description: `Logitech MX Master 4 Wireless Mouse – Graphite
+
+Take your productivity and creative workflow to the next level with the Logitech MX Master 4. Designed for professionals, creators, and everyday users, this premium wireless mouse combines precision, comfort, and advanced controls in a refined ergonomic design.
+
+Enjoy smooth and accurate tracking with responsive cursor control across different surfaces. The advanced scroll wheel provides fast and precise navigation, making it easy to move through long documents, webpages, spreadsheets, and creative projects.
+
+With wireless connectivity and support for multiple devices, the MX Master 4 is designed for a flexible and efficient workspace. Its ergonomic shape provides comfortable support during extended working sessions, while customizable buttons allow you to personalize controls according to your workflow.
+
+Whether you're working on documents, editing content, browsing the web, or managing multiple tasks, the Logitech MX Master 4 offers a premium combination of performance, comfort, and convenience.
+
+Key Features:
+• Premium ergonomic wireless mouse
+• High-precision tracking
+• Advanced scrolling for fast and accurate navigation
+• Customizable buttons for personalized controls
+• Multi-device wireless connectivity
+• Comfortable design for extended use
+• Ideal for office work, productivity, and creative tasks
+• Premium Graphite finish The iconic mouse, remastered. Feel every moment of your workflow with even more precision, tactility, and performance, thanks to Quiet Clicks and an 8,000 DPI track-on-glass sensor.`,
+    price: '₹12995.00',
+    originalPrice: '₹15995.00',
+    discount: 19,
     rating: 4.7,
     reviewCount: 14500,
-    affiliateUrl: 'https://affiliate-link.example.com/product/mx-master-3s',
+    affiliateUrl: 'https://link.amazon/B0ar3EfBc',
     featured: false,
     trending: true,
     bestseller: true,
@@ -165,25 +283,34 @@ export const products: Product[] = [
   },
   {
     id: 'p8',
-    name: 'Anker 735 Charger (GaNPrime 65W)',
-    slug: 'anker-735-charger',
+    name: 'Noise GaN Charger (GaNPrime 100W)',
+    slug: 'Noise-gan-charger',
     category: 'Accessories',
-    brand: 'Anker',
+    brand: 'Noise',
     image: 'https://picsum.photos/seed/anker-charger/800/800',
-    description: 'Power 3 Devices at Once: With 2 USB-C ports and one USB-A port, you can charge your phone, notebook, and earbuds all at once from a single charger.',
-    price: 39.99,
-    originalPrice: 59.99,
-    discount: 33,
+    description: `Noise GaN Charger 100W PD – Black
+
+    Power up your devices quickly and efficiently with the Noise 100W GaN PD Charger. Designed for users who need to charge multiple devices, this compact charger offers a convenient all-in-one charging solution for home, office, and travel.
+
+    Featuring 3 USB-C ports and 1 USB-A port, the charger allows you to charge up to 3 devices simultaneously. With support for PD 3.0 fast charging, it is compatible with a wide range of devices including MacBook Pro, iPhone, Samsung smartphones, tablets, earbuds, and other USB-powered devices.
+
+    Built with GaN charging technology, the charger delivers high-speed and efficient power in a compact design. Its travel-friendly size makes it easy to carry while reducing the need to carry multiple chargers.
+
+    Ideal for smartphones, laptops, tablets, and accessories, the Noise 100W GaN Charger is designed to keep your essential devices powered throughout the day
+    Power 4 Devices at Once: With 3 USB-C ports and one USB-A port, you can charge your phone, notebook, and earbuds all at once from a single charger.',
+    price: '₹3999.00',
+    originalPrice: '₹4999.00',
+    discount: 20,
     rating: 4.8,
     reviewCount: 8200,
-    affiliateUrl: 'https://affiliate-link.example.com/product/anker-735',
+    affiliateUrl: 'https://link.amazon/B0hXWK6G6',
     featured: false,
     trending: false,
     bestseller: true,
-    highlights: ['65W Max Output', 'GaNPrime Technology', '3 Ports (2C1A)'],
-    pros: ['Compact size', 'Powerful enough for laptops', 'Reliable Anker quality'],
+    highlights: ['100W Max Output', 'GaNPrime Technology', '4 Ports (3C1A)'],
+    pros: ['Compact size', 'Powerful enough for laptops', 'Reliable Noise quality'],
     cons: ['Can get warm during heavy use', 'Power splits when using multiple ports'],
-    specs: { 'Output': '65W Max', 'Ports': '2x USB-C, 1x USB-A', 'Technology': 'GaN' }
+    specs: { 'Output': '100W Max', 'Ports': '3x USB-C, 1x USB-A', 'Technology': 'GaN' }
   }
 ];
 
@@ -1233,8 +1360,7 @@ Prices, availability, specifications and offers can change at any time. Please v
 
 ## SEO Keywords
 
-iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in India, iQOO 9 5G price, iQOO 9 5G review, iQOO 9 5G specifications, iQOO 9 12GB RAM, iQOO 9 256GB, iQOO 9 Phoenix, iQOO smartphone 5G, iQOO gaming phone, iQOO fast charging phone, 120W fast charging smartphone, best iQOO phone, iQOO 5G smartphone, performance smartphone India, gaming smartphone India, 12GB RAM smartphone, 256GB storage smartphone, best gaming phone, best performance phone, fast charging phone India, iQOO phone under 50000, iQOO smartphone price India 2026
-`,
+iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in India, iQOO 9 5G price, iQOO 9 5G review, iQOO 9 5G specifications, iQOO 9 12GB RAM, iQOO 9 256GB, iQOO 9 Phoenix, iQOO smartphone 5G, iQOO gaming phone, iQOO fast charging phone, 120W fast charging smartphone, best iQOO phone, iQOO 5G smartphone, performance smartphone India, gaming smartphone India, 12GB RAM smartphone, 256GB storage smartphone, best gaming phone, best performance phone, fast charging phone India, iQOO phone under 50000, iQOO smartphone price India 2026.`,
   image: '/assets/aistudio/iqoo-9-5g-front.png',
   date: '2026-09-11',
   author: 'VibesDeals Editorial'
