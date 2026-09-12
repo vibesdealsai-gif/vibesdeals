@@ -17,8 +17,8 @@ export const products: Product[] = [
     Powered by Sony’s advanced HD Noise Cancelling Processor QN3 and an intelligent 12-microphone system, the WH-1000XM6 delivers highly effective real-time noise reduction. The Adaptive NC Optimizer automatically adjusts noise cancellation according to your surroundings for a more personalized listening experience.
 
     Enjoy rich, detailed audio with Sony’s carefully tuned sound profile, developed with mastering engineers for a more authentic studio-inspired experience. With LDAC support, Bluetooth connectivity, multipoint pairing, and a long-lasting battery, these headphones are built for both convenience and premium listening.`,
-    price: 37989.00,
-    originalPrice: 49990.00,
+    price: '₹37989.00',
+    originalPrice: '₹49990.00',
     discount: 24,
     rating: 4.8,
     reviewCount: 12450,
