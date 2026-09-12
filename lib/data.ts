@@ -481,8 +481,6 @@ Long-Tail Search Topics:
    date: '2026-09-11',
    author: 'VibesDeals Editorial'
  },
-];
-[
 {
   id: 'b2',
   title: 'iQOO 9 5G Review: 12GB RAM, 256GB Storage & 120W FlashCharge',
