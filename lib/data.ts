@@ -37,7 +37,7 @@ export const products: Product[] = [
     slug: 'apple-macbook-air-m3-2026',
     category: 'Laptops',
     brand: 'Apple',
-    image: 'https://picsum.photos/seed/macbook-m3/800/800',
+    image: '/assets/aistudio/Apple-MacBook-Air-M3-2026.png',
     description: `Apple MacBook Air M3 (2026) – 13-inch
 
 Experience a powerful combination of performance, portability, and elegant design with the Apple MacBook Air M3 13-inch. Built for students, professionals, creators, and everyday users, this lightweight laptop delivers the performance you need for work, entertainment, productivity, and creative projects in a sleek and portable form factor.
@@ -84,7 +84,7 @@ Key Features:
     slug: 'ninja-af101-air-fryer',
     category: 'Home & Kitchen',
     brand: 'Ninja',
-    image: 'https://picsum.photos/seed/ninja-fryer/800/800',
+    image: '/assets/aistudio/Ninja-AF101-Air-Fryer.png',
     description: `Ninja AF101 Air Fryer – Black
 
 Enjoy deliciously crispy meals with less oil using the Ninja AF101 Air Fryer. Designed for convenient everyday cooking, this compact countertop appliance makes it easy to prepare a variety of favorite foods with a crispy texture and satisfying results.
@@ -125,7 +125,7 @@ Key Features:
     slug: 'samsung-odyssey-g9-monitor',
     category: 'Gaming',
     brand: 'Samsung',
-    image: 'https://picsum.photos/seed/samsung-g9/800/800',
+    image: '/assets/aistudio/Samsung-49.png',
     description: `Samsung 49" Odyssey G9 Gaming Monitor – Black
 
 Take your gaming and entertainment experience to the next level with the Samsung 49" Odyssey G9 Gaming Monitor. Designed for immersive gaming, multitasking, and high-performance entertainment, this ultra-wide monitor delivers an expansive viewing experience with a sleek and premium design.
@@ -166,7 +166,7 @@ Key Features:
     slug: 'fitbit-charge-6',
     category: 'Fitness',
     brand: 'Fitbit',
-    image: 'https://picsum.photos/seed/fitbit-c6/800/800',
+    image: '/assets/aistudio/Fitbit-Charge-6.png',
     description: `Fitbit Charge 6 Fitness Tracker – Black
 
 Stay active, motivated, and connected with the Fitbit Charge 6 Fitness Tracker. Designed for everyday fitness and wellness, this sleek and lightweight tracker helps you monitor your activity, workouts, heart rate, sleep, and other important health metrics throughout the day.
@@ -207,7 +207,7 @@ Key Features:
     slug: 'yeti-rambler-20oz',
     category: 'Travel',
     brand: 'YETI',
-    image: 'https://picsum.photos/seed/yeti-20oz/800/800',
+    image: '/assets/aistudio/yeti-rambler-20.png',
     description: `YETI Rambler 20 oz Tumbler – Stainless Steel
 
 Keep your favorite drinks at the right temperature with the YETI Rambler 20 oz Tumbler. Built for everyday use, this durable tumbler combines rugged construction with a convenient size, making it ideal for home, office, travel, road trips, and outdoor adventures.
@@ -247,7 +247,7 @@ Key Features:
     slug: 'logitech-mx-master-4',
     category: 'Office Products',
     brand: 'Logitech',
-    image: 'https://picsum.photos/seed/mx-master/800/800',
+    image: '/assets/aistudio/mx-master.png',
     description: `Logitech MX Master 4 Wireless Mouse – Graphite
 
 Take your productivity and creative workflow to the next level with the Logitech MX Master 4. Designed for professionals, creators, and everyday users, this premium wireless mouse combines precision, comfort, and advanced controls in a refined ergonomic design.
@@ -287,7 +287,7 @@ Key Features:
     slug: 'Noise-gan-charger',
     category: 'Accessories',
     brand: 'Noise',
-    image: 'https://picsum.photos/seed/anker-charger/800/800',
+    image: '/assets/aistudio/noise-gan-charger.png',
     description: `Noise GaN Charger 100W PD – Black
 
     Power up your devices quickly and efficiently with the Noise 100W GaN PD Charger. Designed for users who need to charge multiple devices, this compact charger offers a convenient all-in-one charging solution for home, office, and travel.
@@ -335,7 +335,7 @@ export const blogPosts: BlogPost[] = [
      title: 'Best Budget Smartphones in 2026: Best Phones Under ₹15,000 in India',
      slug: 'best-budget-smartphones-2026',
      excerpt: 'Looking for the best budget smartphone in 2026? Discover the best phones under ₹15,000 in India and learn what to check for performance, camera, battery, display, 5G, software updates and long-term value.',
-     content: `Best Budget Smartphones in 2026: Best Phones Under ₹15,000 in India
+     content: 'Best Budget Smartphones in 2026: Best Phones Under ₹15,000 in India
      Looking for the best budget smartphone in 2026 can be confusing. There are more choices than ever, and budget phones now offer features that were once limited to expensive flagship smartphones.
      In 2026, you can find affordable phones with 5G connectivity, high-refresh-rate displays, large batteries, fast charging, capable cameras and powerful processors.
      But choosing the right smartphone is not only about specifications.
@@ -1121,9 +1121,9 @@ Always check the current price before purchasing.
 
 You can check the current product listing here:
 
-https://link.amazon/B0bpQzCWu
 
----
+
+
 
 # Is iQOO 9 5G Good for Students?
 
