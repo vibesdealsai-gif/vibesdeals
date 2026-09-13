@@ -2,7 +2,7 @@ import { ProductCard } from '@/components/ui/ProductCard';
 import { CategoryGrid } from '@/components/ui/CategoryGrid';
 import { HeroSection } from '@/components/ui/HeroSection';
 import { DealOfTheDay } from '@/components/ui/DealOfTheDay';
-import { products, categories, blogPosts } from '@/lib/data';
+import { products, blogPosts } from '@/lib/data';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -20,6 +20,20 @@ import {
   Briefcase,
   TrendingUp,
 } from 'lucide-react';
+const categories = [
+  { name: 'Electronics', slug: 'electronics', icon: 'Cpu' },
+  { name: 'Smartphones', slug: 'smartphones', icon: 'Smartphone' },
+  { name: 'Laptops', slug: 'laptops', icon: 'Laptop' },
+  { name: 'Fashion', slug: 'fashion', icon: 'Shirt' },
+  { name: 'Home & Kitchen', slug: 'home-kitchen', icon: 'Home' },
+  { name: 'Beauty', slug: 'beauty', icon: 'Sparkles' },
+  { name: 'Fitness', slug: 'fitness', icon: 'Dumbbell' },
+  { name: 'Gaming', slug: 'gaming', icon: 'Gamepad2' },
+  { name: 'Accessories', slug: 'accessories', icon: 'Headphones' },
+  { name: 'Travel', slug: 'travel', icon: 'Plane' },
+  { name: 'Office Products', slug: 'office-products', icon: 'Briefcase' },
+  { name: 'Trending Products', slug: 'trending-products', icon: 'TrendingUp' },
+];
 
 export default function Home() {
   const featuredDeals = products.filter(p => p.featured).slice(0, 4);
