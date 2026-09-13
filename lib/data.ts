@@ -391,7 +391,7 @@ highlights: [
   slug: 'iqoo-z11x-5g-prismatic-green-8gb-128gb',
   category: 'Smartphones',
   brand: 'iQOO',
-  image: '/assets/aistudio/iqoo-z11x-5g.png',
+  image: '/assets/aistudio/iqoo-z11x.png',
 
   description: `iQOO Z11x 5G (Prismatic Green, 8GB RAM, 128GB Storage)
 
