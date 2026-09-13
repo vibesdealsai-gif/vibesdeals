@@ -312,7 +312,7 @@ Ideal for smartphones, laptops, tablets, and accessories, the Noise 100W GaN Cha
     specs: { 'Output': '100W Max', 'Ports': '3x USB-C, 1x USB-A', 'Technology': 'GaN' }
   },
   {
-  id: 'p10',
+  id: 'p9',
   name: 'Rockwell 550 GREEN Deep Freezer, 5 Star, Double Door, Fast Cooling',
   slug: 'rockwell-550-green-deep-freezer-5-star-double-door',
   category: 'Home & Kitchen',
@@ -346,16 +346,7 @@ Before purchasing, buyers should verify the latest manufacturer or seller specif
   trending: true,
   bestseller: false,
 
-  highlights: [
-    '550-size deep freezer configuration',
-    '5 Star energy-efficiency rating as specified for the model',
-    'Double-door design',
-    'Fast-cooling design',
-    'Large frozen-storage capacity',
-    'Suitable for commercial and retail use'
-  ],
-    
-keyFeatures: [
+highlights: [
   'Large-capacity deep freezer for frozen-product storage',
   'Double-door configuration for convenient access',
   '5 Star energy-efficiency rating as specified for the model',
