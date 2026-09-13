@@ -361,34 +361,34 @@ export default async function ProductPage({
             </div>
           </section>
         )}
-
+        
         {/* Additional Information */}
-        {product.additionalInfo && (
-          <section className="mt-12">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">
-              Additional Information
-            </h2>
+{product.additionalInformation && (
+  <section className="mt-12">
+    <h2 className="text-2xl font-bold text-gray-900 mb-6">
+      Additional Information
+    </h2>
 
-            <div className="bg-white rounded-xl border border-gray-200 overflow-hidden">
-              {Object.entries(product.additionalInfo).map(
-                ([key, value]) => (
-                  <div
-                    key={key}
-                    className="grid grid-cols-1 sm:grid-cols-2 border-b border-gray-100 last:border-b-0"
-                  >
-                    <div className="p-4 bg-gray-50 font-medium text-gray-600">
-                      {key}
-                    </div>
-
-                    <div className="p-4 text-gray-900">
-                      {value}
-                    </div>
-                  </div>
-                )
-              )}
+    <div className="bg-white rounded-xl border border-gray-200 overflow-hidden">
+      {Object.entries(product.additionalInformation).map(
+        ([key, value]) => (
+          <div
+            key={key}
+            className="grid grid-cols-1 sm:grid-cols-2 border-b border-gray-100 last:border-b-0"
+          >
+            <div className="p-4 bg-gray-50 font-medium text-gray-600">
+              {key}
             </div>
-          </section>
-        )}
+
+            <div className="p-4 text-gray-900">
+              {value}
+            </div>
+          </div>
+        )
+      )}
+    </div>
+  </section>
+)}
 
         {/* Frequently Asked Questions */}
         {product.faq && product.faq.length > 0 && (
