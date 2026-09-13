@@ -383,7 +383,69 @@ highlights: [
     'Best For': 'Ice cream, frozen foods, retail and commercial storage',
     'Usage': 'Commercial / Retail / Food Storage',
     'Brand': 'Rockwell'
-  }
+  },
+  {
+  id: 'p10',
+  name: 'iQOO Z11x 5G (Prismatic Green, 8GB RAM, 128GB Storage)',
+  slug: 'iqoo-z11x-5g-prismatic-green-8gb-128gb',
+  category: 'Smartphones',
+  brand: 'iQOO',
+  image: '/assets/aistudio/iqoo-z11x-5g.png',
+
+  description: `iQOO Z11x 5G (Prismatic Green, 8GB RAM, 128GB Storage)
+
+The iQOO Z11x 5G is designed for users who want a stylish smartphone with fast 5G connectivity, smooth everyday performance, and a modern design. The Prismatic Green finish gives the phone a premium and eye-catching appearance, while the 8GB RAM and 128GB storage configuration provides a practical balance for everyday apps, entertainment, photography, and multitasking.
+
+With 5G connectivity, the iQOO Z11x 5G is built for faster downloads, smoother streaming, responsive browsing, and reliable connectivity where compatible 5G networks are available.
+
+The 8GB RAM configuration helps provide a smooth multitasking experience when switching between applications, while the 128GB internal storage offers useful space for apps, photos, videos, documents, and other personal files.
+
+Whether you are looking for a smartphone for daily communication, social media, entertainment, online shopping, photography, gaming, or work, the iQOO Z11x 5G offers a balanced smartphone experience with a stylish Prismatic Green design.`,
+
+  price: 30999,
+  originalPrice: 30999,
+  discount: 0,
+
+  rating: 4.5,
+  reviewCount: 0,
+
+  affiliateUrl: 'https://link.amazon/B09na4jlx',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    '5G smartphone with modern connectivity',
+    '8GB RAM for smooth multitasking',
+    '128GB internal storage',
+    'Stylish Prismatic Green finish',
+    'Designed for everyday entertainment and productivity'
+  ],
+
+  pros: [
+    'Attractive Prismatic Green design',
+    '8GB RAM provides smooth multitasking',
+    '128GB storage for apps and personal files',
+    '5G connectivity for faster compatible networks',
+    'Suitable for everyday use, entertainment and productivity'
+  ],
+
+  cons: [
+    '128GB storage may be limited for users with a large media library',
+    '5G performance depends on network availability and coverage',
+    'Actual features and specifications may vary by market or variant'
+  ],
+
+  specs: {
+    'Brand': 'iQOO',
+    'Model': 'iQOO Z11x 5G',
+    'Color': 'Prismatic Green',
+    'RAM': '8GB',
+    'Storage': '128GB',
+    'Network': '5G',
+    'Category': 'Smartphone'
+  }   
 },
 ];
 
