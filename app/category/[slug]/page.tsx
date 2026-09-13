@@ -4,7 +4,6 @@ import { products } from '@/lib/data';
 import { ProductCard } from '@/components/ui/ProductCard';
 
 const categoryNames: Record<string, string> = {
-const categoryNames: Record<string, string> = {
   electronics: 'Electronics',
   smartphones: 'Smartphones',
   laptops: 'Laptops',
