@@ -16,9 +16,29 @@ export default function sitemap() {
     '/disclaimer',
   ];
 
+  const categories = [
+    'electronics',
+    'laptops',
+    'gaming',
+    'smartphones',
+    'fitness',
+    'fashion',
+    'beauty',
+    'accessories',
+    'home-kitchen',
+    'office-products',
+    'travel',
+    'trending-products',
+  ];
+
   return [
     ...staticPages.map((page) => ({
       url: `${baseUrl}${page}`,
+      lastModified: new Date(),
+    })),
+
+    ...categories.map((category) => ({
+      url: `${baseUrl}/category/${category}`,
       lastModified: new Date(),
     })),
 
