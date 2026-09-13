@@ -6,7 +6,6 @@ import { products, categories, blogPosts } from '@/lib/data';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
-import {
   ArrowRight,
   Cpu,
   Smartphone,
