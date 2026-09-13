@@ -44,8 +44,55 @@ export default function Home() {
           className="group bg-white rounded-xl border border-gray-200 p-5 text-center hover:border-orange-400 hover:shadow-md transition-all"
         >
           <div className="w-12 h-12 mx-auto mb-3 rounded-full bg-orange-50 flex items-center justify-center">
-            <span className="text-orange-500 text-xl">🛍️</span>
-          </div>
+  {category.icon === 'Cpu' && (
+    <Cpu className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Smartphone' && (
+    <Smartphone className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Laptop' && (
+    <Laptop className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Shirt' && (
+    <Shirt className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Home' && (
+    <HomeIcon className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Sparkles' && (
+    <Sparkles className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Dumbbell' && (
+    <Dumbbell className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Gamepad2' && (
+    <Gamepad2 className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Headphones' && (
+    <Headphones className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Plane' && (
+    <Plane className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'Briefcase' && (
+    <Briefcase className="w-6 h-6 text-orange-500" />
+  )}
+
+  {category.icon === 'TrendingUp' && (
+    <TrendingUp className="w-6 h-6 text-orange-500" />
+  )}
+</div>
+          
 
           <h3 className="font-semibold text-gray-900 group-hover:text-orange-500 transition-colors">
             {category.name}
