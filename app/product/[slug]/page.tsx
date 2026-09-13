@@ -333,7 +333,6 @@ export default async function ProductPage({
           </div>
 
         </section>
-      )}
         
        {/* About This Product */}
         {product.about && (
