@@ -1,8 +1,9 @@
-App/product/[slug]/pagem.tsx
-import { notFound } from 'next/navigation';
+import Image from 'next/image';
 import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import { Check, Info, ShieldCheck, Star, StarHalf, Truck } from 'lucide-react';
 import { products } from '@/lib/data';
-import { ProductCard } from '@/components/ui/ProductCard';
+import { siteConfig } from '@/config/site';
 
 const categoryNames: Record<string, string> = {
 electronics: 'Electronics',
