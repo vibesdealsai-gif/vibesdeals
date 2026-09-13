@@ -5,7 +5,21 @@ import { DealOfTheDay } from '@/components/ui/DealOfTheDay';
 import { products, categories, blogPosts } from '@/lib/data';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowRight } from 'lucide-react';
+import {
+  ArrowRight,
+  Cpu,
+  Smartphone,
+  Laptop,
+  Shirt,
+  Home,
+  Sparkles,
+  Dumbbell,
+  Gamepad2,
+  Headphones,
+  Plane,
+  Briefcase,
+  TrendingUp,
+} from 'lucide-react';
 
 export default function Home() {
   const featuredDeals = products.filter(p => p.featured).slice(0, 4);
