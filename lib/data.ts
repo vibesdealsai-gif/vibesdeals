@@ -615,46 +615,51 @@ additionalInformation: {
 },
 
 faq: [
-{
-question: 'What is Pilgrim 10% Vitamin C Serum used for?',
-answer: 'It is a facial serum designed to support a brighter and more even-looking complexion. It combines Vitamin C, Niacinamide, Hyaluronic Acid and Glycolic Acid in one formula.'
-},
-{
-question: 'What ingredients are present in this Vitamin C serum?',
-answer: 'The product features 10% Vitamin C, 5% Niacinamide, Hyaluronic Acid and Glycolic Acid.'
-},
-{
-question: 'Is this serum suitable for beginners?',
-answer: 'The product is positioned as beginner-friendly. If you are new to active skincare ingredients, follow the product directions and introduce the serum gradually according to your skin tolerance.'
-},
-{
-question: 'Can men and women use this serum?',
-answer: 'Yes. The product is marketed for both men and women.'
-},
-{
-question: 'Which skin types is this serum suitable for?',
-answer: 'The product is marketed for oily, combination and normal skin types. Individual skin response can vary, so follow the manufacturer's instructions.'
-},
-{
-question: 'Does this serum contain Niacinamide?',
-answer: 'Yes. The formula contains 5% Niacinamide.'
-},
-{
-question: 'Does this serum contain Hyaluronic Acid?',
-answer: 'Yes. Hyaluronic Acid is included in the formula and is commonly used in skincare for hydration.'
-},
-{
-question: 'Does this serum contain Glycolic Acid?',
-answer: 'Yes. The formula includes Glycolic Acid, an exfoliating skincare ingredient.'
-},
-{
-question: 'How much product is included?',
-answer: 'The product comes in a 30ml size.'
-},
-{
-question: 'What should I check before buying?',
-answer: 'Check the latest Amazon listing for the current price, ingredients, directions, seller, availability and product information before purchasing.'
-}
+  {
+    question: 'What is Pilgrim 10% Vitamin C Serum used for?',
+    answer:
+      'It is a facial serum designed to support a brighter and more even-looking complexion. It combines Vitamin C, Niacinamide, Hyaluronic Acid and Glycolic Acid in one formula.',
+  },
+  {
+    question: 'What ingredients are present in this Vitamin C serum?',
+    answer:
+      'The product features 10% Vitamin C, 5% Niacinamide, Hyaluronic Acid and Glycolic Acid.',
+  },
+  {
+    question: 'Is this serum suitable for beginners?',
+    answer:
+      'The product is positioned as beginner-friendly. If you are new to active skincare ingredients, follow the product directions and introduce the serum gradually according to your skin tolerance.',
+  },
+  {
+    question: 'Can men and women use this serum?',
+    answer:
+      'Yes. The product is marketed for both men and women.',
+  },
+  {
+    question: 'Which skin types is this serum suitable for?',
+    answer:
+      "The product is marketed for oily, combination and normal skin types. Individual skin response can vary, so follow the manufacturer's instructions.",
+  },
+  {
+    question: 'Does this serum contain Hyaluronic Acid?',
+    answer:
+      'Yes. Hyaluronic Acid is included in the formula and is commonly used in skincare for hydration.',
+  },
+  {
+    question: 'Does this serum contain Glycolic Acid?',
+    answer:
+      'Yes. The formula includes Glycolic Acid, an exfoliating skincare ingredient.',
+  },
+  {
+    question: 'How much product is included?',
+    answer:
+      'The product comes in a 30ml size.',
+  },
+  {
+    question: 'What should I check before buying?',
+    answer:
+      'Check the latest Amazon listing for the current price, ingredients, directions, seller, availability and product information before purchasing.',
+  },
 ],
 
 price: 463,
