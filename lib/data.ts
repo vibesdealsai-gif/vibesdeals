@@ -383,6 +383,7 @@ highlights: [
     'Best For': 'Ice cream, frozen foods, retail and commercial storage',
     'Usage': 'Commercial / Retail / Food Storage',
     'Brand': 'Rockwell'
+  }
   },
   {
   id: 'p10',
