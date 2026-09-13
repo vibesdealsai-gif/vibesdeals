@@ -4,20 +4,20 @@ import { products } from '@/lib/data';
 import { ProductCard } from '@/components/ui/ProductCard';
 
 const categoryNames: Record<string, string> = {
-electronics: 'Electronics',
-smartphones: 'Smartphones',
-laptops: 'Laptops',
-fashion: 'Fashion',
-'home-kitchen': 'Home & Kitchen',
-beauty: 'Beauty',
-fitness: 'Fitness',
-gaming: 'Gaming',
-accessories: 'Accessories',
-travel: 'Travel',
-'office-products': 'Office Products',
-'trending-products': 'Trending Products',
+const categoryNames: Record<string, string> = {
+  electronics: 'Electronics',
+  smartphones: 'Smartphones',
+  laptops: 'Laptops',
+  fashion: 'Fashion',
+  'home-kitchen': 'Home & Kitchen',
+  beauty: 'Beauty',
+  fitness: 'Fitness',
+  gaming: 'Gaming',
+  accessories: 'Accessories',
+  travel: 'Travel',
+  'office-products': 'Office Products',
+  'trending-products': 'Trending Products',
 };
-
 export function generateStaticParams() {
 return Object.keys(categoryNames).map((slug) => ({
 slug,
