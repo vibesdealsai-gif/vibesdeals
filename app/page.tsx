@@ -19,17 +19,42 @@ export default function Home() {
     <>
       <HeroSection />
 
-      {/* Categories Section */}
-      <section id="categories" className="py-12 bg-gray-50 border-b border-gray-100">
-        <div className="container mx-auto px-4">
-          <div className="flex justify-between items-end mb-8">
-            <div>
-              <h2 className="font-jakarta text-2xl font-bold text-gray-900">Shop by Category</h2>
-            </div>
+{/* Categories Section */}
+<section
+  id="categories"
+  className="py-12 bg-gray-50 border-b border-gray-100"
+>
+  <div className="container mx-auto px-4">
+    <div className="flex justify-between items-end mb-8">
+      <div>
+        <h2 className="font-jakarta text-2xl font-bold text-gray-900">
+          Shop by Category
+        </h2>
+        <p className="text-gray-500 mt-2">
+          Explore products by category.
+        </p>
+      </div>
+    </div>
+
+    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+      {categories.map((category) => (
+        <Link
+          key={category.slug}
+          href={`/category/${category.slug}`}
+          className="group bg-white rounded-xl border border-gray-200 p-5 text-center hover:border-orange-400 hover:shadow-md transition-all"
+        >
+          <div className="w-12 h-12 mx-auto mb-3 rounded-full bg-orange-50 flex items-center justify-center">
+            <span className="text-orange-500 text-xl">🛍️</span>
           </div>
-          <CategoryGrid categories={categories} />
-        </div>
-      </section>
+
+          <h3 className="font-semibold text-gray-900 group-hover:text-orange-500 transition-colors">
+            {category.name}
+          </h3>
+        </Link>
+      ))}
+    </div>
+  </div>
+</section>
 
       {/* Today's Best Deals */}
       <section id="deals" className="py-16 bg-white">
