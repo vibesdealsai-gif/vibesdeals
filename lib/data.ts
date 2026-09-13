@@ -1125,8 +1125,6 @@ date: '2026-09-13',
 
 author: 'Vibes Editorial',
 
-category: 'Commercial Appliances',
-
 tags: [
 'Deep Freezer',
 'Ice Cream Freezer',
