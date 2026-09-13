@@ -333,6 +333,93 @@ export default async function ProductPage({
           </div>
 
         </section>
+      )}
+        
+       {/* About This Product */}
+        {product.about && (
+          <section className="mt-12 pt-10 border-t border-gray-100">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">
+              About This Product
+            </h2>
+
+            <div className="max-w-4xl text-gray-700 leading-relaxed whitespace-pre-line">
+              {product.about}
+            </div>
+          </section>
+        )}
+
+        {/* Product Details */}
+        {product.productDetails && (
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">
+              Product Details
+            </h2>
+
+            <div className="bg-gray-50 rounded-xl border border-gray-200 p-6">
+              <p className="text-gray-700 leading-relaxed whitespace-pre-line">
+                {product.productDetails}
+              </p>
+            </div>
+          </section>
+        )}
+
+        {/* Additional Information */}
+        {product.additionalInfo && (
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">
+              Additional Information
+            </h2>
+
+            <div className="bg-white rounded-xl border border-gray-200 overflow-hidden">
+              {Object.entries(product.additionalInfo).map(
+                ([key, value]) => (
+                  <div
+                    key={key}
+                    className="grid grid-cols-1 sm:grid-cols-2 border-b border-gray-100 last:border-b-0"
+                  >
+                    <div className="p-4 bg-gray-50 font-medium text-gray-600">
+                      {key}
+                    </div>
+
+                    <div className="p-4 text-gray-900">
+                      {value}
+                    </div>
+                  </div>
+                )
+              )}
+            </div>
+          </section>
+        )}
+
+        {/* Frequently Asked Questions */}
+        {product.faq && product.faq.length > 0 && (
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">
+              Frequently Asked Questions
+            </h2>
+
+            <div className="space-y-4">
+              {product.faq.map((item, index) => (
+                <details
+                  key={index}
+                  className="group bg-white border border-gray-200 rounded-xl overflow-hidden"
+                >
+                  <summary className="cursor-pointer list-none p-5 font-semibold text-gray-900 flex items-center justify-between">
+                    <span>{item.question}</span>
+
+                    <span className="text-orange-500 text-xl group-open:rotate-45 transition-transform">
+                      +
+                    </span>
+                  </summary>
+
+                  <div className="px-5 pb-5 text-gray-600 leading-relaxed">
+                    {item.answer}
+                  </div>
+                </details>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Related Products */}
         {relatedProducts.length > 0 && (
