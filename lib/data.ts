@@ -1125,26 +1125,24 @@ date: '2026-09-13',
 
 author: 'Vibes Editorial',
 
-tags: [
+tags: 
 'Deep Freezer',
 'Ice Cream Freezer',
 'Commercial Freezer',
 'Glass Top Freezer',
 'Restaurant Equipment',
-'Shop Equipment'
-],
+'Shop Equipment',
 
-price: 30599,
+ price: 30599,
 
 affiliateUrl: 'https://link.amazon/B015ZBN2i',
 
-highlights: [
+highlights: 
 'Glass-top design for better product visibility',
 'Designed for ice cream and frozen-product storage',
 '5 Star energy-efficiency rating as specified for the model',
 'Suitable for commercial and retail environments',
-'Useful for ice cream shops, cafés, restaurants, and stores'
-],
+'Useful for ice cream shops, cafés, restaurants, and stores',
 
 specifications: {
 productType: 'Glass Top Ice Cream Display Deep Freezer',
@@ -1164,15 +1162,14 @@ metaTitle:
 metaDescription:
   'Explore the Rockwell 350GTS 5 Star Glass Top Ice Cream Display Deep Freezer, including features, pros and cons, buying advice, and important specifications to check before buying.',
 
-keywords: [
+keywords: 
   'Rockwell 350GTS',
   'Rockwell 350GTS freezer',
   'ice cream display freezer',
   'glass top deep freezer',
   'commercial deep freezer',
   'ice cream freezer',
-  'commercial freezer'
-]
+  'commercial freezer',
 
 },
 
