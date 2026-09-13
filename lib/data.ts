@@ -310,7 +310,90 @@ Ideal for smartphones, laptops, tablets, and accessories, the Noise 100W GaN Cha
     pros: ['Compact size', 'Powerful enough for laptops', 'Reliable Noise quality'],
     cons: ['Can get warm during heavy use', 'Power splits when using multiple ports'],
     specs: { 'Output': '100W Max', 'Ports': '3x USB-C, 1x USB-A', 'Technology': 'GaN' }
+  },
+  {
+  id: 'p10',
+  name: 'Rockwell 550 GREEN Deep Freezer, 5 Star, Double Door, Fast Cooling',
+  slug: 'rockwell-550-green-deep-freezer-5-star-double-door',
+  category: 'Home & Kitchen',
+  brand: 'Rockwell',
+  image: '/assets/aistudio/rockwell-550-green-deep-freezer.png',
+
+  description: `Rockwell 550 GREEN Deep Freezer, 5 Star, Double Door, Fast Cooling
+
+The Rockwell 550 GREEN Deep Freezer is designed for users and businesses that need reliable frozen-food storage with a spacious double-door configuration. Its large-capacity design makes it suitable for storing ice cream, frozen foods, meat, vegetables, packaged foods, and other products that require deep-freezing.
+
+The double-door configuration provides convenient access to the freezer compartment and can make organizing different types of frozen products easier. The design is particularly useful for retail stores, restaurants, cafés, ice cream businesses, grocery shops, commercial kitchens, and other locations where frozen storage is required on a regular basis.
+
+The model is marketed with a 5 Star energy-efficiency rating, which can be an important consideration for buyers who expect the freezer to operate for extended periods. Actual electricity consumption can vary depending on ambient temperature, loading, usage frequency, temperature settings, and operating conditions.
+
+The fast-cooling design is intended to help the freezer reach and maintain suitable freezing conditions efficiently. For businesses handling frozen products, consistent cooling performance can help maintain product quality when the freezer is used and loaded correctly.
+
+With its large storage format, double-door access, and commercial-oriented design, the Rockwell 550 GREEN can be considered by buyers who need more frozen storage capacity than a typical household freezer can provide.
+
+Before purchasing, buyers should verify the latest manufacturer or seller specifications, including exact capacity, dimensions, power consumption, operating temperature range, warranty coverage, and service availability.`,
+
+  price: 39000,
+  originalPrice: 54774,
+  discount: 29,
+
+  rating: 4.5,
+  reviewCount: 0,
+
+  affiliateUrl: 'https://link.amazon/B0iWPyd31',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    '550-size deep freezer configuration',
+    '5 Star energy-efficiency rating as specified for the model',
+    'Double-door design',
+    'Fast-cooling design',
+    'Large frozen-storage capacity',
+    'Suitable for commercial and retail use'
+  ],
+    
+keyFeatures: [
+  'Large-capacity deep freezer for frozen-product storage',
+  'Double-door configuration for convenient access',
+  '5 Star energy-efficiency rating as specified for the model',
+  'Fast-cooling design',
+  'Suitable for ice cream, frozen foods, and packaged products',
+  'Useful for retail stores, restaurants, cafés, and commercial kitchens',
+  'Designed for regular frozen-storage requirements'
+],
+    
+  pros: [
+    'Large storage space for frozen products',
+    'Double-door design makes access and organization easier',
+    'Suitable for ice cream and frozen-food storage',
+    '5 Star rating can be beneficial for regular operation',
+    'Useful for shops, restaurants, cafés, and commercial kitchens',
+    'Fast-cooling design is useful for maintaining frozen products'
+  ],
+
+  cons: [
+    'Requires significant floor space',
+    'May be excessive for users with low frozen-storage requirements',
+    'Electricity consumption depends on usage and operating conditions',
+    'Exact dimensions and power requirements should be verified before purchase',
+    'Warranty and local service availability should be confirmed'
+  ],
+
+  specs: {
+    'Model': 'Rockwell 550 GREEN',
+    'Product Type': 'Deep Freezer',
+    'Configuration': 'Double Door',
+    'Energy Rating': '5 Star',
+    'Cooling': 'Fast Cooling',
+    'Capacity': '550-class configuration — verify exact rated capacity with seller',
+    'Best For': 'Ice cream, frozen foods, retail and commercial storage',
+    'Usage': 'Commercial / Retail / Food Storage',
+    'Brand': 'Rockwell'
   }
+},
 ];
 
 export const categories: Category[] = [
