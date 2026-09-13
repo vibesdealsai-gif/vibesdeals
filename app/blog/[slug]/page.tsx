@@ -213,23 +213,44 @@ return elements;
 }
 
 function formatInline(text: string): React.ReactNode {
-const parts = text.split(/(**.*?**)/g);
+  const parts: React.ReactNode[] = [];
+  let remaining = text;
+  let key = 0;
 
-return parts.map((part, index) => {
-if (part.startsWith('') && part.endsWith('')) {
-return (
-<strong
-key={index}
-className="font-bold text-gray-900"
->
-{part.slice(2, -2)}
-</strong>
-);
-}
+  while (remaining.length > 0) {
+    const start = remaining.indexOf('**');
 
-return part;
+    if (start === -1) {
+      parts.push(remaining);
+      break;
+    }
 
-});
+    if (start > 0) {
+      parts.push(remaining.substring(0, start));
+    }
+
+    const end = remaining.indexOf('**', start + 2);
+
+    if (end === -1) {
+      parts.push(remaining.substring(start));
+      break;
+    }
+
+    const boldText = remaining.substring(start + 2, end);
+
+    parts.push(
+      <strong
+        key={key++}
+        className="font-bold text-gray-900"
+      >
+        {boldText}
+      </strong>
+    );
+
+    remaining = remaining.substring(end + 2);
+  }
+
+  return parts;
 }
 
 export default async function BlogPostPage({
