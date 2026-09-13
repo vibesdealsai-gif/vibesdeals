@@ -448,6 +448,273 @@ Whether you are looking for a smartphone for daily communication, social media, 
     'Category': 'Smartphone'
   }   
 },
+  {
+id: 'p11',
+name: 'Crocs Unisex Adult Classic Crafted Clog – Comfortable Slip-On Casual Shoes',
+slug: 'crocs-unisex-adult-classic-crafted-clog',
+category: 'Fashion',
+brand: 'Crocs',
+image: '/assets/aistudio/crocs-classic-crafted-clog.png',
+
+description: `Crocs Unisex Adult Classic Crafted Clog is a versatile and comfortable slip-on footwear option designed for everyday casual wear. Known for its lightweight construction, easy-to-wear design, and relaxed fit, the Classic Clog can be suitable for daily activities, casual outings, travel, and leisure.
+
+The iconic clog-style design offers a practical combination of comfort and convenience. Its slip-on construction makes it easy to put on and remove, while the versatile appearance makes it easy to pair with different casual outfits.
+
+The Classic Clog is available in a variety of colours and sizes, although exact colour, size and stock availability may vary depending on the retailer and selected product variant. Always check the Amazon product page for the latest available options before purchasing.`,
+
+about: `The Crocs Unisex Adult Classic Crafted Clog is designed for people looking for comfortable, easy-to-wear footwear for everyday use. Its classic clog silhouette provides a casual look that works well for home, outdoor leisure, travel and everyday activities.
+
+The slip-on construction makes the clog convenient for quick use, while the lightweight design is intended to provide comfortable wear throughout the day. The versatile styling also makes it easy to combine with casual clothing.
+
+Crocs Classic Clogs are available in multiple colour and size options. Since available variants can change, shoppers should verify the selected colour, size and availability on Amazon before placing an order.`,
+
+productDetails: `The Classic Clog features the recognizable Crocs clog design with a slip-on construction for convenient everyday use. Its versatile styling makes it suitable for casual wear, leisure activities, travel and day-to-day use.
+
+The product is designed as unisex adult footwear. Available sizes and colours may vary according to the selected Amazon listing and current stock.
+
+For the most accurate information about the selected variant, including size, colour, seller, price and availability, check the Amazon product page before purchasing.`,
+
+additionalInformation: {
+'Brand': 'Crocs',
+'Product Type': 'Classic Clog',
+'Category': 'Casual Footwear',
+'Gender': 'Unisex Adult',
+'Closure Type': 'Slip-On',
+'Style': 'Clog',
+'Available Sizes': 'Multiple adult sizes; availability may vary',
+'Available Colours': 'Multiple colour options; availability may vary',
+'Use': 'Casual, Everyday, Travel and Leisure',
+'Price': '₹5,495',
+'Original Price': '₹5,495',
+'Discount': '0%',
+'Marketplace': 'Amazon'
+},
+
+faq: [
+{
+question: 'Is the Crocs Classic Clog suitable for men and women?',
+answer: 'Yes. The product is designed as unisex adult footwear. Always check the Amazon size chart and selected variant before ordering.'
+},
+{
+question: 'Are different sizes available?',
+answer: 'Multiple adult sizes may be available, but size availability can change depending on the selected colour and current Amazon stock.'
+},
+{
+question: 'Are different colours available?',
+answer: 'Yes, Crocs Classic Clogs are offered in multiple colour options. Available colours can vary by Amazon listing and stock.'
+},
+{
+question: 'Is this clog suitable for everyday wear?',
+answer: 'The Classic Clog is designed as casual everyday footwear and can be used for activities such as casual outings, travel and leisure.'
+},
+{
+question: 'Is the Crocs Classic Clog easy to wear?',
+answer: 'Yes. Its clog-style slip-on construction is designed to make putting on and removing the footwear convenient.'
+},
+{
+question: 'What should I check before buying?',
+answer: 'Check the selected size, colour, seller, current price and availability on the Amazon product page before completing your purchase.'
+}
+],
+
+price: 5495,
+originalPrice: 5495,
+discount: 0,
+
+rating: 0,
+reviewCount: 0,
+
+affiliateUrl: 'https://link.amazon/B0ghDs7sk',
+
+featured: false,
+trending: true,
+bestseller: false,
+
+highlights: [
+'Classic Crocs clog design for everyday casual wear',
+'Unisex adult footwear',
+'Convenient slip-on construction',
+'Suitable for casual outings, travel and leisure',
+'Multiple colours and sizes may be available',
+'Lightweight and easy-to-wear clog-style footwear'
+],
+
+pros: [
+'Easy slip-on design',
+'Versatile casual styling',
+'Unisex adult design',
+'Multiple colour and size options may be available',
+'Suitable for everyday casual use'
+],
+
+cons: [
+'Price and availability may change',
+'Colour and size availability can vary',
+'Sizing should be checked carefully before ordering',
+'Not intended as specialized performance footwear'
+],
+
+specs: {
+'Brand': 'Crocs',
+'Model': 'Classic Clog',
+'Product Type': 'Casual Clog',
+'Gender': 'Unisex Adult',
+'Closure': 'Slip-On',
+'Style': 'Classic Clog',
+'Available Sizes': 'Multiple adult sizes',
+'Available Colours': 'Multiple colours',
+'Recommended Use': 'Casual, Everyday, Travel and Leisure',
+'Price': '₹5,495',
+'Discount': '0%'
+}
+},
+{
+id: 'p12',
+name: 'Pilgrim 10% Vitamin C Serum 30ml with 5% Niacinamide, Hyaluronic & Glycolic Acid',
+slug: 'pilgrim-10-vitamin-c-serum-5-niacinamide-30ml',
+category: 'Beauty',
+brand: 'Pilgrim',
+image: '/assets/aistudio/pilgrim-vitamin-c-serum.png',
+
+description: `Pilgrim 10% Vitamin C Serum is a beginner-friendly facial serum designed to support a brighter, more even-looking complexion. The formula combines 10% Vitamin C with 5% Niacinamide, Hyaluronic Acid and Glycolic Acid to provide a multi-ingredient skincare routine in a lightweight serum format.
+
+This 30ml serum is designed for men and women and can be considered for different skin types including oily, combination and normal skin. Vitamin C is commonly used in skincare routines for improving the appearance of dull-looking skin, while Niacinamide is widely used to support a balanced-looking complexion. Hyaluronic Acid helps provide hydration, while Glycolic Acid is an exfoliating ingredient commonly used to improve the appearance and texture of skin.
+
+The serum is positioned as beginner-friendly skincare and may be suitable for people looking to add a Vitamin C serum to their daily skincare routine. For best results and tolerance, follow the product label directions and introduce active ingredients gradually if you are new to them.
+
+Always check the latest ingredient list, directions, warnings, seller information and availability on the Amazon product page before purchasing.`,
+
+about: `Pilgrim 10% Vitamin C Serum is a 30ml skincare serum formulated with a combination of Vitamin C, Niacinamide, Hyaluronic Acid and Glycolic Acid. It is designed for people looking to include a brightening and hydrating serum in their skincare routine.
+
+The combination of active skincare ingredients makes this product suitable for users who want to address the appearance of dullness, uneven-looking skin tone and visible dark spots as part of a consistent skincare routine.
+
+The product is marketed for men and women and can be used by people with oily, combination and normal skin types. Since active skincare ingredients can affect different skin types differently, beginners should follow the manufacturer's usage instructions and consider introducing the product gradually.`,
+
+productDetails: `The Pilgrim Vitamin C Serum comes in a 30ml bottle and features a multi-active formula containing 10% Vitamin C, 5% Niacinamide, Hyaluronic Acid and Glycolic Acid.
+
+Vitamin C is commonly included in skincare routines focused on brighter-looking skin. Niacinamide is a popular skincare ingredient used for supporting an even-looking complexion, while Hyaluronic Acid is known for its hydrating properties. Glycolic Acid is an alpha hydroxy acid (AHA) used in skincare for gentle exfoliation and improving the appearance of skin texture.
+
+The product is designed for men and women and is positioned as beginner-friendly skincare. Exact usage frequency and application instructions should always be followed according to the manufacturer's product packaging.`,
+
+additionalInformation: {
+'Brand': 'Pilgrim',
+'Product Type': 'Facial Serum',
+'Net Quantity': '30ml',
+'Vitamin C': '10%',
+'Niacinamide': '5%',
+'Additional Ingredients': 'Hyaluronic Acid & Glycolic Acid',
+'Suitable For': 'Men & Women',
+'Skin Types': 'Oily, Combination & Normal Skin',
+'Usage': 'Follow manufacturer instructions',
+'Skin Concern': 'Dull-looking skin, uneven-looking tone and appearance of dark spots',
+'Experience Level': 'Beginner Friendly',
+'Price': '₹463',
+'Original Price': '₹545',
+'Discount': '15%',
+'Marketplace': 'Amazon'
+},
+
+faq: [
+{
+question: 'What is Pilgrim 10% Vitamin C Serum used for?',
+answer: 'It is a facial serum designed to support a brighter and more even-looking complexion. It combines Vitamin C, Niacinamide, Hyaluronic Acid and Glycolic Acid in one formula.'
+},
+{
+question: 'What ingredients are present in this Vitamin C serum?',
+answer: 'The product features 10% Vitamin C, 5% Niacinamide, Hyaluronic Acid and Glycolic Acid.'
+},
+{
+question: 'Is this serum suitable for beginners?',
+answer: 'The product is positioned as beginner-friendly. If you are new to active skincare ingredients, follow the product directions and introduce the serum gradually according to your skin tolerance.'
+},
+{
+question: 'Can men and women use this serum?',
+answer: 'Yes. The product is marketed for both men and women.'
+},
+{
+question: 'Which skin types is this serum suitable for?',
+answer: 'The product is marketed for oily, combination and normal skin types. Individual skin response can vary, so follow the manufacturer's instructions.'
+},
+{
+question: 'Does this serum contain Niacinamide?',
+answer: 'Yes. The formula contains 5% Niacinamide.'
+},
+{
+question: 'Does this serum contain Hyaluronic Acid?',
+answer: 'Yes. Hyaluronic Acid is included in the formula and is commonly used in skincare for hydration.'
+},
+{
+question: 'Does this serum contain Glycolic Acid?',
+answer: 'Yes. The formula includes Glycolic Acid, an exfoliating skincare ingredient.'
+},
+{
+question: 'How much product is included?',
+answer: 'The product comes in a 30ml size.'
+},
+{
+question: 'What should I check before buying?',
+answer: 'Check the latest Amazon listing for the current price, ingredients, directions, seller, availability and product information before purchasing.'
+}
+],
+
+price: 463,
+originalPrice: 545,
+discount: 15,
+
+rating: 0,
+reviewCount: 0,
+
+affiliateUrl: 'https://link.amazon/B0673qryo',
+
+featured: false,
+trending: true,
+bestseller: false,
+
+highlights: [
+'10% Vitamin C facial serum',
+'Formulated with 5% Niacinamide',
+'Contains Hyaluronic Acid for hydration-focused skincare',
+'Contains Glycolic Acid for exfoliating skincare',
+'30ml convenient serum format',
+'Designed for men and women',
+'Suitable for oily, combination and normal skin types',
+'Beginner-friendly skincare option'
+],
+
+pros: [
+'Combines multiple popular skincare ingredients in one serum',
+'Contains 10% Vitamin C',
+'Includes 5% Niacinamide',
+'Hyaluronic Acid provides hydration-focused skincare',
+'Suitable for men and women',
+'Beginner-friendly positioning',
+'Convenient 30ml size'
+],
+
+cons: [
+'Active ingredients may not suit every skin type',
+'Glycolic Acid can increase sensitivity for some users',
+'Individual results can vary',
+'Patch testing is recommended when introducing new active skincare products',
+'Price and availability may change on Amazon'
+],
+
+specs: {
+'Brand': 'Pilgrim',
+'Product Type': 'Facial Serum',
+'Net Quantity': '30ml',
+'Vitamin C': '10%',
+'Niacinamide': '5%',
+'Hyaluronic Acid': 'Included',
+'Glycolic Acid': 'Included',
+'Suitable Skin Types': 'Oily, Combination & Normal',
+'Suitable For': 'Men & Women',
+'Usage Level': 'Beginner Friendly',
+'Price': '₹463',
+'Original Price': '₹545',
+'Discount': '15%'
+}
+},
 ];
 
 export const categories: Category[] = [
