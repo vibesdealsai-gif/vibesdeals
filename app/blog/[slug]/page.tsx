@@ -10,80 +10,64 @@ slug: post.slug,
 }
 
 function renderContent(content: string) {
-/*
-
-* Support both:
-* 1. HTML content: <p>, <h2>, <ul>, <li>, etc.
-* 2. Existing Markdown/plain text content: ##, ###, -, 1.
-     */
-
-const containsHtml =
-/</?(p|h2|h3|h4|ul|ol|li|strong|em|br|hr|a|blockquote|div)[^>]*>/i.test(
-content
+// HTML content ko directly render karo.
+// Rockwell jaise articles ke liye ye format use hoga.
+if (
+content.includes('<p>') ||
+content.includes('<h2>') ||
+content.includes('<h3>') ||
+content.includes('<ul>') ||
+content.includes('<ol>')
+) {
+return (
+<div
+className="
+text-gray-700
+[&_p]:mb-5
+[&_p]:leading-8
+[&_h2]:text-2xl
+[&_h2]:md:text-3xl
+[&_h2]:font-bold
+[&_h2]:text-gray-900
+[&_h2]:mt-10
+[&_h2]:mb-5
+[&_h3]:text-xl
+[&_h3]:md:text-2xl
+[&_h3]:font-bold
+[&_h3]:text-gray-900
+[&_h3]:mt-8
+[&_h3]:mb-4
+[&_h4]:text-lg
+[&_h4]:font-bold
+[&_h4]:text-gray-900
+[&_h4]:mt-6
+[&_h4]:mb-3
+[&_ul]:list-disc
+[&_ul]:pl-6
+[&_ul]:mb-6
+[&_ol]:list-decimal
+[&_ol]:pl-6
+[&_ol]:mb-6
+[&_li]:mb-2
+[&_li]:leading-7
+[&_strong]:font-bold
+[&_strong]:text-gray-900
+[&_em]:italic
+[&_hr]:my-8
+[&_hr]:border-gray-200
+[&_blockquote]:border-l-4
+[&_blockquote]:border-orange-400
+[&_blockquote]:pl-5
+[&_blockquote]:italic
+"
+dangerouslySetInnerHTML={{ __html: content }}
+/>
 );
-
-/*
-
-* HTML blog content
-  */
-  if (containsHtml) {
-  return (
-   <div
-   className="
-     text-gray-700
-     [&_p]:mb-5
-     [&_p]:leading-8
-     [&_h2]:text-2xl
-     [&_h2]:md:text-3xl
-     [&_h2]:font-bold
-     [&_h2]:text-gray-900
-     [&_h2]:mt-10
-     [&_h2]:mb-5
-     [&_h3]:text-xl
-     [&_h3]:md:text-2xl
-     [&_h3]:font-bold
-     [&_h3]:text-gray-900
-     [&_h3]:mt-8
-     [&_h3]:mb-4
-     [&_h4]:text-lg
-     [&_h4]:font-bold
-     [&_h4]:text-gray-900
-     [&_h4]:mt-6
-     [&_h4]:mb-3
-     [&_ul]:list-disc
-     [&_ul]:pl-6
-     [&_ul]:mb-6
-     [&_ol]:list-decimal
-     [&_ol]:pl-6
-     [&_ol]:mb-6
-     [&_li]:mb-2
-     [&_li]:leading-7
-     [&_strong]:font-bold
-     [&_strong]:text-gray-900
-     [&_em]:italic
-     [&_a]:text-orange-500
-     [&_a]:underline
-     [&_hr]:my-8
-     [&_hr]:border-gray-200
-     [&_blockquote]:border-l-4
-     [&_blockquote]:border-orange-400
-     [&_blockquote]:pl-5
-     [&_blockquote]:italic
-     [&_blockquote]:text-gray-600
-   "
-   dangerouslySetInnerHTML={{ __html: content }}
- />
-
-);
-
 }
 
-/*
-
-* Existing Markdown / plain-text blog content
-  */
-  const lines = content.trim().split('\n');
-  const elements: React.ReactNode[] = [];
+// Existing plain text / Markdown blog support
+const lines = content.trim().split('\n');
+const elements: React.ReactNode[] = [];
 
 let listItems: string[] = [];
 let listType: 'ul' | 'ol' | null = null;
@@ -112,7 +96,7 @@ elements.push(
     >
       {items.map((item, index) => (
         <li key={index} className="leading-7">
-          {formatInline(item.replace(/^\d+\.\s*/, ''))}
+          {formatInline(item.replace(/^[0-9]+\.\s*/, ''))}
         </li>
       ))}
     </ol>
@@ -200,7 +184,7 @@ if (trimmed.startsWith('- ')) {
   return;
 }
 
-if (/^\d+\.\s+/.test(trimmed)) {
+if (/^[0-9]+\.\s+/.test(trimmed)) {
   if (listType !== 'ol') {
     flushList();
     listType = 'ol';
@@ -229,11 +213,7 @@ return elements;
 }
 
 function formatInline(text: string): React.ReactNode {
-/*
-
-* Supports bold text
-  /
-  const parts = text.split(/(**.?**)/g);
+const parts = text.split(/(**.*?**)/g);
 
 return parts.map((part, index) => {
 if (part.startsWith('') && part.endsWith('')) {
@@ -425,4 +405,4 @@ return (
 </div>
 
 );
-}
+    }
