@@ -395,7 +395,7 @@ return (
                 <div className="flex justify-between items-center mt-2">
 
                   <span className="font-bold text-lg text-gray-900">
-                    ${product.price.toFixed(2)}
+                    ${product.price.toLocaleString('en-IN')}
                   </span>
 
                   <a
