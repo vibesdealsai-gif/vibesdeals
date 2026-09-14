@@ -57,8 +57,8 @@ export function DealOfTheDay({ product }: DealOfTheDayProps) {
             </p>
             
             <div className="flex items-baseline gap-4 mb-8">
-              <span className="text-4xl font-bold text-white">${product.price.toFixed(2)}</span>
-              <span className="text-xl text-gray-500 line-through">${product.originalPrice.toFixed(2)}</span>
+              <span className="text-4xl font-bold text-white">${product.price.toLocaleString('en-IN')}</span>
+              <span className="text-xl text-gray-500 line-through">${product.originalPrice.toLocaleString('en-IN')}</span>
               <span className="bg-red-600 text-white text-sm font-bold px-3 py-1 rounded-full">
                 Save {product.discount}%
               </span>
