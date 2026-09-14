@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { products } from '@/lib/data';
 
 export function HeroSection() {
   return (
