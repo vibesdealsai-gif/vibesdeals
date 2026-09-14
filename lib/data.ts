@@ -720,6 +720,179 @@ specs: {
 'Discount': '15%'
 }
 },
+  {
+  id: 'p13',
+  name: 'Crucial E100 NVMe SSD 1TB & 480GB M.2 PCIe Gen4 Internal SSD',
+  slug: 'crucial-e100-nvme-ssd-1tb-480gb',
+  category: 'Electronics',
+  brand: 'Crucial',
+  image: '/assets/aistudio/crucial-e100-ssd.png',
+
+  description: `Crucial E100 M.2 NVMe PCIe Gen4 Internal SSD is designed for users looking to upgrade the storage of compatible laptops and desktop computers. The SSD is available in 1TB and 480GB variants and offers fast storage performance with advertised sequential read speeds of up to 5,000MB/s for the 1TB model and up to 4,700MB/s for the 480GB model.
+
+The 1TB variant, model CT1000E100SSD8, provides more storage space for games, applications, videos, photos and large files. The 480GB variant, model CT480E100SSD8, offers a more affordable storage upgrade for Windows, applications, everyday files and selected games.
+
+With its compact M.2 form factor and PCIe Gen4 NVMe interface, the Crucial E100 is suitable for compatible laptops and desktop PCs. Actual performance depends on the system hardware, PCIe generation, configuration and workload.
+
+Always check your laptop or desktop specifications and the latest Amazon product listing for compatibility, price, seller information, availability and product details before purchasing.`,
+
+  about: `Crucial E100 is an M.2 NVMe PCIe Gen4 internal SSD designed for compatible laptops and desktop computers. It is available in 1TB and 480GB capacities and is intended for users who want to upgrade their system storage.
+
+The 1TB CT1000E100SSD8 variant offers advertised sequential read speeds of up to 5,000MB/s, while the 480GB CT480E100SSD8 variant offers advertised sequential read speeds of up to 4,700MB/s.
+
+The SSD can be used for operating systems, applications, games, documents, photos, videos and other files. Its compact M.2 design makes it suitable for compatible systems with an appropriate M.2 NVMe PCIe slot.
+
+Users should confirm compatibility with their laptop or desktop before purchasing, as actual performance can vary depending on the system configuration.`,
+
+  productDetails: `The Crucial E100 is a PCIe Gen4 NVMe M.2 internal SSD available in 1TB and 480GB storage capacities.
+
+The 1TB variant is model CT1000E100SSD8 and offers an advertised sequential read speed of up to 5,000MB/s. The 480GB variant is model CT480E100SSD8 and offers an advertised sequential read speed of up to 4,700MB/s.
+
+The SSD is designed for compatible laptops and desktop computers and can be used as primary or additional storage where supported. It is suitable for operating systems, applications, games and general file storage.
+
+Actual performance may vary depending on the motherboard or laptop, PCIe generation, system configuration, workload and other hardware. Check your device specifications before purchasing.`,
+
+  additionalInformation: {
+    'Brand': 'Crucial',
+    'Product Type': 'Internal NVMe SSD',
+    'Series': 'Crucial E100',
+    'Form Factor': 'M.2',
+    'Interface': 'PCIe Gen4 NVMe',
+    'Available Capacities': '480GB & 1TB',
+    '1TB Model': 'CT1000E100SSD8',
+    '480GB Model': 'CT480E100SSD8',
+    '1TB Read Speed': 'Up to 5,000MB/s',
+    '480GB Read Speed': 'Up to 4,700MB/s',
+    '1TB Colour': 'White/Blue',
+    '480GB Colour': 'White/Black',
+    'Suitable For': 'Compatible Laptop & Desktop',
+    '1TB Price': '₹15,999',
+    '1TB Original Price': '₹15,999',
+    '1TB Discount': '0%',
+    '480GB Price': '₹9,300',
+    '480GB Original Price': '₹10,500',
+    '480GB Discount': '11%',
+    'Marketplace': 'Amazon'
+  },
+
+  faq: [
+    {
+      question: 'What is the Crucial E100 SSD?',
+      answer:
+        'The Crucial E100 is an M.2 NVMe PCIe Gen4 internal SSD designed for compatible laptops and desktop computers.',
+    },
+    {
+      question: 'What storage capacities are available for the Crucial E100?',
+      answer:
+        'The Crucial E100 is available in 480GB and 1TB variants.',
+    },
+    {
+      question: 'What is the read speed of the Crucial E100 1TB?',
+      answer:
+        'The 1TB CT1000E100SSD8 variant has an advertised sequential read speed of up to 5,000MB/s.',
+    },
+    {
+      question: 'What is the read speed of the Crucial E100 480GB?',
+      answer:
+        'The 480GB CT480E100SSD8 variant has an advertised sequential read speed of up to 4,700MB/s.',
+    },
+    {
+      question: 'Is the Crucial E100 compatible with laptops?',
+      answer:
+        'It can be used with compatible laptops that support an M.2 NVMe PCIe SSD. Check your laptop specifications before purchasing.',
+    },
+    {
+      question: 'Can I use the Crucial E100 in a desktop PC?',
+      answer:
+        'Yes. It can be used in a compatible desktop motherboard with an appropriate M.2 NVMe PCIe slot.',
+    },
+    {
+      question: 'Which Crucial E100 variant should I buy?',
+      answer:
+        'The 1TB variant is better for users who need more storage for games, applications and large files. The 480GB variant is a more affordable option for everyday storage and system upgrades.',
+    },
+    {
+      question: 'Does the Crucial E100 support PCIe Gen4?',
+      answer:
+        'Yes. The Crucial E100 uses a PCIe Gen4 NVMe interface. Actual performance depends on the supported hardware and system configuration.',
+    },
+    {
+      question: 'Will the SSD provide 5,000MB/s on every computer?',
+      answer:
+        'No. The maximum advertised speed requires compatible hardware and system conditions. Actual performance can vary depending on the computer and workload.',
+    },
+    {
+      question: 'What should I check before buying the Crucial E100?',
+      answer:
+        'Check that your laptop or desktop supports an M.2 NVMe PCIe SSD and verify the latest Amazon listing for price, specifications, seller and availability.',
+    },
+  ],
+
+  price: 9300,
+  originalPrice: 10500,
+  discount: 11,
+
+  rating: 0,
+  reviewCount: 0,
+
+  affiliateUrl: 'https://link.amazon/B0cKCIcgo',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    'Available in 480GB and 1TB storage capacities',
+    'PCIe Gen4 NVMe internal SSD',
+    '1TB variant with advertised read speeds up to 5,000MB/s',
+    '480GB variant with advertised read speeds up to 4,700MB/s',
+    'Compact M.2 form factor',
+    'Designed for compatible laptops and desktop computers',
+    '1TB model: CT1000E100SSD8',
+    '480GB model: CT480E100SSD8',
+    'Suitable for operating systems, applications, games and files'
+  ],
+
+  pros: [
+    'Fast PCIe Gen4 NVMe interface',
+    '1TB variant offers up to 5,000MB/s advertised read speed',
+    '480GB variant offers up to 4,700MB/s advertised read speed',
+    'Available in multiple storage capacities',
+    'Compact M.2 form factor',
+    'Suitable for compatible laptops and desktop computers',
+    '1TB option provides more storage for large files and applications'
+  ],
+
+  cons: [
+    'Maximum advertised speed requires compatible PCIe Gen4 hardware',
+    'Actual performance can vary depending on the system',
+    'Older systems may not achieve the maximum advertised speed',
+    'Compatibility should be checked before purchase',
+    'Price and availability may change on Amazon'
+  ],
+
+  specs: {
+    'Brand': 'Crucial',
+    'Product Series': 'E100',
+    'Product Type': 'Internal NVMe SSD',
+    'Form Factor': 'M.2',
+    'Interface': 'PCIe Gen4 NVMe',
+    'Storage Capacity': '480GB / 1TB',
+    '1TB Model': 'CT1000E100SSD8',
+    '480GB Model': 'CT480E100SSD8',
+    '1TB Read Speed': 'Up to 5,000MB/s',
+    '480GB Read Speed': 'Up to 4,700MB/s',
+    '1TB Colour': 'White/Blue',
+    '480GB Colour': 'White/Black',
+    'Compatibility': 'Laptop & Desktop',
+    '1TB Price': '₹15,999',
+    '1TB Original Price': '₹15,999',
+    '1TB Discount': '0%',
+    '480GB Price': '₹9,300',
+    '480GB Original Price': '₹10,500',
+    '480GB Discount': '11%'
+  }
+  },
 ];
 
 export const categories: Category[] = [
