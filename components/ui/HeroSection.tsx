@@ -3,6 +3,8 @@ import Link from 'next/link';
 import { products } from '@/lib/data';
 
 export function HeroSection() {
+  const heroProducts = products.slice(0, 2);
+  
   return (
     <section className="relative w-full bg-[#131921] overflow-hidden pt-12 pb-20 md:pt-20 md:pb-28">
       {/* Background decoration */}
