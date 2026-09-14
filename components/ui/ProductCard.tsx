@@ -68,9 +68,9 @@ export function ProductCard({ product }: ProductCardProps) {
 
         {/* Price */}
         <div className="flex items-baseline gap-2 mb-4">
-          <span className="text-xl font-bold text-gray-900">${product.price.toFixed(2)}</span>
+          <span className="text-xl font-bold text-gray-900">${product.price.toLocaleString('en-IN')}</span>
           {product.originalPrice > product.price && (
-            <span className="text-sm text-gray-500 line-through">${product.originalPrice.toFixed(2)}</span>
+            <span className="text-sm text-gray-500 line-through">${product.originalPrice.toLocaleString('en-IN')}</span>
           )}
         </div>
 
