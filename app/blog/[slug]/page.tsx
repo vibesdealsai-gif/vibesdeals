@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { blogPosts, products } from '@/lib/data';
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
 return blogPosts.map((post) => ({
 slug: post.slug,
 }));
