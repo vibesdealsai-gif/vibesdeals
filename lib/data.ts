@@ -893,6 +893,250 @@ Actual performance may vary depending on the motherboard or laptop, PCIe generat
     '480GB Discount': '11%'
   }
   },
+  {
+  id: 'p14',
+  name: 'ASUS ROG Zephyrus G14 RTX 5070 Ti Gaming Laptop Ryzen AI 9 HX 370',
+  slug: 'asus-rog-zephyrus-g14-review-rtx-5070-ti-ryzen',
+  category: 'Electronics',
+  brand: 'ASUS',
+  image: '/assets/aistudio/asus-rog-zephyrus-g14-rtx-5070-ti.png',
+
+  description: `ASUS ROG Zephyrus G14 is a premium compact gaming laptop designed for gamers, creators and professionals who want powerful performance in a portable 14-inch form factor.
+
+This configuration features an AMD Ryzen AI 9 HX 370 processor with 12 cores and 24 threads, NVIDIA GeForce RTX 5070 Ti Laptop GPU with 12GB GDDR7 VRAM, 32GB LPDDR5X memory and a 2TB PCIe 4.0 NVMe SSD.
+
+The laptop also features a 14-inch 3K OLED display with a 2880 x 1800 resolution and 120Hz refresh rate. The display is designed for gaming and content creation with 100% DCI-P3 colour coverage, G-Sync/Adaptive-Sync support and a 16:10 aspect ratio.
+
+The combination of a powerful Ryzen AI processor, RTX 5070 Ti graphics and high-resolution OLED display makes the ROG Zephyrus G14 suitable for gaming, video editing, 3D work, programming, AI-assisted workloads and everyday productivity.
+
+Actual performance, battery life, temperatures and gaming FPS may vary depending on software, drivers, power mode, workload and system configuration.
+
+Always check the latest Amazon listing for the exact model, price, seller, warranty, availability and specifications before purchasing.`,
+
+  about: `ASUS ROG, which stands for Republic of Gamers, is ASUS's gaming-focused product brand. The ROG product family includes gaming laptops, desktops, monitors, graphics cards, motherboards, peripherals and other gaming hardware.
+
+The ROG Zephyrus series focuses on combining powerful gaming hardware with a relatively slim and portable design. The Zephyrus G14 is designed for users who want high-performance hardware in a compact 14-inch laptop.
+
+The ASUS ROG Zephyrus G14 configuration featured here combines an AMD Ryzen AI 9 HX 370 processor with an NVIDIA GeForce RTX 5070 Ti Laptop GPU, 32GB RAM, 2TB SSD and a 3K 120Hz OLED display.
+
+It is designed for demanding gaming and productivity workloads while maintaining a compact form factor.
+
+Specifications can vary between different G14 configurations and regions, so buyers should verify the exact model available on Amazon before purchasing.`,
+
+  productDetails: `The ASUS ROG Zephyrus G14 is a premium 14-inch gaming laptop equipped with an AMD Ryzen AI 9 HX 370 processor and NVIDIA GeForce RTX 5070 Ti Laptop GPU.
+
+The Ryzen AI 9 HX 370 processor features 12 cores and 24 threads with boost speeds of up to 5.1GHz. The processor also includes an AMD XDNA NPU designed to accelerate supported AI workloads.
+
+For graphics, the laptop uses an NVIDIA GeForce RTX 5070 Ti Laptop GPU with 12GB GDDR7 VRAM. The dedicated GPU is designed for demanding games, creative applications, rendering and other GPU-intensive workloads.
+
+The laptop features 32GB LPDDR5X RAM and a 2TB PCIe 4.0 NVMe SSD, providing substantial memory and storage for games, applications, videos, projects and large files.
+
+Its 14-inch 3K OLED display has a 2880 x 1800 resolution, 120Hz refresh rate, 16:10 aspect ratio and 100% DCI-P3 colour coverage. It also supports features such as G-Sync/Adaptive-Sync and NVIDIA Advanced Optimus on supported configurations.
+
+The compact 14-inch design makes the Zephyrus G14 suitable for users who want a high-performance laptop that is easier to carry than many larger gaming laptops.
+
+Actual performance depends on the game, application, drivers, thermal conditions, power mode and system configuration.`,
+
+  additionalInformation: {
+    'Brand': 'ASUS',
+    'Product Series': 'ROG Zephyrus',
+    'Model': 'ROG Zephyrus G14',
+    'Generation': '2025',
+    'Product Type': 'Gaming Laptop',
+    'Processor Brand': 'AMD',
+    'Processor': 'AMD Ryzen AI 9 HX 370',
+    'CPU Cores': '12 Cores',
+    'CPU Threads': '24 Threads',
+    'CPU Boost Speed': 'Up to 5.1GHz',
+    'NPU': 'AMD XDNA NPU, up to 50 TOPS',
+    'Graphics': 'NVIDIA GeForce RTX 5070 Ti Laptop GPU',
+    'GPU Memory': '12GB GDDR7',
+    'Display Size': '14-inch',
+    'Display Type': 'OLED',
+    'Display Resolution': '2880 x 1800 (3K)',
+    'Refresh Rate': '120Hz',
+    'Aspect Ratio': '16:10',
+    'Colour Coverage': '100% DCI-P3',
+    'RAM': '32GB LPDDR5X',
+    'Storage': '2TB PCIe 4.0 NVMe SSD',
+    'Operating System': 'Windows 11',
+    'Display Technology': 'ROG Nebula OLED',
+    'Sync Technology': 'G-Sync / Adaptive-Sync',
+    'Graphics Switching': 'MUX Switch + NVIDIA Advanced Optimus',
+    'Suitable For': 'Gaming, Video Editing, 3D Work, Programming & Content Creation',
+    'Price': '₹2,59,990',
+    'Original Price': '₹3,11,990',
+    'Discount': '17%',
+    'Marketplace': 'Amazon'
+  },
+
+  faq: [
+    {
+      question: 'What is the ASUS ROG Zephyrus G14 RTX 5070 Ti?',
+      answer:
+        'The ASUS ROG Zephyrus G14 RTX 5070 Ti is a premium 14-inch gaming laptop featuring an AMD Ryzen AI 9 HX 370 processor and NVIDIA GeForce RTX 5070 Ti Laptop GPU with 12GB GDDR7 VRAM.',
+    },
+    {
+      question: 'Which processor does the ASUS ROG Zephyrus G14 use?',
+      answer:
+        'This configuration uses the AMD Ryzen AI 9 HX 370 processor with 12 cores, 24 threads and boost speeds of up to 5.1GHz.',
+    },
+    {
+      question: 'How much RAM does the ASUS ROG Zephyrus G14 have?',
+      answer:
+        'The configuration featured in this article comes with 32GB LPDDR5X RAM.',
+    },
+    {
+      question: 'How much storage does the ASUS ROG Zephyrus G14 have?',
+      answer:
+        'This configuration comes with a 2TB PCIe 4.0 NVMe SSD.',
+    },
+    {
+      question: 'What graphics card does the ASUS ROG Zephyrus G14 have?',
+      answer:
+        'The laptop features an NVIDIA GeForce RTX 5070 Ti Laptop GPU with 12GB GDDR7 graphics memory.',
+    },
+    {
+      question: 'Does the ASUS ROG Zephyrus G14 have an OLED display?',
+      answer:
+        'Yes. The laptop features a 14-inch 3K OLED display with a 2880 x 1800 resolution and 120Hz refresh rate.',
+    },
+    {
+      question: 'What is the display resolution of the ASUS ROG Zephyrus G14?',
+      answer:
+        'The 14-inch OLED display has a 2880 x 1800 3K resolution and a 16:10 aspect ratio.',
+    },
+    {
+      question: 'Is the ASUS ROG Zephyrus G14 good for gaming?',
+      answer:
+        'The combination of the Ryzen AI 9 HX 370 processor, RTX 5070 Ti Laptop GPU and 120Hz OLED display makes this configuration suitable for demanding PC gaming. Actual gaming performance depends on the game, settings, drivers and power mode.',
+    },
+    {
+      question: 'Is the ASUS ROG Zephyrus G14 good for video editing?',
+      answer:
+        'Yes. The powerful processor, RTX 5070 Ti GPU, 32GB RAM and high-resolution OLED display make the laptop suitable for demanding video editing and content creation workloads.',
+    },
+    {
+      question: 'Is the ASUS ROG Zephyrus G14 suitable for programming?',
+      answer:
+        'Yes. The Ryzen AI 9 HX 370 processor, 32GB RAM and 2TB SSD provide substantial hardware for programming, development tools, virtual machines and multitasking.',
+    },
+    {
+      question: 'How much VRAM does the RTX 5070 Ti G14 have?',
+      answer:
+        'The RTX 5070 Ti Laptop GPU configuration features 12GB of GDDR7 VRAM.',
+    },
+    {
+      question: 'What is the refresh rate of the G14 OLED display?',
+      answer:
+        'The 14-inch 3K OLED display has a 120Hz refresh rate.',
+    },
+    {
+      question: 'What is the price of ASUS ROG Zephyrus G14 RTX 5070 Ti?',
+      answer:
+        'The deal price provided for this product is ₹2,59,990, compared with an original price of ₹3,11,990 and a listed discount of 17%. Amazon prices and availability may change.',
+    },
+    {
+      question: 'Should I check the model number before buying?',
+      answer:
+        'Yes. ASUS ROG Zephyrus G14 is available in multiple configurations. Always verify the exact processor, GPU, RAM, storage, display and model information on the Amazon listing before purchasing.',
+    },
+    {
+      question: 'Can the ASUS ROG Zephyrus G14 be used for AI workloads?',
+      answer:
+        'Yes. The Ryzen AI processor includes an NPU for supported AI workloads, while the RTX 5070 Ti GPU can accelerate compatible GPU-based AI and creative applications.',
+    },
+  ],
+
+  price: 259990,
+  originalPrice: 311990,
+  discount: 17,
+
+  rating: 0,
+  reviewCount: 0,
+
+  affiliateUrl: 'https://link.amazon/B08CinRPf',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    'AMD Ryzen AI 9 HX 370 processor',
+    '12 CPU cores and 24 threads',
+    'Boost speed up to 5.1GHz',
+    'NVIDIA GeForce RTX 5070 Ti Laptop GPU',
+    '12GB GDDR7 dedicated graphics memory',
+    '14-inch 3K OLED display',
+    '2880 x 1800 display resolution',
+    '120Hz OLED refresh rate',
+    '100% DCI-P3 colour coverage',
+    '32GB LPDDR5X RAM',
+    '2TB PCIe 4.0 NVMe SSD',
+    '16:10 display aspect ratio',
+    'G-Sync / Adaptive-Sync support',
+    'MUX Switch and NVIDIA Advanced Optimus',
+    'Compact 14-inch premium gaming design',
+    'Suitable for gaming, editing, programming and content creation'
+  ],
+
+  pros: [
+    'Powerful AMD Ryzen AI 9 HX 370 processor',
+    'NVIDIA RTX 5070 Ti GPU with 12GB GDDR7 VRAM',
+    'High-resolution 3K OLED display',
+    'Fast 120Hz refresh rate',
+    '100% DCI-P3 colour coverage',
+    '32GB LPDDR5X RAM',
+    'Large 2TB PCIe 4.0 NVMe SSD',
+    'Compact 14-inch form factor',
+    'Suitable for gaming and professional workloads',
+    'Useful for video editing and content creation',
+    'MUX Switch and NVIDIA Advanced Optimus support',
+    'Premium ROG Zephyrus design'
+  ],
+
+  cons: [
+    'Premium price of ₹2,59,990',
+    'Compact chassis may run warm during demanding workloads',
+    'Fans can become noticeable under heavy gaming or rendering',
+    '14-inch display may feel small for users who prefer larger gaming screens',
+    'LPDDR5X memory is onboard on applicable configurations',
+    'Maximum performance depends on power mode and thermal conditions',
+    'Exact specifications can vary by model and region',
+    'Amazon price and availability may change'
+  ],
+
+  specs: {
+    'Brand': 'ASUS',
+    'Series': 'ROG Zephyrus',
+    'Model': 'ROG Zephyrus G14',
+    'Generation': '2025',
+    'Product Type': 'Gaming Laptop',
+    'Processor': 'AMD Ryzen AI 9 HX 370',
+    'CPU Cores': '12',
+    'CPU Threads': '24',
+    'CPU Boost': 'Up to 5.1GHz',
+    'NPU': 'AMD XDNA, up to 50 TOPS',
+    'Graphics Card': 'NVIDIA GeForce RTX 5070 Ti Laptop GPU',
+    'GPU VRAM': '12GB GDDR7',
+    'Display Size': '14-inch',
+    'Display Type': 'OLED',
+    'Resolution': '2880 x 1800 (3K)',
+    'Refresh Rate': '120Hz',
+    'Aspect Ratio': '16:10',
+    'Colour Coverage': '100% DCI-P3',
+    'RAM': '32GB LPDDR5X',
+    'Storage': '2TB PCIe 4.0 NVMe SSD',
+    'Operating System': 'Windows 11',
+    'Display Technology': 'ROG Nebula OLED',
+    'Sync': 'G-Sync / Adaptive-Sync',
+    'Graphics Switching': 'MUX Switch + NVIDIA Advanced Optimus',
+    'Use Case': 'Gaming, Editing, Programming & Content Creation',
+    'Price': '₹2,59,990',
+    'Original Price': '₹3,11,990',
+    'Discount': '17%'
+  }
+},
 ];
 
 export const categories: Category[] = [
