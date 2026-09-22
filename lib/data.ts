@@ -1137,6 +1137,243 @@ Actual performance depends on the game, application, drivers, thermal conditions
     'Discount': '17%'
   }
 },
+  {
+  id: 'p15',
+  name: 'EUCOS 62" Phone Tripod Stand with Remote for iPhone & Android',
+  slug: 'eucos-62-inch-phone-tripod-stand-with-remote',
+  category: 'Electronics',
+  brand: 'EUCOS',
+  image: '/assets/aistudio/eucos-62-inch-phone-tripod.png',
+
+  description: `EUCOS 62" Phone Tripod Stand is a versatile mobile tripod and selfie stick designed for iPhone and Android smartphones.
+
+The tripod features an extendable design with a maximum height of 62 inches, allowing users to capture photos, videos, selfies, Reels, vlogs and other content from a comfortable height.
+
+It includes a wireless Bluetooth remote shutter that allows users to capture photos and videos remotely without touching the smartphone.
+
+The adjustable phone holder supports portrait and landscape shooting, making it suitable for social media content, video calls, photography, YouTube videos and everyday smartphone use.
+
+The EUCOS phone tripod combines a portable design with a sturdy aluminum and modified Nylon PA6/6 construction. It is designed primarily for smartphones and is suitable for users who want a flexible tripod and selfie stick combination.
+
+Actual stability and performance may vary depending on the smartphone, phone case, accessories, surface and shooting conditions.
+
+Always check the latest Amazon listing for the exact model, price, seller, warranty, availability and specifications before purchasing.`,
+
+  about: `EUCOS is a consumer accessories brand focused on products designed for smartphones, photography and content creation.
+
+The EUCOS 62" Phone Tripod is designed to combine the functionality of a traditional phone tripod and a selfie stick in one portable product.
+
+This model is aimed at smartphone users who want an adjustable stand for selfies, photography, video recording, social media content, vlogging and video calls.
+
+The tripod includes a Bluetooth remote shutter and an adjustable smartphone holder, providing a convenient hands-free shooting experience.
+
+Product specifications and included accessories can vary by model, seller and region, so buyers should verify the exact Amazon listing before purchasing.`,
+
+  productDetails: `The EUCOS 62" Phone Tripod Stand is a multi-purpose smartphone tripod designed for iPhone and Android devices.
+
+Its extendable structure can reach up to 62 inches, making it suitable for standing photography, full-body photos, group pictures, Reels, YouTube videos and vlogging.
+
+The included Bluetooth wireless remote allows users to trigger the smartphone camera remotely. This can be particularly useful for selfies, group photos and hands-free video recording.
+
+The adjustable phone holder supports different shooting orientations, including portrait and landscape modes. The phone mount can be rotated to help users find a suitable viewing angle.
+
+The tripod also features a cold-shoe expansion mount that can be used with compatible accessories such as microphones or LED lights.
+
+Its aluminum and modified Nylon PA6/6 construction provides a balance between portability and stability for everyday smartphone use.
+
+The product is primarily designed for smartphones rather than heavy professional camera equipment. Users should check the total weight of their phone and accessories before attaching additional equipment.`,
+
+  additionalInformation: {
+    'Brand': 'EUCOS',
+    'Product Series': 'Phone Tripod / Selfie Stick',
+    'Model': 'EUTP-010',
+    'Product Type': 'Phone Tripod Stand',
+    'Maximum Height': '62 inches',
+    'Approx. Maximum Height': '157.5 cm',
+    'Material': 'Aluminum + Modified Nylon PA6/6',
+    'Compatible Devices': 'iPhone & Android Smartphones',
+    'Phone Holder Width': 'Approx. 2.2–3.6 inches',
+    'Remote': 'Bluetooth Wireless Remote Shutter',
+    'Remote Battery': 'CR2032',
+    'Phone Rotation': '360°',
+    'Tripod Head Adjustment': 'Adjustable',
+    'Cold Shoe Mount': 'Yes',
+    'Weight Capacity': 'Up to approximately 2.2 lb',
+    'Design': 'Extendable Tripod + Selfie Stick',
+    'Suitable For': 'Selfies, Photography, Reels, Vlogging & Video Calls',
+    'Use Case': 'Mobile Content Creation',
+    'Price': '₹2,299',
+    'Original Price': '₹3,399',
+    'Discount': '32%',
+    'Marketplace': 'Amazon'
+  },
+
+  faq: [
+    {
+      question: 'What is the EUCOS 62" Phone Tripod?',
+      answer:
+        'The EUCOS 62" Phone Tripod is an extendable smartphone tripod and selfie stick designed for iPhone and Android smartphones. It includes a Bluetooth wireless remote for remote photo and video capture.',
+    },
+    {
+      question: 'How tall is the EUCOS phone tripod?',
+      answer:
+        'The tripod can extend up to 62 inches, which is approximately 157.5 cm.',
+    },
+    {
+      question: 'Is the EUCOS tripod compatible with iPhone?',
+      answer:
+        'Yes. The EUCOS phone tripod is designed to support compatible iPhone smartphones.',
+    },
+    {
+      question: 'Is the EUCOS tripod compatible with Android phones?',
+      answer:
+        'Yes. The phone holder is designed to work with compatible Android smartphones as well.',
+    },
+    {
+      question: 'Does the EUCOS tripod come with a Bluetooth remote?',
+      answer:
+        'Yes. The tripod includes a wireless Bluetooth remote shutter that can be used to control the smartphone camera remotely.',
+    },
+    {
+      question: 'Can the EUCOS tripod be used as a selfie stick?',
+      answer:
+        'Yes. Its foldable and extendable design allows it to be used as both a phone tripod and a selfie stick.',
+    },
+    {
+      question: 'Can I use the EUCOS tripod for Instagram Reels?',
+      answer:
+        'Yes. The adjustable height and smartphone holder make it suitable for Instagram Reels, short videos and other social media content.',
+    },
+    {
+      question: 'Is the EUCOS 62" tripod good for YouTube videos?',
+      answer:
+        'Yes. The adjustable height, phone holder and Bluetooth remote make it suitable for smartphone-based YouTube videos and vlogging.',
+    },
+    {
+      question: 'Can the phone holder rotate?',
+      answer:
+        'The phone holder supports adjustable positioning and rotation, allowing users to switch between portrait and landscape shooting.',
+    },
+    {
+      question: 'Does the EUCOS tripod have a cold shoe mount?',
+      answer:
+        'Yes. The phone mount includes a cold-shoe expansion point for compatible accessories such as microphones and LED lights.',
+    },
+    {
+      question: 'What material is the EUCOS tripod made from?',
+      answer:
+        'The tripod uses an aluminum and modified Nylon PA6/6 construction designed to balance portability and stability.',
+    },
+    {
+      question: 'What is the weight capacity of the EUCOS tripod?',
+      answer:
+        'The listed weight capacity is approximately 2.2 lb. Users should consider the combined weight of the smartphone, case and accessories before adding extra equipment.',
+    },
+    {
+      question: 'Can I use the EUCOS tripod with a microphone?',
+      answer:
+        'Yes. The cold-shoe mount can be used with compatible microphone accessories, provided the combined setup remains within the tripod and mount limitations.',
+    },
+    {
+      question: 'Is the EUCOS tripod suitable for travel?',
+      answer:
+        'Yes. Its foldable and portable design makes it convenient for travel, outdoor photography, selfies and mobile content creation.',
+    },
+    {
+      question: 'What is the price of the EUCOS 62" Phone Tripod?',
+      answer:
+        'The deal price provided for this product is ₹2,299 compared with an original price of ₹3,399 and a listed discount of 32%. Amazon prices and availability may change.',
+    },
+    {
+      question: 'Is the EUCOS tripod suitable for professional cameras?',
+      answer:
+        'The product is primarily designed for smartphones. Users who need to mount heavy professional cameras or multiple accessories should choose a tripod specifically designed for higher camera loads.',
+    },
+    {
+      question: 'Should I check the phone size before buying?',
+      answer:
+        'Yes. Buyers should check their smartphone width and case size against the phone holder specifications before purchasing to ensure compatibility.',
+    },
+  ],
+
+  price: 2299,
+  originalPrice: 3399,
+  discount: 32,
+
+  rating: 0,
+  reviewCount: 0,
+
+  affiliateUrl: 'https://link.amazon/B0i54FZRx',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    '62-inch maximum extendable height',
+    'Tripod and selfie stick 2-in-1 design',
+    'Compatible with iPhone and Android smartphones',
+    'Bluetooth wireless remote shutter',
+    'Adjustable smartphone holder',
+    'Portrait and landscape shooting support',
+    '360° phone rotation',
+    'Cold-shoe mount for compatible accessories',
+    'Aluminum and modified Nylon PA6/6 construction',
+    'Portable and travel-friendly design',
+    'Suitable for Instagram Reels and short videos',
+    'Useful for YouTube and mobile vlogging',
+    'Suitable for selfies and group photography',
+    'Useful for video calls and hands-free recording',
+    'Designed for smartphone content creation'
+  ],
+
+  pros: [
+    '62-inch extended height',
+    'Tripod and selfie stick combination',
+    'Bluetooth remote included',
+    'Compatible with iPhone and Android',
+    'Useful for Instagram Reels and YouTube',
+    'Adjustable phone positioning',
+    'Portrait and landscape shooting support',
+    'Cold-shoe mount for compatible accessories',
+    'Portable design for travel',
+    'Suitable for selfies and group photos',
+    'Aluminum construction',
+    'Useful for mobile content creators'
+  ],
+
+  cons: [
+    'Primarily designed for smartphones rather than heavy professional cameras',
+    'Maximum stability can depend on the surface and shooting conditions',
+    'Additional accessories increase the overall weight',
+    'Phone compatibility should be checked before purchase',
+    'Windy outdoor conditions may affect stability when fully extended',
+    'Professional camera users may need a heavier-duty tripod',
+    'Amazon price and availability may change'
+  ],
+
+  specs: {
+    'Brand': 'EUCOS',
+    'Series': 'Phone Tripod / Selfie Stick',
+    'Model': 'EUTP-010',
+    'Product Type': 'Phone Tripod Stand',
+    'Maximum Height': '62 inches',
+    'Height in Centimeters': 'Approx. 157.5 cm',
+    'Material': 'Aluminum + Modified Nylon PA6/6',
+    'Compatibility': 'iPhone & Android',
+    'Phone Holder Width': 'Approx. 2.2–3.6 inches',
+    'Remote': 'Bluetooth Wireless Remote',
+    'Remote Battery': 'CR2032',
+    'Phone Rotation': '360°',
+    'Cold Shoe': 'Yes',
+    'Weight Capacity': 'Up to approximately 2.2 lb',
+    'Design': 'Tripod + Selfie Stick',
+    'Use': 'Photography, Selfies, Reels, Vlogging & Video Calls',
+    'Price': '₹2,299',
+    'Original Price': '₹3,399',
+    'Discount': '32%'
+  }
+},
 ];
 
 export const categories: Category[] = [
