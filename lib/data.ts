@@ -2551,7 +2551,7 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   `,
 
   image:
-    '/assets/aistudio/vivo-x500-pro-max.png',
+    '/assets/aistudio/vivo-x500-pro-max-camera-features.png',
 
   date: '2026-09-26',
 
