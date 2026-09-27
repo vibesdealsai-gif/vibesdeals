@@ -47,6 +47,19 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
+{/* Google Tag Manager */}
+<Script
+  id="google-tag-manager"
+  strategy="beforeInteractive"
+>
+  {`
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PMHLX57G');
+  `}
+</Script>
         {/* Google Analytics 4 */}
         <Script
   strategy="beforeInteractive"
@@ -70,6 +83,15 @@ export default function RootLayout({
         className={`${inter.variable} ${jakarta.variable} font-sans bg-gray-50 text-[#131921] antialiased min-h-screen flex flex-col`}
         suppressHydrationWarning
       >
+{/* Google Tag Manager (noscript) */}
+<noscript>
+  <iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-PMHLX57G"
+    height="0"
+    width="0"
+    style={{ display: 'none', visibility: 'hidden' }}
+  />
+</noscript>
         <Header />
 
         <main className="flex-1 flex flex-col">
