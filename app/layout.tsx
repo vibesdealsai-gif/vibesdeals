@@ -10,11 +10,17 @@ const jakarta = Plus_Jakarta_Sans({ subsets: ['latin'], variable: '--font-jakart
 export const metadata: Metadata = {
   title: 'Vibes Deals – Best Deals, Trending Products & Shopping Guides',
   description: 'Discover the best online deals, trending products, discounts and shopping guides at Vibes Deals. Shop smarter with carefully selected product recommendations.',
+
+  verification: {
+    google: '3pdspSb-KSkcuFqRxzwTkIEHswO3DZ9yOGwpmrlUQA8',
+  },
+
   openGraph: {
     title: 'Vibes Deals – Best Deals, Trending Products & Shopping Guides',
     description: 'Discover the best online deals, trending products, discounts and shopping guides at Vibes Deals. Shop smarter with carefully selected product recommendations.',
     type: 'website',
   },
+
   twitter: {
     card: 'summary_large_image',
     title: 'Vibes Deals',
@@ -35,4 +41,3 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
-
