@@ -1,8 +1,9 @@
 import type { Metadata } from 'next';
 import { Inter, Plus_Jakarta_Sans } from 'next/font/google';
-import './globals.css'; // Global styles
+import './globals.css';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 const jakarta = Plus_Jakarta_Sans({ subsets: ['latin'], variable: '--font-jakarta' });
@@ -29,6 +30,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className="scroll-smooth">
+<GoogleAnalytics gaId="G-58DDZ2HY6M" />
       <body className={`${inter.variable} ${jakarta.variable} font-sans bg-gray-50 text-[#131921] antialiased min-h-screen flex flex-col`} suppressHydrationWarning>
         <Header />
         <main className="flex-1 flex flex-col">
