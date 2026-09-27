@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -7,6 +8,64 @@ export async function generateStaticParams() {
 return blogPosts.map((post) => ({
 slug: post.slug,
 }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const resolvedParams = await params;
+  const post = blogPosts.find((p) => p.slug === resolvedParams.slug);
+
+  if (!post) {
+    return {
+      title: "Blog Post | Vibes Deals",
+      description: "Shopping guides, product tips and helpful buying advice from Vibes Deals.",
+    };
+  }
+
+  const imageUrl = post.image.startsWith("http")
+    ? post.image
+    : `https://vibesdeals.com${post.image}`;
+
+  return {
+    title: post.title,
+    description: post.excerpt,
+    alternates: {
+      canonical: `https://vibesdeals.com/blog/${post.slug}`,
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        "max-image-preview": "large",
+        "max-snippet": -1,
+        "max-video-preview": -1,
+      },
+    },
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      url: `https://vibesdeals.com/blog/${post.slug}`,
+      siteName: "Vibes Deals",
+      type: "article",
+      publishedTime: post.date,
+      authors: [post.author],
+      images: [{
+        url: imageUrl,
+        alt: post.title,
+      }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.excerpt,
+      images: [imageUrl],
+    },
+  };
 }
 
 function renderContent(content: string) {
@@ -274,6 +333,29 @@ const relatedProducts = products
 
 return (
 <div className="bg-white min-h-screen pb-16">
+
+  <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: post.excerpt,
+    image: [post.image.startsWith("http") ? post.image : `https://vibesdeals.com${post.image}`],
+    author: {
+      "@type": "Person",
+      name: post.author
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Vibes Deals",
+      url: "https://vibesdeals.com"
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://vibesdeals.com/blog/${post.slug}`
+    },
+    datePublished: post.date,
+    dateModified: post.date
+  }) }} />
 
   {/* Article Header */}
   <div className="container mx-auto px-4 pt-12 pb-8 max-w-4xl text-center">
