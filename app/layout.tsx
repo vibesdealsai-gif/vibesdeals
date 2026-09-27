@@ -49,12 +49,15 @@ export default function RootLayout({
       <head>
         {/* Google Analytics 4 */}
         <Script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=G-58DDZ2HY6M"
-        />
+  strategy="beforeInteractive"
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-58DDZ2HY6M"
+/>
 
-        <Script id="google-analytics">
-          {`
+<Script
+  id="google-analytics"
+  strategy="beforeInteractive"
+>          {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){window.dataLayer.push(arguments);}
             gtag('js', new Date());
