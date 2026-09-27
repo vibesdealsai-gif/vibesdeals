@@ -1374,6 +1374,264 @@ The product is primarily designed for smartphones rather than heavy professional
     'Discount': '32%'
   }
 },
+  {
+  id: 'p16',
+  name: 'WeCool G2 AI Auto Face Tracking Tripod – 360° Rotation, 1.8m Stand & 2200mAh Battery',
+  slug: 'wecool-g2-ai-auto-face-tracking-tripod-360-rotation',
+  category: 'Electronics',
+  brand: 'WeCool',
+  image: '/assets/aistudio/wecool-g2-aft-ai-face-tracking-tripod.png',
+
+  description: `WeCool G2 AFT AI Auto Face Tracking Tripod is a smart smartphone tracking accessory designed for hands-free video recording, Reels, vlogging, live streaming, photography and content creation.
+
+The G2 AFT features AI-powered automatic face tracking that helps keep the subject within the camera frame while moving. Its 360° rotation capability allows the tracking mount to follow movement and provides flexible shooting angles.
+
+The tripod supports Android and iPhone smartphones and is designed for vertical and horizontal shooting. It also features gesture control, allowing compatible functions to be operated without continuously touching the smartphone.
+
+The built-in 2200mAh rechargeable battery is designed for extended recording sessions, while the standard mounting interface allows the unit to be used with compatible tripod and accessory setups.
+
+The WeCool G2 AFT is suitable for Instagram Reels, YouTube Shorts, vlogging, live streaming, video calls, tutorials, dance videos, fitness content and other smartphone-based content creation.
+
+Actual tracking performance, battery life and compatibility may vary depending on the smartphone, lighting conditions, movement, setup and usage environment.
+
+Always check the latest Amazon listing for the exact model, price, seller, warranty, package contents, availability and specifications before purchasing.`,
+
+  about: `WeCool is a consumer electronics and mobile accessories brand offering products designed for smartphones, content creation and everyday technology use.
+
+The WeCool G2 AFT is designed around AI-powered face tracking and hands-free smartphone recording. It combines automatic subject tracking with 360° rotation to provide a convenient setup for users who regularly create videos alone.
+
+The product is aimed at smartphone users, social media creators, vloggers, live streamers and people who want an automated tracking setup without manually repositioning their phone during recording.
+
+The G2 AFT also supports compatible tripod and accessory configurations, making it suitable for different mobile content-creation setups.
+
+Product specifications and included accessories can vary by model, seller and region, so buyers should verify the exact Amazon listing before purchasing.`,
+
+  productDetails: `The WeCool G2 AFT AI Auto Face Tracking Tripod is a smartphone tracking accessory designed to automatically follow a person's face during video recording.
+
+Its AI auto face tracking system is designed to detect the subject and adjust the tracking direction as the person moves. This can be useful for solo creators who want to record videos without another person operating the camera.
+
+The 360° rotation feature provides flexible movement around the subject and can be useful for Reels, vlogging, tutorials, dance videos, fitness content and other moving shots.
+
+The unit supports both portrait and landscape smartphone recording, making it suitable for social media platforms, YouTube videos, video calls and general smartphone photography.
+
+The G2 AFT includes gesture-control functionality for compatible hands-free operations. This can make starting or controlling certain recording functions more convenient.
+
+A 2200mAh rechargeable battery powers the tracking mechanism. Actual battery performance can vary depending on tracking activity, usage duration and operating conditions.
+
+The product is designed primarily for smartphones and compatible mobile accessories. Users should check their smartphone size, weight and accessory requirements before using additional equipment.
+
+The G2 AFT variant is listed as an 11-inch product size, while compatible tripod setups may provide extended mounting height depending on the tripod used.`,
+
+  additionalInformation: {
+    'Brand': 'WeCool',
+    'Product Series': 'G2 AFT',
+    'Model': 'G2 AFT',
+    'Product Type': 'AI Auto Face Tracking Tripod',
+    'Tracking Technology': 'AI Auto Face Tracking',
+    'Rotation': '360°',
+    'Battery': '2200mAh Rechargeable Battery',
+    'AI Lens': 'AI Intelligent Lens',
+    'Control': 'Gesture Control',
+    'Shooting Orientation': 'Portrait & Landscape',
+    'Compatible Devices': 'Android & iPhone Smartphones',
+    'Mount Interface': 'Standard 1/4-inch Interface',
+    'Tripod Support': 'Compatible Tripod Setup',
+    'Ring Light Compatibility': 'Supported with compatible setup',
+    'Product Size': 'G2 AFT – 11 Inches',
+    'Maximum Tripod Support': 'Up to 1.8m with compatible tripod setup',
+    'Battery Usage': 'Up to approximately 7–8 hours*',
+    'Suitable For': 'Reels, Vlogging, YouTube, Live Streaming & Video Calls',
+    'Use Case': 'Mobile Content Creation',
+    'Price': '₹1,897',
+    'Original Price': '₹4,999',
+    'Discount': '62%',
+    'Marketplace': 'Amazon'
+  },
+
+  faq: [
+    {
+      question: 'What is the WeCool G2 AFT AI Auto Face Tracking Tripod?',
+      answer:
+        'The WeCool G2 AFT is an AI-powered smartphone tracking accessory designed to automatically follow a person’s face during video recording. It supports 360° rotation and hands-free content creation.',
+    },
+    {
+      question: 'Does the WeCool G2 AFT support iPhone?',
+      answer:
+        'Yes. The WeCool G2 AFT is designed to support compatible iPhone smartphones.',
+    },
+    {
+      question: 'Does the WeCool G2 AFT support Android phones?',
+      answer:
+        'Yes. Compatible Android smartphones can be used with the G2 AFT tracking setup.',
+    },
+    {
+      question: 'Does the WeCool G2 AFT have AI face tracking?',
+      answer:
+        'Yes. AI auto face tracking is one of the main features of the WeCool G2 AFT and is designed to help keep the subject within the camera frame.',
+    },
+    {
+      question: 'Does the WeCool G2 AFT rotate 360 degrees?',
+      answer:
+        'Yes. The G2 AFT features 360° rotation for flexible movement and tracking during smartphone video recording.',
+    },
+    {
+      question: 'Does the WeCool G2 AFT support gesture control?',
+      answer:
+        'Yes. The product includes gesture-control functionality for compatible hands-free operations.',
+    },
+    {
+      question: 'What is the battery capacity of the WeCool G2 AFT?',
+      answer:
+        'The WeCool G2 AFT features a 2200mAh rechargeable battery.',
+    },
+    {
+      question: 'How long does the WeCool G2 AFT battery last?',
+      answer:
+        'The listed usage can be up to approximately 7–8 hours, although actual battery life may vary depending on usage, tracking activity and operating conditions.',
+    },
+    {
+      question: 'Can I use the WeCool G2 AFT for Instagram Reels?',
+      answer:
+        'Yes. The automatic tracking and portrait shooting support make it suitable for Instagram Reels and other short-form vertical videos.',
+    },
+    {
+      question: 'Can I use the WeCool G2 AFT for YouTube videos?',
+      answer:
+        'Yes. It can be used for smartphone-based YouTube videos, Shorts, tutorials, vlogging and other content-creation applications.',
+    },
+    {
+      question: 'Can the WeCool G2 AFT be used for vlogging?',
+      answer:
+        'Yes. Its AI face tracking and automatic rotation can be useful for solo vlogging and moving video recordings.',
+    },
+    {
+      question: 'Can the G2 AFT shoot in portrait and landscape mode?',
+      answer:
+        'Yes. The smartphone setup supports portrait and landscape shooting for different types of content.',
+    },
+    {
+      question: 'Is the WeCool G2 AFT compatible with a ring light?',
+      answer:
+        'Yes. The G2 AFT can be used with compatible ring-light and mobile content-creation setups.',
+    },
+    {
+      question: 'Does the WeCool G2 AFT support a tripod?',
+      answer:
+        'Yes. The unit uses a standard mounting interface and can be used with compatible tripod setups.',
+    },
+    {
+      question: 'What is the size of the WeCool G2 AFT?',
+      answer:
+        'The provided G2 AFT variant has a listed product size of 11 inches.',
+    },
+    {
+      question: 'Is the WeCool G2 AFT suitable for solo creators?',
+      answer:
+        'Yes. Automatic face tracking is particularly useful for users who record videos alone and want the camera to follow their movement.',
+    },
+    {
+      question: 'Is the WeCool G2 AFT suitable for live streaming?',
+      answer:
+        'Yes. It can be useful for smartphone-based live streaming where automatic subject tracking is desired.',
+    },
+    {
+      question: 'What is the price of the WeCool G2 AFT?',
+      answer:
+        'The provided deal price is ₹1,897 compared with an original price of ₹4,999 and a listed discount of 62%. Amazon prices and availability may change.',
+    },
+    {
+      question: 'Can I use the G2 AFT with a heavy professional camera?',
+      answer:
+        'The product is primarily designed for smartphones and mobile content creation. Users who need to mount heavier professional cameras should check the exact weight and mounting limitations before use.',
+    },
+    {
+      question: 'Should I check compatibility before buying?',
+      answer:
+        'Yes. Buyers should verify smartphone compatibility, phone size, weight, mounting requirements and included accessories on the latest Amazon listing before purchasing.',
+    },
+  ],
+
+  price: 1897,
+  originalPrice: 4999,
+  discount: 62,
+
+  affiliateUrl: 'https://link.amazon/B06FhiCft',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    'AI auto face tracking',
+    '360° automatic rotation',
+    '2200mAh rechargeable battery',
+    'AI intelligent lens',
+    'Gesture control support',
+    'Compatible with iPhone and Android smartphones',
+    'Portrait and landscape shooting support',
+    'Standard 1/4-inch mounting interface',
+    'Compatible with tripod setups',
+    'Compatible with ring-light setups',
+    'Useful for Instagram Reels',
+    'Suitable for YouTube Shorts and videos',
+    'Useful for vlogging and live streaming',
+    'Suitable for video calls and tutorials',
+    'Designed for solo content creators',
+    'G2 AFT 11-inch variant',
+    'Hands-free smartphone recording',
+    'Useful for moving video shots'
+  ],
+
+  pros: [
+    'AI auto face tracking',
+    '360° rotation',
+    '2200mAh rechargeable battery',
+    'Gesture control support',
+    'Compatible with iPhone and Android',
+    'Useful for Instagram Reels',
+    'Suitable for YouTube and vlogging',
+    'Portrait and landscape shooting support',
+    'Useful for solo content creators',
+    'Compatible with tripod setups',
+    'Can be used with compatible ring-light setups',
+    'Useful for live streaming and video calls'
+  ],
+
+  cons: [
+    'Tracking performance can depend on lighting and surroundings',
+    'Very fast movements may affect tracking accuracy',
+    'Battery life can vary depending on usage',
+    'Primarily designed for smartphones',
+    'Additional accessories may affect overall stability',
+    'Phone compatibility should be checked before purchase',
+    'Outdoor wind and uneven surfaces may affect stability',
+    'Amazon price and availability may change'
+  ],
+
+  specs: {
+    'Brand': 'WeCool',
+    'Series': 'G2 AFT',
+    'Model': 'G2 AFT',
+    'Product Type': 'AI Auto Face Tracking Tripod',
+    'Tracking': 'AI Auto Face Tracking',
+    'Rotation': '360°',
+    'Battery': '2200mAh Rechargeable',
+    'AI Lens': 'AI Intelligent Lens',
+    'Control': 'Gesture Control',
+    'Compatibility': 'iPhone & Android',
+    'Shooting Orientation': 'Portrait & Landscape',
+    'Mount Interface': 'Standard 1/4-inch',
+    'Tripod Support': 'Compatible Tripod Setup',
+    'Ring Light Support': 'Yes, with compatible setup',
+    'Product Size': '11 Inches',
+    'Maximum Tripod Height': 'Up to 1.8m with compatible tripod setup',
+    'Battery Usage': 'Up to approximately 7–8 hours*',
+    'Use': 'Reels, Vlogging, YouTube, Live Streaming & Video Calls',
+    'Price': '₹1,897',
+    'Original Price': '₹4,999',
+    'Discount': '62%'
+  }
+},
 ];
 
 export const categories: Category[] = [
