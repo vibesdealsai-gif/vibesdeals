@@ -30,8 +30,8 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className="scroll-smooth">
-<GoogleAnalytics gaId="G-58DDZ2HY6M" />
       <body className={`${inter.variable} ${jakarta.variable} font-sans bg-gray-50 text-[#131921] antialiased min-h-screen flex flex-col`} suppressHydrationWarning>
+<GoogleAnalytics gaId="G-58DDZ2HY6M" />
         <Header />
         <main className="flex-1 flex flex-col">
           {children}
