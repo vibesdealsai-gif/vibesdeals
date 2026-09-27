@@ -1551,9 +1551,12 @@ The G2 AFT variant is listed as an 11-inch product size, while compatible tripod
     },
   ],
 
-  price: 1897,
+    price: 1897,
   originalPrice: 4999,
   discount: 62,
+
+  rating: 0,
+  reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B06FhiCft',
 
