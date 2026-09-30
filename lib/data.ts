@@ -2817,5 +2817,569 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   date: '2026-09-26',
 
   author: 'Vibes Editorial'
-     }
+     },
+     {
+  id: 'b6',
+  title: 'Vivo V80 5G Price in India, Full Specifications, Features & Review',
+  slug: 'vivo-v80-5g-price-in-india-specifications-review',
+
+  excerpt:
+    'Vivo V80 5G features a 50MP ZEISS camera system, 50MP telephoto camera, 8MP ultra-wide camera, 50MP ZEISS selfie camera, 7200mAh battery, 90W charging, 144Hz 1.5K OLED display and Snapdragon 7 Gen 4 processor.',
+
+  content: `
+    <p>
+      The <strong>Vivo V80 5G</strong> is a premium camera-focused smartphone
+      designed for users who want a combination of photography, performance,
+      display quality and long battery life.
+    </p>
+
+    <p>
+      Vivo V80 comes with a <strong>6.59-inch 1.5K OLED display</strong>,
+      up to 144Hz refresh rate, Snapdragon 7 Gen 4 processor,
+      7,200mAh battery and 90W FlashCharge.
+    </p>
+
+    <h2>Vivo V80 5G Price in India</h2>
+
+    <p>
+      The official India retail price should be confirmed by Vivo at launch.
+      Pre-launch reports have suggested a starting price of around
+      <strong>₹63,000</strong>, but this should be treated as reported
+      pricing and not as the final official price.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Variant</th>
+          <th>Price Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8GB + 128GB</td>
+          <td>Official configuration; price to be confirmed</td>
+        </tr>
+        <tr>
+          <td>Other Storage Variants</td>
+          <td>May vary by market and final India availability</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      <strong>Price Disclaimer:</strong> Prices can change depending on the
+      official launch price, storage variant, bank offers, exchange offers
+      and retailer discounts. Always check the latest official price before buying.
+    </p>
+
+    <h2>Vivo V80 5G Launch Date in India</h2>
+
+    <p>
+      Vivo has announced the India launch of the Vivo V80 for
+      <strong>October 6, 2026</strong>.
+    </p>
+
+    <h2>Vivo V80 5G Specifications</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Specification</th>
+          <th>Vivo V80 5G</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Brand</td><td>Vivo</td></tr>
+        <tr><td>Model</td><td>Vivo V80</td></tr>
+        <tr><td>Network</td><td>5G</td></tr>
+        <tr><td>Operating System</td><td>OriginOS 7</td></tr>
+        <tr><td>Android Version</td><td>Android 17</td></tr>
+        <tr><td>Processor</td><td>Qualcomm Snapdragon 7 Gen 4</td></tr>
+        <tr><td>Process Technology</td><td>4nm</td></tr>
+        <tr><td>Display</td><td>6.59-inch 1.5K OLED</td></tr>
+        <tr><td>Display Resolution</td><td>2750 × 1260 pixels</td></tr>
+        <tr><td>Refresh Rate</td><td>Up to 144Hz</td></tr>
+        <tr><td>Peak Brightness</td><td>Up to 5000 nits local peak</td></tr>
+        <tr><td>Main Camera</td><td>50MP ZEISS OIS</td></tr>
+        <tr><td>Telephoto Camera</td><td>50MP ZEISS Night Telephoto</td></tr>
+        <tr><td>Ultra-Wide Camera</td><td>8MP</td></tr>
+        <tr><td>Front Camera</td><td>50MP ZEISS Group Selfie</td></tr>
+        <tr><td>Battery</td><td>7,200mAh typical capacity</td></tr>
+        <tr><td>Charging</td><td>90W FlashCharge</td></tr>
+        <tr><td>RAM</td><td>8GB LPDDR4X</td></tr>
+        <tr><td>Internal Storage</td><td>128GB UFS 3.1</td></tr>
+        <tr><td>Expandable Storage</td><td>Not Supported</td></tr>
+        <tr><td>Fingerprint Sensor</td><td>3D Ultrasonic</td></tr>
+        <tr><td>Water/Dust Resistance</td><td>IP68 + IP69</td></tr>
+        <tr><td>Bluetooth</td><td>Bluetooth 5.4</td></tr>
+        <tr><td>NFC</td><td>Supported</td></tr>
+        <tr><td>USB</td><td>USB Type-C 2.0</td></tr>
+        <tr><td>Weight</td><td>Approximately 203g</td></tr>
+        <tr><td>Colors</td><td>Stellar Black, Horizon Blue, Sunrise Anthem</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Vivo V80 5G Display</h2>
+
+    <p>
+      Vivo V80 features a <strong>6.59-inch 1.5K OLED display</strong>
+      with 2750 × 1260 resolution and up to a
+      <strong>144Hz</strong> refresh rate.
+    </p>
+
+    <p>
+      The high refresh rate provides smoother scrolling, animations and
+      supported gaming experiences. The display also supports up to
+      5000 nits local peak brightness under specified conditions.
+    </p>
+
+    <h2>Vivo V80 5G Camera</h2>
+
+    <p>
+      The camera system is one of the biggest highlights of the Vivo V80.
+      It features a dedicated ZEISS camera setup for photography,
+      portraits, night photography, telephoto shots and ultra-wide photography.
+    </p>
+
+    <h3>50MP ZEISS Main Camera</h3>
+
+    <p>
+      Vivo V80 comes with a <strong>50MP ZEISS main camera with OIS</strong>.
+      Optical image stabilization helps reduce the effect of hand movement
+      during photography and video recording.
+    </p>
+
+    <h3>50MP ZEISS Night Telephoto Camera</h3>
+
+    <p>
+      Vivo V80 features a dedicated <strong>50MP ZEISS Night Telephoto
+      camera</strong> designed for portraits, zoom photography and distant subjects.
+    </p>
+
+    <p>
+      Vivo highlights an <strong>85mm portrait perspective</strong> and
+      <strong>100mm Center-Stage Portrait</strong> mode.
+    </p>
+
+    <h3>8MP Ultra-Wide Camera</h3>
+
+    <p>
+      The <strong>8MP ultra-wide camera</strong> is designed for landscapes,
+      architecture, travel photography, group photos and large indoor scenes.
+    </p>
+
+    <h3>50MP ZEISS Group Selfie Camera</h3>
+
+    <p>
+      On the front, Vivo V80 features a
+      <strong>50MP ZEISS Group Selfie camera</strong> for selfies,
+      portraits and group photos.
+    </p>
+
+    <h2>Vivo V80 Camera Specifications</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Camera</th>
+          <th>Specification</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Main Camera</td><td>50MP ZEISS OIS</td></tr>
+        <tr><td>Telephoto Camera</td><td>50MP ZEISS Night Telephoto</td></tr>
+        <tr><td>Ultra-Wide Camera</td><td>8MP</td></tr>
+        <tr><td>Front Camera</td><td>50MP ZEISS Group Selfie</td></tr>
+        <tr><td>Portrait Focal Length</td><td>85mm</td></tr>
+        <tr><td>Center-Stage Portrait</td><td>100mm</td></tr>
+        <tr><td>Optical Stabilization</td><td>OIS on main camera</td></tr>
+        <tr><td>Video Recording</td><td>Up to 4K 60fps</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Vivo V80 Camera Features</h2>
+
+    <ul>
+      <li>50MP ZEISS OIS Main Camera</li>
+      <li>50MP ZEISS Night Telephoto Camera</li>
+      <li>8MP Ultra-Wide Camera</li>
+      <li>50MP ZEISS Group Selfie Camera</li>
+      <li>85mm ZEISS Portrait</li>
+      <li>100mm Center-Stage Portrait</li>
+      <li>AI Creative Camera</li>
+      <li>Live Sticker Collage</li>
+      <li>AI Diwali Portrait 2.0</li>
+      <li>4K Cinematic Video</li>
+      <li>4K 60fps Video Recording</li>
+    </ul>
+        <h2>Vivo V80 5G Video Recording</h2>
+
+    <p>
+      Vivo V80 supports <strong>4K video recording</strong> and
+      <strong>4K 60fps video recording</strong>. The phone also includes
+      cinematic video features aimed at users who create reels, travel videos,
+      social-media content and other mobile videos.
+    </p>
+
+    <h2>Vivo V80 5G Performance</h2>
+
+    <p>
+      The smartphone is powered by the <strong>Qualcomm Snapdragon 7 Gen 4
+      Mobile Platform</strong>. The chipset is built using a 4nm process and
+      is designed to provide a balance between performance and efficiency.
+    </p>
+
+    <p>
+      The Vivo V80 uses <strong>8GB LPDDR4X RAM</strong> and
+      <strong>128GB UFS 3.1 storage</strong> in the listed official
+      configuration.
+    </p>
+
+    <p>
+      The hardware can handle everyday applications, social media,
+      photography, video recording and gaming. Actual gaming performance
+      depends on game settings, temperature, software optimization and
+      network conditions.
+    </p>
+
+    <h2>Vivo V80 5G RAM and Storage</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Memory</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>RAM</td>
+          <td>8GB LPDDR4X</td>
+        </tr>
+        <tr>
+          <td>Internal Storage</td>
+          <td>128GB UFS 3.1</td>
+        </tr>
+        <tr>
+          <td>Expandable Storage</td>
+          <td>Not Supported</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      Storage configurations can vary by market. Buyers should check the exact
+      RAM and storage variant listed by Vivo or the authorized retailer before
+      purchasing.
+    </p>
+
+    <h2>Vivo V80 5G Battery</h2>
+
+    <p>
+      Vivo V80 features a large <strong>7,200mAh battery</strong>. The battery
+      is designed to provide long-lasting usage for everyday tasks,
+      photography, video playback, social media and other activities.
+    </p>
+
+    <p>
+      The phone supports <strong>90W FlashCharge</strong>. Vivo's laboratory
+      testing indicates that the battery can reach approximately 50% charge
+      in around 30 minutes under its specified charging conditions.
+    </p>
+
+    <p>
+      Actual charging time and battery life may vary depending on temperature,
+      network conditions, display brightness, applications and charging
+      conditions.
+    </p>
+
+    <h2>Vivo V80 5G Design</h2>
+
+    <p>
+      Vivo V80 features a premium glass design and a floating-style camera
+      module. The phone weighs approximately <strong>203 grams</strong> and
+      has a slim profile.
+    </p>
+
+    <p>
+      The announced colour options include
+      <strong>Stellar Black, Horizon Blue and Sunrise Anthem</strong>.
+    </p>
+
+    <h2>Vivo V80 IP68 and IP69 Protection</h2>
+
+    <p>
+      Vivo V80 comes with <strong>IP68 and IP69</strong> ratings for dust and
+      water resistance under controlled laboratory conditions.
+    </p>
+
+    <p>
+      Water and dust resistance is not permanent and may reduce over time due
+      to normal wear, drops or physical damage. Users should avoid charging
+      the phone while it is wet and should check Vivo's warranty terms for
+      liquid damage.
+    </p>
+
+    <h2>Vivo V80 5G Software</h2>
+
+    <p>
+      Vivo V80 runs on <strong>Android 17-based OriginOS 7</strong>.
+      The software combines Android features with Vivo's user interface,
+      customization options and AI-powered tools.
+    </p>
+
+    <h2>Vivo V80 AI Features</h2>
+
+    <ul>
+      <li>AI Creative Camera</li>
+      <li>Live Sticker Collage</li>
+      <li>AI Diwali Portrait 2.0</li>
+      <li>Pet Pals</li>
+      <li>Snap Notes</li>
+      <li>Security Shield</li>
+    </ul>
+
+    <h2>Vivo V80 Connectivity</h2>
+
+    <ul>
+      <li>5G connectivity</li>
+      <li>Dual Nano SIM support</li>
+      <li>Wi-Fi</li>
+      <li>Bluetooth 5.4</li>
+      <li>NFC</li>
+      <li>USB Type-C</li>
+      <li>GPS</li>
+      <li>OTG</li>
+      <li>Infrared support</li>
+    </ul>
+
+    <h2>Vivo V80 5G Pros</h2>
+
+    <ul>
+      <li>50MP ZEISS OIS main camera</li>
+      <li>50MP ZEISS Night Telephoto camera</li>
+      <li>50MP ZEISS Group Selfie camera</li>
+      <li>1.5K OLED display</li>
+      <li>Up to 144Hz refresh rate</li>
+      <li>Large 7,200mAh battery</li>
+      <li>90W FlashCharge</li>
+      <li>Snapdragon 7 Gen 4 processor</li>
+      <li>IP68 and IP69 protection</li>
+      <li>4K 60fps video recording</li>
+      <li>Android 17-based OriginOS 7</li>
+      <li>3D ultrasonic fingerprint sensor</li>
+    </ul>
+
+    <h2>Vivo V80 5G Cons</h2>
+
+    <ul>
+      <li>Official India price should be confirmed before purchase</li>
+      <li>USB Type-C connectivity is USB 2.0</li>
+      <li>MicroSD expandable storage is not supported</li>
+      <li>3.5mm analog headphone jack is not supported</li>
+      <li>144Hz refresh rate is available only in supported applications</li>
+      <li>Some AI features may vary by region and software version</li>
+    </ul>
+
+    <h2>Vivo V80 5G Product Description</h2>
+
+    <p>
+      <strong>Vivo V80 5G</strong> is a premium smartphone with a strong focus
+      on mobile photography, portraits, video recording and battery life.
+      It features a <strong>50MP ZEISS OIS main camera, 50MP ZEISS Night
+      Telephoto camera, 8MP ultra-wide camera and 50MP ZEISS Group Selfie
+      camera</strong>.
+    </p>
+
+    <p>
+      The phone is powered by the <strong>Snapdragon 7 Gen 4</strong> processor
+      and comes with <strong>8GB LPDDR4X RAM and 128GB UFS 3.1 storage</strong>
+      in the listed configuration.
+    </p>
+
+    <p>
+      Its 6.59-inch 1.5K OLED display supports up to 144Hz refresh rate,
+      while the 7,200mAh battery and 90W FlashCharge are designed for
+      long-lasting daily use and fast charging.
+    </p>
+
+    <h2>Vivo Brand Overview</h2>
+
+    <p>
+      <strong>Vivo</strong> is a global smartphone brand known for its focus
+      on mobile photography, smartphone design, display technology and
+      camera-focused devices.
+    </p>
+
+    <p>
+      Vivo's V-Series smartphones are particularly focused on portrait
+      photography, camera features, stylish designs and social-media-friendly
+      imaging experiences. The Vivo V80 continues this approach with ZEISS
+      camera technology and AI-powered photography features.
+    </p>
+
+    <h2>Who Should Consider Vivo V80?</h2>
+
+    <ul>
+      <li>Users who prioritize smartphone photography</li>
+      <li>Portrait photography enthusiasts</li>
+      <li>Users who want a dedicated telephoto camera</li>
+      <li>Content creators and vloggers</li>
+      <li>Users looking for a large battery</li>
+      <li>Users who prefer high-refresh-rate OLED displays</li>
+      <li>Users interested in AI photography features</li>
+    </ul>
+
+    <h2>Who May Not Need Vivo V80?</h2>
+
+    <p>
+      Users who mainly use their smartphone for calling, messaging, basic
+      social media and occasional photography may not need all of the
+      Vivo V80's camera and display features. Buyers with a limited budget
+      may also want to compare other smartphones before purchasing.
+    </p>
+
+    <h2>Vivo V80 5G Frequently Asked Questions</h2>
+
+    <h3>What is the Vivo V80 price in India?</h3>
+
+    <p>
+      The official India retail price should be confirmed by Vivo at launch.
+      Pre-launch reports have suggested a starting price around ₹63,000,
+      but this is not the final official price.
+    </p>
+
+    <h3>When will Vivo V80 launch in India?</h3>
+
+    <p>
+      Vivo has announced October 6, 2026 as the India launch date for the
+      Vivo V80.
+    </p>
+
+    <h3>Which processor does Vivo V80 use?</h3>
+
+    <p>
+      Vivo V80 is powered by the Qualcomm Snapdragon 7 Gen 4 Mobile Platform
+      based on a 4nm process.
+    </p>
+
+    <h3>How much RAM does Vivo V80 have?</h3>
+
+    <p>
+      The listed configuration includes <strong>8GB LPDDR4X RAM</strong>.
+    </p>
+
+    <h3>How much storage does Vivo V80 have?</h3>
+
+    <p>
+      The listed configuration includes <strong>128GB UFS 3.1 internal
+      storage</strong>. Expandable storage is not supported.
+    </p>
+
+    <h3>How many cameras does Vivo V80 have?</h3>
+
+    <p>
+      Vivo V80 has three rear cameras: a 50MP ZEISS main camera, a 50MP
+      ZEISS Night Telephoto camera and an 8MP ultra-wide camera. The front
+      camera is a 50MP ZEISS Group Selfie camera.
+    </p>
+
+    <h3>Does Vivo V80 have a 50MP telephoto camera?</h3>
+
+    <p>
+      Yes. Vivo V80 features a <strong>50MP ZEISS Night Telephoto camera</strong>
+      designed for portraits and telephoto photography.
+    </p>
+        <h3>Does Vivo V80 support 4K video?</h3>
+
+    <p>
+      Yes. Vivo V80 supports 4K video recording, including 4K 60fps recording
+      and cinematic video features.
+    </p>
+
+    <h3>How big is the Vivo V80 battery?</h3>
+
+    <p>
+      Vivo V80 has a <strong>7,200mAh</strong> typical-capacity battery and
+      supports 90W FlashCharge.
+    </p>
+
+    <h3>Does Vivo V80 support 144Hz?</h3>
+
+    <p>
+      Yes. Vivo V80 has a 1.5K OLED display with up to a 144Hz refresh rate.
+    </p>
+
+    <h3>Is Vivo V80 waterproof?</h3>
+
+    <p>
+      Vivo V80 has IP68 and IP69 ratings for dust and water resistance under
+      controlled laboratory conditions. It should not be treated as
+      permanently waterproof.
+    </p>
+
+    <h3>Does Vivo V80 support NFC?</h3>
+
+    <p>
+      Yes. Vivo V80 supports NFC.
+    </p>
+
+    <h3>Does Vivo V80 have a microSD card slot?</h3>
+
+    <p>
+      No. Expandable storage is not supported according to the listed
+      specifications.
+    </p>
+
+    <h2>Vivo V80 5G Final Overview</h2>
+
+    <p>
+      The <strong>Vivo V80 5G</strong> combines a ZEISS-focused camera system,
+      Snapdragon 7 Gen 4 performance, a 1.5K 144Hz OLED display and a large
+      7,200mAh battery.
+    </p>
+
+    <p>
+      Its key camera hardware includes a <strong>50MP ZEISS OIS main camera,
+      50MP ZEISS Night Telephoto camera, 8MP ultra-wide camera and 50MP ZEISS
+      Group Selfie camera</strong>.
+    </p>
+
+    <p>
+      The combination of 90W FlashCharge, IP68/IP69 protection, Android
+      17-based OriginOS 7, AI photography tools and cinematic video features
+      makes the Vivo V80 a feature-rich smartphone for users interested in
+      photography, video and battery life.
+    </p>
+
+    <p>
+      Before purchasing, verify the final India price, storage variant,
+      launch offers and availability from Vivo or an authorized retailer.
+    </p>
+
+    <p>
+      <strong>Affiliate Disclosure:</strong> Vibes Deals may earn a commission
+      when you purchase through selected affiliate links. This does not
+      increase the price you pay.
+    </p>
+
+    <p>
+      <strong>Price Disclaimer:</strong> Prices, offers and availability may
+      change after launch. Always verify the latest price and availability
+      before purchasing.
+    </p>
+
+    <p>
+      <strong>Information Disclaimer:</strong> Specifications can vary by
+      market, software version and final retail configuration. Always verify
+      the latest specifications with Vivo or an authorized seller before
+      purchasing.
+    </p>
+  `,
+
+  image: '/assets/aistudio/vivo-v80-5g-price-in-india.png',
+  date: '2026-09-30',
+  author: 'Vibes Editorial'
+     },    
   ];
