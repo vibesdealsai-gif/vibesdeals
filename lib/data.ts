@@ -2263,7 +2263,7 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   author: 'VibesDeals Editorial'
 },
   {
-  id: 'b4',
+  id: 'b3',
   title: 'Rockwell 350GTS 5 Star Glass Top Ice Cream Display Deep Freezer: Complete Buying Guide',
   slug: 'rockwell-350gts-ice-cream-display-deep-freezer',
 
@@ -2458,7 +2458,7 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   author: 'Vibes Editorial'
   },
   {
-  id: 'b5',
+  id: 'b4',
   title: 'Vivo X500 Pro Max Camera & Features: 200MP Telephoto, LOFIC Sensor and Ultra-Wide Camera',
   slug: 'vivo-x500-pro-max-camera-features',
 
@@ -2819,7 +2819,7 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   author: 'Vibes Editorial'
      },
      {
-  id: 'b6',
+  id: 'b5',
   title: 'Vivo V80 5G Price in India, Full Specifications, Features & Review',
   slug: 'vivo-v80-5g-price-in-india-specifications-review',
 
