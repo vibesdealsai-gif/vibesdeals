@@ -521,7 +521,7 @@ price: 5495,
 originalPrice: 5495,
 discount: 0,
 
-rating: 0,
+rating: 4.3,
 reviewCount: 0,
 
 affiliateUrl: 'https://link.amazon/B0ghDs7sk',
@@ -832,7 +832,7 @@ Actual performance may vary depending on the motherboard or laptop, PCIe generat
   originalPrice: 10500,
   discount: 11,
 
-  rating: 0,
+  rating: 4.4,
   reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B0cKCIcgo',
@@ -1052,7 +1052,7 @@ Actual performance depends on the game, application, drivers, thermal conditions
   originalPrice: 311990,
   discount: 17,
 
-  rating: 0,
+  rating: 4.5,
   reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B08CinRPf',
@@ -1300,7 +1300,7 @@ The product is primarily designed for smartphones rather than heavy professional
   originalPrice: 3399,
   discount: 32,
 
-  rating: 0,
+  rating: 4.5,
   reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B0i54FZRx',
@@ -1555,7 +1555,7 @@ The G2 AFT variant is listed as an 11-inch product size, while compatible tripod
   originalPrice: 4999,
   discount: 62,
 
-  rating: 0,
+  rating: 4.5,
   reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B06FhiCft',
@@ -1633,6 +1633,287 @@ The G2 AFT variant is listed as an 11-inch product size, while compatible tripod
     'Price': '₹1,897',
     'Original Price': '₹4,999',
     'Discount': '62%'
+  }
+},
+  {
+  id: 'p17',
+  name: 'Logitech C920 HD Pro Webcam – 1080p Full HD, Autofocus & Dual Microphones',
+  slug: 'logitech-c920-hd-pro-webcam-review',
+  category: 'Electronics',
+  brand: 'Logitech',
+  image: '/assets/aistudio/logitech-c920-hd-pro-webcam.png',
+
+  description: `The Logitech C920 HD Pro Webcam is a Full HD 1080p webcam designed for video calls, online meetings, streaming, YouTube recording, online classes and everyday content creation.
+
+The C920 supports up to 1080p Full HD video at 30fps and features autofocus, a 78° diagonal field of view, a five-element glass lens and dual built-in microphones.
+
+Its automatic light correction is designed to help adjust the image according to changing lighting conditions, making the webcam suitable for home-office setups, video conferencing and content creation.
+
+The Logitech C920 can be used with compatible Windows, Mac and ChromeOS computers and is designed to work with popular video communication and streaming applications.
+
+The webcam is suitable for remote workers, students, online teachers, YouTubers, streamers, gamers and users who want a dedicated Full HD webcam instead of relying on a built-in laptop camera.
+
+Actual video and audio performance can vary depending on lighting, computer hardware, software, internet connection and usage environment.
+
+Always check the latest Amazon listing for the exact model, price, seller, warranty, package contents, availability and specifications before purchasing.`,
+
+  about: `Logitech is a well-known technology brand offering computer peripherals and accessories including webcams, keyboards, mice, headsets and video-conferencing products.
+
+The Logitech C920 HD Pro Webcam is designed for users who need Full HD video communication and recording from a desktop or laptop setup.
+
+The webcam combines 1080p video, autofocus, a 78° field of view, dual microphones and automatic light correction in a compact USB webcam.
+
+It is designed for everyday applications such as video calls, remote work, online classes, streaming, YouTube recording and other computer-based content creation.
+
+Product specifications, package contents, seller information and availability may vary by market and listing, so buyers should verify the latest Amazon product page before purchasing.`,
+
+  productDetails: `The Logitech C920 HD Pro Webcam is a Full HD USB webcam designed for video calls, recording, streaming and online communication.
+
+Its 1080p video capability can provide detailed Full HD video at up to 30fps, making it suitable for common video conferencing, streaming and content-creation applications.
+
+The webcam features a five-element glass lens and autofocus. The autofocus system is designed to help keep the subject in focus when the distance or position changes during recording.
+
+A 78° diagonal field of view provides a focused frame suitable for individual video calls, online meetings, tutorials, interviews, streaming and talking-head videos.
+
+The C920 also includes two integrated microphones designed to provide stereo audio. This allows users to use the webcam without immediately requiring a separate microphone for basic calls and meetings.
+
+Automatic light correction is designed to adjust the image according to available lighting conditions. Actual image quality can still vary depending on room lighting, camera placement and the application being used.
+
+The webcam connects through USB and is designed for compatible Windows, Mac and ChromeOS computers.
+
+The Logitech C920 can be used for Zoom, Google Meet, Microsoft Teams, online classes, YouTube videos, live streaming, gaming face-cam setups and other supported applications.
+
+Users who require 4K resolution, 60fps Full HD recording, advanced camera controls or professional studio features may want to compare higher-end webcams before purchasing.
+
+Always verify the exact Amazon listing for current specifications, seller, warranty, package contents, price and availability.`,
+
+  additionalInformation: {
+    'Brand': 'Logitech',
+    'Product Series': 'C920 HD Pro',
+    'Model': 'C920',
+    'Product Type': 'Full HD USB Webcam',
+    'Maximum Video Resolution': '1920 × 1080',
+    'Video Resolution': '1080p Full HD',
+    'Maximum Frame Rate': '30fps',
+    'HD Resolution': '720p at 30fps',
+    'Lens': 'Five-element glass lens',
+    'Focus': 'Autofocus',
+    'Field of View': '78° diagonal',
+    'Microphones': 'Dual built-in microphones',
+    'Audio': 'Stereo',
+    'Light Correction': 'Automatic HD light correction',
+    'Connectivity': 'USB',
+    'Compatible Platforms': 'Windows, Mac & ChromeOS',
+    'Mounting': 'Universal mounting clip',
+    'Tripod Support': 'Compatible mounting setup',
+    'Colour': 'Black',
+    'Suitable For': 'Video Calls, Streaming, Recording & Online Meetings',
+    'Use Case': 'Computer Video Communication & Content Creation',
+    'Price': '₹7,995',
+    'Original Price': '₹10,295',
+    'Discount': '22%',
+    'Marketplace': 'Amazon'
+  },
+
+  faq: [
+    {
+      question: 'What is the Logitech C920 HD Pro Webcam?',
+      answer:
+        'The Logitech C920 HD Pro is a Full HD USB webcam designed for video calls, online meetings, streaming, recording, online classes and content creation.',
+    },
+    {
+      question: 'Is the Logitech C920 a 1080p webcam?',
+      answer:
+        'Yes. The Logitech C920 supports Full HD 1080p video at up to 30fps.',
+    },
+    {
+      question: 'Does the Logitech C920 have autofocus?',
+      answer:
+        'Yes. The Logitech C920 features autofocus designed to help maintain focus on the subject during video calls and recording.',
+    },
+    {
+      question: 'Does the Logitech C920 have a microphone?',
+      answer:
+        'Yes. The Logitech C920 includes two built-in microphones designed to provide stereo audio.',
+    },
+    {
+      question: 'What is the field of view of the Logitech C920?',
+      answer:
+        'The Logitech C920 has a 78° diagonal field of view.',
+    },
+    {
+      question: 'Does the Logitech C920 support 4K?',
+      answer:
+        'No. The Logitech C920 is a Full HD 1080p webcam with a maximum listed video resolution of 1920 × 1080 at 30fps.',
+    },
+    {
+      question: 'Is the Logitech C920 good for streaming?',
+      answer:
+        'Yes. The Logitech C920 can be used for Full HD streaming, gaming face-cam videos, tutorials, live streams and other content-creation applications where 1080p at 30fps is sufficient.',
+    },
+    {
+      question: 'Can the Logitech C920 be used for YouTube?',
+      answer:
+        'Yes. The webcam can be used for YouTube videos, talking-head content, tutorials, product demonstrations, live streaming and other compatible recording setups.',
+    },
+    {
+      question: 'Can the Logitech C920 be used for Zoom?',
+      answer:
+        'Yes. The Logitech C920 is designed for video communication and can be used with supported applications such as Zoom.',
+    },
+    {
+      question: 'Does the Logitech C920 work with Google Meet?',
+      answer:
+        'Yes. The Logitech C920 can be used with Google Meet on compatible computer setups.',
+    },
+    {
+      question: 'Does the Logitech C920 work with Microsoft Teams?',
+      answer:
+        'Yes. The Logitech C920 can be used with Microsoft Teams and other supported video-conferencing applications.',
+    },
+    {
+      question: 'Can I use the Logitech C920 with a laptop?',
+      answer:
+        'Yes. The Logitech C920 can be connected to compatible laptops through USB.',
+    },
+    {
+      question: 'What operating systems support the Logitech C920?',
+      answer:
+        'The Logitech C920 is designed for compatible Windows, Mac and ChromeOS computers.',
+    },
+    {
+      question: 'Does the Logitech C920 have automatic light correction?',
+      answer:
+        'Yes. The Logitech C920 features automatic HD light correction designed to adjust the image according to lighting conditions.',
+    },
+    {
+      question: 'Is the Logitech C920 suitable for online classes?',
+      answer:
+        'Yes. Its Full HD video, autofocus and built-in microphones make it suitable for online classes and virtual learning on compatible computers.',
+    },
+    {
+      question: 'Is the Logitech C920 suitable for remote work?',
+      answer:
+        'Yes. The Logitech C920 can be used for work-from-home meetings, video conferences, interviews and other remote-work applications.',
+    },
+    {
+      question: 'Does the Logitech C920 support a tripod?',
+      answer:
+        'The C920 is designed with compatible mounting support and can be used with suitable tripod or mounting setups.',
+    },
+    {
+      question: 'What is the price of the Logitech C920?',
+      answer:
+        'The provided deal price is ₹7,995 compared with an original price of ₹10,295 and a listed discount of 22%. Amazon prices and availability may change.',
+    },
+    {
+      question: 'Is the Logitech C920 good for gaming?',
+      answer:
+        'Yes. The Logitech C920 can be used as a facecam for gaming streams and recordings where 1080p at 30fps is sufficient.',
+    },
+    {
+      question: 'Should I check compatibility before buying the Logitech C920?',
+      answer:
+        'Yes. Buyers should verify the computer operating system, available USB port, exact product model, seller, warranty and package contents on the latest Amazon listing before purchasing.',
+    },
+  ],
+
+  price: 7995,
+  originalPrice: 10295,
+  discount: 22,
+
+  rating: 4.4,
+  reviewCount: 0,
+
+  affiliateUrl: 'https://link.amazon/B0i1RNC9D',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    '1080p Full HD video',
+    'Full HD video at up to 30fps',
+    'Autofocus support',
+    '78° diagonal field of view',
+    'Five-element glass lens',
+    'Dual built-in microphones',
+    'Stereo audio support',
+    'Automatic HD light correction',
+    'USB connectivity',
+    'Compatible with Windows computers',
+    'Compatible with Mac computers',
+    'Compatible with ChromeOS computers',
+    'Suitable for Zoom video calls',
+    'Suitable for Google Meet',
+    'Suitable for Microsoft Teams',
+    'Useful for YouTube videos',
+    'Suitable for live streaming',
+    'Useful for gaming face-cam setups',
+    'Suitable for online classes',
+    'Useful for work-from-home meetings',
+    'Suitable for remote interviews',
+    'Useful for tutorials and content creation',
+    'Black colour',
+    'Designed for desktop and laptop setups',
+    'Current listed price ₹7,995',
+    'Original price ₹10,295',
+    'Listed discount 22%'
+  ],
+
+  pros: [
+    '1080p Full HD video',
+    'Autofocus',
+    '78° field of view',
+    'Five-element glass lens',
+    'Dual built-in microphones',
+    'Automatic light correction',
+    'USB connectivity',
+    'Suitable for video calls',
+    'Useful for YouTube recording',
+    'Suitable for streaming',
+    'Useful for online classes',
+    'Suitable for remote work',
+    'Compatible with popular video-conferencing applications',
+    'Compatible with Windows, Mac and ChromeOS computers',
+    'Useful for gaming face-cam setups'
+  ],
+
+  cons: [
+    'Maximum Full HD frame rate is 30fps',
+    'Does not provide 4K video',
+    'Built-in microphones may not replace a dedicated microphone for professional audio',
+    'Video quality depends on lighting conditions',
+    'USB compatibility should be checked before purchase',
+    'Higher-end users may want advanced camera controls',
+    'Some newer webcams offer higher resolution or frame rates',
+    'Amazon price and availability may change'
+  ],
+
+  specs: {
+    'Brand': 'Logitech',
+    'Series': 'C920 HD Pro',
+    'Model': 'C920',
+    'Product Type': 'Full HD USB Webcam',
+    'Maximum Resolution': '1920 × 1080',
+    'Video': '1080p Full HD',
+    'Maximum Frame Rate': '30fps',
+    'HD Video': '720p at 30fps',
+    'Lens': 'Five-element glass lens',
+    'Focus': 'Autofocus',
+    'Field of View': '78° diagonal',
+    'Microphones': 'Dual built-in microphones',
+    'Audio': 'Stereo',
+    'Light Correction': 'Automatic HD light correction',
+    'Connectivity': 'USB',
+    'Compatible Platforms': 'Windows, Mac & ChromeOS',
+    'Mounting': 'Universal Mounting Clip',
+    'Tripod Support': 'Compatible Mounting Setup',
+    'Colour': 'Black',
+    'Use': 'Video Calls, Streaming, Recording & Online Meetings',
+    'Price': '₹7,995',
+    'Original Price': '₹10,295',
+    'Discount': '22%'
   }
 },
 ];
