@@ -1917,7 +1917,7 @@ Always verify the exact Amazon listing for current specifications, seller, warra
   }
 },
   {
-  id: 'p18',
+   id: 'p18',
   name: 'MILTON Classic 2200W Infrared Cooktop – One Touch, 4 Cooking Modes & Powerful 600°C Heating',
   slug: 'milton-classic-2200w-infrared-cooktop',
   category: 'Home & Kitchen',
