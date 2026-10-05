@@ -1917,14 +1917,14 @@ Always verify the exact Amazon listing for current specifications, seller, warra
   }
 },
   {
-   id: 'p18',
-  name: 'MILTON Classic 2200W Infrared Cooktop – One Touch, 4 Cooking Modes & Powerful 600°C Heating',
-  slug: 'milton-classic-2200w-infrared-cooktop',
-  category: 'Home & Kitchen',
-  brand: 'MILTON',
-  image: '/assets/aistudio/milton-classic-2200w-infrared-cooktop.png',
+    id: 'p18',
+    name: 'MILTON Classic 2200W Infrared Cooktop – One Touch, 4 Cooking Modes & Powerful 600°C Heating',
+    slug: 'milton-classic-2200w-infrared-cooktop',
+    category: 'Home & Kitchen',
+    brand: 'MILTON',
+    image: '/assets/aistudio/milton-classic-2200w-infrared-cooktop.png',
 
-  description: `The MILTON Classic 2200W Infrared Cooktop is a modern electric cooking appliance designed for convenient everyday cooking. It combines powerful 2200W heating with a sleek crystal glass surface and an easy-to-use touch control panel.
+    description: `The MILTON Classic 2200W Infrared Cooktop is a modern electric cooking appliance designed for convenient everyday cooking. It combines powerful 2200W heating with a sleek crystal glass surface and an easy-to-use touch control panel.
 
 The cooktop offers four preset cooking modes including Stir-Fry, BBQ, Hot Pot and Steam, giving users convenient options for different cooking requirements.
 
@@ -1938,7 +1938,7 @@ Actual cooking performance may vary depending on cookware, food quantity, room c
 
 Always check the latest Flipkart listing for the exact price, seller, warranty, package contents, availability and specifications before purchasing.`,
 
-  about: `MILTON is an established Indian consumer brand offering a range of household, kitchen, lifestyle and everyday-use products.
+    about: `MILTON is an established Indian consumer brand offering a range of household, kitchen, lifestyle and everyday-use products.
 
 The MILTON Classic 2200W Infrared Cooktop is designed for users who want a modern electric cooking solution with powerful heating, touch controls and multiple preset cooking modes.
 
@@ -1948,7 +1948,7 @@ It is designed for everyday cooking requirements such as stir-frying, hot-pot-st
 
 Product specifications, seller information, warranty, package contents, price and availability may vary depending on the marketplace listing. Buyers should verify the latest Flipkart product page before purchasing.`,
 
-  productDetails: `The MILTON Classic 2200W Infrared Cooktop is designed to provide convenient electric cooking with powerful heating and multiple preset modes.
+    productDetails: `The MILTON Classic 2200W Infrared Cooktop is designed to provide convenient electric cooking with powerful heating and multiple preset modes.
 
 Its 2200W power output is designed for efficient heating and everyday cooking. The cooktop offers a temperature range from 60°C to 600°C, allowing users to select different heat levels according to their cooking requirements.
 
@@ -1966,7 +1966,7 @@ Users should ensure that their cookware is suitable for infrared cooktop use and
 
 Always verify the latest Flipkart listing for the exact model, price, seller, warranty, package contents and product specifications before purchasing.`,
 
-  additionalInformation: {
+    additionalInformation: {
     'Brand': 'MILTON',
     'Model': 'Classic',
     'Product Type': 'Infrared Cooktop',
