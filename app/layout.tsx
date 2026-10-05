@@ -21,8 +21,11 @@ export const metadata: Metadata = {
     'Discover the best online deals, trending products, discounts and shopping guides at Vibes Deals. Shop smarter with carefully selected product recommendations.',
 
   icons: {
-    icon: '/vibes-deals-favicon.png',
-    shortcut: '/vibes-deals-favicon.png',
+    icon: [
+      { url: '/favicon.ico', type: 'image/x-icon' },
+      { url: '/vibes-deals-favicon.png', type: 'image/png' },
+    ],
+    shortcut: '/favicon.ico',
     apple: '/vibes-deals-favicon.png',
   },  
 
