@@ -521,7 +521,7 @@ price: 5495,
 originalPrice: 5495,
 discount: 0,
 
-rating: 0,
+rating: 4.3,
 reviewCount: 0,
 
 affiliateUrl: 'https://link.amazon/B0ghDs7sk',
@@ -832,7 +832,7 @@ Actual performance may vary depending on the motherboard or laptop, PCIe generat
   originalPrice: 10500,
   discount: 11,
 
-  rating: 0,
+  rating: 4.4,
   reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B0cKCIcgo',
@@ -1052,7 +1052,7 @@ Actual performance depends on the game, application, drivers, thermal conditions
   originalPrice: 311990,
   discount: 17,
 
-  rating: 0,
+  rating: 4.5,
   reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B08CinRPf',
@@ -1300,7 +1300,7 @@ The product is primarily designed for smartphones rather than heavy professional
   originalPrice: 3399,
   discount: 32,
 
-  rating: 0,
+  rating: 4.5,
   reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B0i54FZRx',
@@ -1555,7 +1555,7 @@ The G2 AFT variant is listed as an 11-inch product size, while compatible tripod
   originalPrice: 4999,
   discount: 62,
 
-  rating: 0,
+  rating: 4.5,
   reviewCount: 0,
 
   affiliateUrl: 'https://link.amazon/B06FhiCft',
@@ -1636,175 +1636,545 @@ The G2 AFT variant is listed as an 11-inch product size, while compatible tripod
   }
 },
   {
-    id: 'p17',
+  id: 'p17',
+  name: 'Logitech C920 HD Pro Webcam – 1080p Full HD, Autofocus & Dual Microphones',
+  slug: 'logitech-c920-hd-pro-webcam-review',
+  category: 'Electronics',
+  brand: 'Logitech',
+  image: '/assets/aistudio/logitech-c920-hd-pro-webcam.png',
+
+  description: `The Logitech C920 HD Pro Webcam is a Full HD 1080p webcam designed for video calls, online meetings, streaming, YouTube recording, online classes and everyday content creation.
+
+The C920 supports up to 1080p Full HD video at 30fps and features autofocus, a 78° diagonal field of view, a five-element glass lens and dual built-in microphones.
+
+Its automatic light correction is designed to help adjust the image according to changing lighting conditions, making the webcam suitable for home-office setups, video conferencing and content creation.
+
+The Logitech C920 can be used with compatible Windows, Mac and ChromeOS computers and is designed to work with popular video communication and streaming applications.
+
+The webcam is suitable for remote workers, students, online teachers, YouTubers, streamers, gamers and users who want a dedicated Full HD webcam instead of relying on a built-in laptop camera.
+
+Actual video and audio performance can vary depending on lighting, computer hardware, software, internet connection and usage environment.
+
+Always check the latest Amazon listing for the exact model, price, seller, warranty, package contents, availability and specifications before purchasing.`,
+
+  about: `Logitech is a well-known technology brand offering computer peripherals and accessories including webcams, keyboards, mice, headsets and video-conferencing products.
+
+The Logitech C920 HD Pro Webcam is designed for users who need Full HD video communication and recording from a desktop or laptop setup.
+
+The webcam combines 1080p video, autofocus, a 78° field of view, dual microphones and automatic light correction in a compact USB webcam.
+
+It is designed for everyday applications such as video calls, remote work, online classes, streaming, YouTube recording and other computer-based content creation.
+
+Product specifications, package contents, seller information and availability may vary by market and listing, so buyers should verify the latest Amazon product page before purchasing.`,
+
+  productDetails: `The Logitech C920 HD Pro Webcam is a Full HD USB webcam designed for video calls, recording, streaming and online communication.
+
+Its 1080p video capability can provide detailed Full HD video at up to 30fps, making it suitable for common video conferencing, streaming and content-creation applications.
+
+The webcam features a five-element glass lens and autofocus. The autofocus system is designed to help keep the subject in focus when the distance or position changes during recording.
+
+A 78° diagonal field of view provides a focused frame suitable for individual video calls, online meetings, tutorials, interviews, streaming and talking-head videos.
+
+The C920 also includes two integrated microphones designed to provide stereo audio. This allows users to use the webcam without immediately requiring a separate microphone for basic calls and meetings.
+
+Automatic light correction is designed to adjust the image according to available lighting conditions. Actual image quality can still vary depending on room lighting, camera placement and the application being used.
+
+The webcam connects through USB and is designed for compatible Windows, Mac and ChromeOS computers.
+
+The Logitech C920 can be used for Zoom, Google Meet, Microsoft Teams, online classes, YouTube videos, live streaming, gaming face-cam setups and other supported applications.
+
+Users who require 4K resolution, 60fps Full HD recording, advanced camera controls or professional studio features may want to compare higher-end webcams before purchasing.
+
+Always verify the exact Amazon listing for current specifications, seller, warranty, package contents, price and availability.`,
+
+  additionalInformation: {
+    'Brand': 'Logitech',
+    'Product Series': 'C920 HD Pro',
+    'Model': 'C920',
+    'Product Type': 'Full HD USB Webcam',
+    'Maximum Video Resolution': '1920 × 1080',
+    'Video Resolution': '1080p Full HD',
+    'Maximum Frame Rate': '30fps',
+    'HD Resolution': '720p at 30fps',
+    'Lens': 'Five-element glass lens',
+    'Focus': 'Autofocus',
+    'Field of View': '78° diagonal',
+    'Microphones': 'Dual built-in microphones',
+    'Audio': 'Stereo',
+    'Light Correction': 'Automatic HD light correction',
+    'Connectivity': 'USB',
+    'Compatible Platforms': 'Windows, Mac & ChromeOS',
+    'Mounting': 'Universal mounting clip',
+    'Tripod Support': 'Compatible mounting setup',
+    'Colour': 'Black',
+    'Suitable For': 'Video Calls, Streaming, Recording & Online Meetings',
+    'Use Case': 'Computer Video Communication & Content Creation',
+    'Price': '₹7,995',
+    'Original Price': '₹10,295',
+    'Discount': '22%',
+    'Marketplace': 'Amazon'
+  },
+
+  faq: [
+    {
+      question: 'What is the Logitech C920 HD Pro Webcam?',
+      answer:
+        'The Logitech C920 HD Pro is a Full HD USB webcam designed for video calls, online meetings, streaming, recording, online classes and content creation.',
+    },
+    {
+      question: 'Is the Logitech C920 a 1080p webcam?',
+      answer:
+        'Yes. The Logitech C920 supports Full HD 1080p video at up to 30fps.',
+    },
+    {
+      question: 'Does the Logitech C920 have autofocus?',
+      answer:
+        'Yes. The Logitech C920 features autofocus designed to help maintain focus on the subject during video calls and recording.',
+    },
+    {
+      question: 'Does the Logitech C920 have a microphone?',
+      answer:
+        'Yes. The Logitech C920 includes two built-in microphones designed to provide stereo audio.',
+    },
+    {
+      question: 'What is the field of view of the Logitech C920?',
+      answer:
+        'The Logitech C920 has a 78° diagonal field of view.',
+    },
+    {
+      question: 'Does the Logitech C920 support 4K?',
+      answer:
+        'No. The Logitech C920 is a Full HD 1080p webcam with a maximum listed video resolution of 1920 × 1080 at 30fps.',
+    },
+    {
+      question: 'Is the Logitech C920 good for streaming?',
+      answer:
+        'Yes. The Logitech C920 can be used for Full HD streaming, gaming face-cam videos, tutorials, live streams and other content-creation applications where 1080p at 30fps is sufficient.',
+    },
+    {
+      question: 'Can the Logitech C920 be used for YouTube?',
+      answer:
+        'Yes. The webcam can be used for YouTube videos, talking-head content, tutorials, product demonstrations, live streaming and other compatible recording setups.',
+    },
+    {
+      question: 'Can the Logitech C920 be used for Zoom?',
+      answer:
+        'Yes. The Logitech C920 is designed for video communication and can be used with supported applications such as Zoom.',
+    },
+    {
+      question: 'Does the Logitech C920 work with Google Meet?',
+      answer:
+        'Yes. The Logitech C920 can be used with Google Meet on compatible computer setups.',
+    },
+    {
+      question: 'Does the Logitech C920 work with Microsoft Teams?',
+      answer:
+        'Yes. The Logitech C920 can be used with Microsoft Teams and other supported video-conferencing applications.',
+    },
+    {
+      question: 'Can I use the Logitech C920 with a laptop?',
+      answer:
+        'Yes. The Logitech C920 can be connected to compatible laptops through USB.',
+    },
+    {
+      question: 'What operating systems support the Logitech C920?',
+      answer:
+        'The Logitech C920 is designed for compatible Windows, Mac and ChromeOS computers.',
+    },
+    {
+      question: 'Does the Logitech C920 have automatic light correction?',
+      answer:
+        'Yes. The Logitech C920 features automatic HD light correction designed to adjust the image according to lighting conditions.',
+    },
+    {
+      question: 'Is the Logitech C920 suitable for online classes?',
+      answer:
+        'Yes. Its Full HD video, autofocus and built-in microphones make it suitable for online classes and virtual learning on compatible computers.',
+    },
+    {
+      question: 'Is the Logitech C920 suitable for remote work?',
+      answer:
+        'Yes. The Logitech C920 can be used for work-from-home meetings, video conferences, interviews and other remote-work applications.',
+    },
+    {
+      question: 'Does the Logitech C920 support a tripod?',
+      answer:
+        'The C920 is designed with compatible mounting support and can be used with suitable tripod or mounting setups.',
+    },
+    {
+      question: 'What is the price of the Logitech C920?',
+      answer:
+        'The provided deal price is ₹7,995 compared with an original price of ₹10,295 and a listed discount of 22%. Amazon prices and availability may change.',
+    },
+    {
+      question: 'Is the Logitech C920 good for gaming?',
+      answer:
+        'Yes. The Logitech C920 can be used as a facecam for gaming streams and recordings where 1080p at 30fps is sufficient.',
+    },
+    {
+      question: 'Should I check compatibility before buying the Logitech C920?',
+      answer:
+        'Yes. Buyers should verify the computer operating system, available USB port, exact product model, seller, warranty and package contents on the latest Amazon listing before purchasing.',
+    },
+  ],
+
+  price: 7995,
+  originalPrice: 10295,
+  discount: 22,
+
+  rating: 4.4,
+  reviewCount: 0,
+
+  affiliateUrl: 'https://link.amazon/B0i1RNC9D',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    '1080p Full HD video',
+    'Full HD video at up to 30fps',
+    'Autofocus support',
+    '78° diagonal field of view',
+    'Five-element glass lens',
+    'Dual built-in microphones',
+    'Stereo audio support',
+    'Automatic HD light correction',
+    'USB connectivity',
+    'Compatible with Windows computers',
+    'Compatible with Mac computers',
+    'Compatible with ChromeOS computers',
+    'Suitable for Zoom video calls',
+    'Suitable for Google Meet',
+    'Suitable for Microsoft Teams',
+    'Useful for YouTube videos',
+    'Suitable for live streaming',
+    'Useful for gaming face-cam setups',
+    'Suitable for online classes',
+    'Useful for work-from-home meetings',
+    'Suitable for remote interviews',
+    'Useful for tutorials and content creation',
+    'Black colour',
+    'Designed for desktop and laptop setups',
+    'Current listed price ₹7,995',
+    'Original price ₹10,295',
+    'Listed discount 22%'
+  ],
+
+  pros: [
+    '1080p Full HD video',
+    'Autofocus',
+    '78° field of view',
+    'Five-element glass lens',
+    'Dual built-in microphones',
+    'Automatic light correction',
+    'USB connectivity',
+    'Suitable for video calls',
+    'Useful for YouTube recording',
+    'Suitable for streaming',
+    'Useful for online classes',
+    'Suitable for remote work',
+    'Compatible with popular video-conferencing applications',
+    'Compatible with Windows, Mac and ChromeOS computers',
+    'Useful for gaming face-cam setups'
+  ],
+
+  cons: [
+    'Maximum Full HD frame rate is 30fps',
+    'Does not provide 4K video',
+    'Built-in microphones may not replace a dedicated microphone for professional audio',
+    'Video quality depends on lighting conditions',
+    'USB compatibility should be checked before purchase',
+    'Higher-end users may want advanced camera controls',
+    'Some newer webcams offer higher resolution or frame rates',
+    'Amazon price and availability may change'
+  ],
+
+  specs: {
+    'Brand': 'Logitech',
+    'Series': 'C920 HD Pro',
+    'Model': 'C920',
+    'Product Type': 'Full HD USB Webcam',
+    'Maximum Resolution': '1920 × 1080',
+    'Video': '1080p Full HD',
+    'Maximum Frame Rate': '30fps',
+    'HD Video': '720p at 30fps',
+    'Lens': 'Five-element glass lens',
+    'Focus': 'Autofocus',
+    'Field of View': '78° diagonal',
+    'Microphones': 'Dual built-in microphones',
+    'Audio': 'Stereo',
+    'Light Correction': 'Automatic HD light correction',
+    'Connectivity': 'USB',
+    'Compatible Platforms': 'Windows, Mac & ChromeOS',
+    'Mounting': 'Universal Mounting Clip',
+    'Tripod Support': 'Compatible Mounting Setup',
+    'Colour': 'Black',
+    'Use': 'Video Calls, Streaming, Recording & Online Meetings',
+    'Price': '₹7,995',
+    'Original Price': '₹10,295',
+    'Discount': '22%'
+  }
+},
+  {
+    id: 'p18',
     name: 'MILTON Classic 2200W Infrared Cooktop – One Touch, 4 Cooking Modes & Powerful 600°C Heating',
     slug: 'milton-classic-2200w-infrared-cooktop',
     category: 'Home & Kitchen',
     brand: 'MILTON',
     image: '/assets/aistudio/milton-classic-2200w-infrared-cooktop.png',
 
-    description: `The MILTON Classic 2200W Infrared Cooktop is a modern electric cooking appliance designed for convenient everyday cooking. It combines powerful 2200W heating with a crystal glass surface and touch-panel controls.
+    description: `The MILTON Classic 2200W Infrared Cooktop is a modern electric cooking appliance designed for convenient everyday cooking. It combines powerful 2200W heating with a sleek crystal glass surface and an easy-to-use touch control panel.
 
-The cooktop features four preset cooking modes including Stir-Fry, BBQ, Hot Pot and Steam. It also offers a stated temperature range of 60°C to 600°C, along with a digital display and timer.
+The cooktop offers four preset cooking modes including Stir-Fry, BBQ, Hot Pot and Steam, giving users convenient options for different cooking requirements.
 
-Its Classic Silver design makes it suitable for modern kitchens, apartments, rented homes, offices and compact cooking spaces.
+With a temperature range of 60°C to 600°C, the MILTON Classic provides flexible heat control for various cooking tasks. Its digital display allows users to monitor cooking settings, while the digital timer adds extra convenience during meal preparation.
 
-Actual cooking performance may vary depending on cookware, food quantity, power supply and cooking conditions. Always check the latest Flipkart listing for current price, seller, warranty, package contents and specifications.`,
+The modern Classic Silver design makes it suitable for contemporary kitchens, apartments, rented homes, offices and other spaces where a compact electric cooking appliance is useful.
 
-    about: `MILTON is an Indian consumer brand offering household, kitchen, lifestyle and everyday-use products.
+The MILTON Classic Infrared Cooktop can be a practical choice for users looking for a high-power electric cooktop with multiple preset cooking modes and touch controls.
 
-The MILTON Classic 2200W Infrared Cooktop is designed for users looking for an electric cooking appliance with powerful heating, touch controls, multiple preset cooking modes and a modern crystal glass surface.
+Actual cooking performance may vary depending on cookware, food quantity, room conditions, power supply and cooking method.
 
-The product is intended for everyday cooking requirements such as stir-frying, steaming, hot-pot-style cooking and barbecue-style preparations.
+Always check the latest Flipkart listing for the exact price, seller, warranty, package contents, availability and specifications before purchasing.`,
 
-Product specifications, seller information, warranty, price and availability may vary. Buyers should verify the latest Flipkart listing before purchasing.`,
+    about: `MILTON is an established Indian consumer brand offering a range of household, kitchen, lifestyle and everyday-use products.
 
-    productDetails: `The MILTON Classic 2200W Infrared Cooktop combines 2200W heating with a crystal glass cooking surface and touch-panel controls.
+The MILTON Classic 2200W Infrared Cooktop is designed for users who want a modern electric cooking solution with powerful heating, touch controls and multiple preset cooking modes.
 
-It offers a stated temperature range of 60°C to 600°C and includes four preset cooking modes: Stir-Fry, BBQ, Hot Pot and Steam.
+The appliance combines a crystal glass cooking surface, digital display, temperature control and four cooking modes in a compact design.
 
-The digital display allows users to monitor cooking-related settings, while the digital timer provides additional convenience during cooking.
+It is designed for everyday cooking requirements such as stir-frying, hot-pot-style cooking, steaming and barbecue-style preparations.
 
-The cooktop is designed for everyday home cooking and can be useful in apartments, rented homes, offices and compact kitchen setups.
+Product specifications, seller information, warranty, package contents, price and availability may vary depending on the marketplace listing. Buyers should verify the latest Flipkart product page before purchasing.`,
 
-Users should follow the manufacturer's operating and safety instructions and verify cookware compatibility before use.`,
+    productDetails: `The MILTON Classic 2200W Infrared Cooktop is designed to provide convenient electric cooking with powerful heating and multiple preset modes.
+
+Its 2200W power output is designed for efficient heating and everyday cooking. The cooktop offers a temperature range from 60°C to 600°C, allowing users to select different heat levels according to their cooking requirements.
+
+The crystal glass cooking surface gives the cooktop a clean and modern appearance while making the appliance suitable for contemporary kitchen setups.
+
+A touch control panel provides convenient access to the cooktop's functions and settings. The digital display allows users to monitor cooking-related information such as temperature and wattage.
+
+The appliance includes four preset cooking modes: Stir-Fry, BBQ, Hot Pot and Steam. These modes are designed to make it easier to select suitable cooking settings for different types of food preparation.
+
+The digital timer can also provide additional convenience by allowing users to manage cooking time without continuously monitoring the appliance.
+
+The MILTON Classic is suitable for everyday home cooking and can be useful in apartments, rented homes, compact kitchens, offices and other locations where an electric cooktop is preferred.
+
+Users should ensure that their cookware is suitable for infrared cooktop use and should follow the manufacturer's safety and operating instructions.
+
+Always verify the latest Flipkart listing for the exact model, price, seller, warranty, package contents and product specifications before purchasing.`,
 
     additionalInformation: {
-      'Brand': 'MILTON',
-      'Model': 'Classic',
-      'Product Type': 'Infrared Cooktop',
-      'Power': '2200W',
-      'Control Type': 'Touch Panel',
-      'Cooking Surface': 'Crystal Glass',
-      'Temperature Range': '60°C–600°C',
-      'Cooking Modes': 'Stir-Fry, BBQ, Hot Pot & Steam',
-      'Display': 'Digital',
-      'Timer': 'Yes',
-      'Colour': 'Classic Silver',
-      'Heating Technology': 'Infrared',
-      'Suitable For': 'Home & Kitchen Cooking',
-      'Use Case': 'Everyday Cooking',
-      'Price': '₹4,418',
-      'Original Price': '₹6,499',
-      'Discount': '32%',
-      'Marketplace': 'Flipkart'
-    },
-
-    faq: [
-      {
-        question: 'What is the MILTON Classic 2200W Infrared Cooktop?',
-        answer: 'The MILTON Classic is a 2200W infrared electric cooktop with a crystal glass surface, touch controls and four preset cooking modes.'
-      },
-      {
-        question: 'What is the power of the MILTON Classic Cooktop?',
-        answer: 'The MILTON Classic Infrared Cooktop has a rated power of 2200W.'
-      },
-      {
-        question: 'What is the temperature range?',
-        answer: 'The stated temperature range is 60°C to 600°C.'
-      },
-      {
-        question: 'How many cooking modes are available?',
-        answer: 'The cooktop includes four preset modes: Stir-Fry, BBQ, Hot Pot and Steam.'
-      },
-      {
-        question: 'Does it have touch controls?',
-        answer: 'Yes. The MILTON Classic features touch-panel controls.'
-      },
-      {
-        question: 'Does it have a digital display?',
-        answer: 'Yes. The product features a digital display for cooking-related settings.'
-      },
-      {
-        question: 'Does it have a timer?',
-        answer: 'Yes. The cooktop includes a digital timer.'
-      },
-      {
-        question: 'What is the cooking surface made of?',
-        answer: 'The MILTON Classic features a crystal glass cooking surface.'
-      },
-      {
-        question: 'What is the current listed price?',
-        answer: 'The provided deal price is ₹4,418 compared with an original price of ₹6,499. Prices and availability may change.'
-      },
-      {
-        question: 'Where can I buy the MILTON Classic Cooktop?',
-        answer: 'The product is available through the provided Flipkart listing. Check the latest listing for price, seller, availability and delivery details.'
-      }
-    ],
-
-    price: 4418,
-    originalPrice: 6499,
-    discount: 32,
-
-    affiliateUrl: 'https://dl.flipkart.com/s/my0T6fNNNN',
-
-    featured: false,
-    trending: true,
-    bestseller: false,
-
-    highlights: [
-      '2200W powerful heating',
-      'Infrared cooking technology',
-      'Crystal glass cooking surface',
-      'Touch-panel controls',
-      '60°C to 600°C temperature range',
-      '4 preset cooking modes',
-      'Stir-Fry mode',
-      'BBQ mode',
-      'Hot Pot mode',
-      'Steam mode',
-      'Digital display',
-      'Digital timer',
-      'Classic Silver colour',
-      'Suitable for everyday cooking',
-      'Modern kitchen-friendly design',
-      'Useful for compact kitchen setups'
-    ],
-
-    pros: [
-      'Powerful 2200W heating',
-      'Wide 60°C–600°C temperature range',
-      'Four preset cooking modes',
-      'Touch-panel controls',
-      'Crystal glass surface',
-      'Digital display',
-      'Digital timer',
-      'Modern Classic Silver design',
-      'Suitable for everyday cooking'
-    ],
-
-    cons: [
-      'High-power cooking can consume more electricity',
-      'Glass surface requires careful handling',
-      'Cooking performance can vary depending on cookware',
-      'Users accustomed to gas cooking may need some adjustment',
-      'Requires suitable cookware and proper operating conditions',
-      'Price and availability may change on Flipkart'
-    ],
-
-    specs: {
-      'Brand': 'MILTON',
-      'Model': 'Classic',
-      'Product Type': 'Infrared Cooktop',
-      'Heating Technology': 'Infrared',
-      'Power': '2200W',
-      'Control Type': 'Touch Panel',
-      'Cooking Surface': 'Crystal Glass',
-      'Temperature Range': '60°C–600°C',
-      'Cooking Modes': 'Stir-Fry, BBQ, Hot Pot & Steam',
-      'Display': 'Digital',
-      'Timer': 'Yes',
-      'Colour': 'Classic Silver',
-      'Suitable For': 'Home & Kitchen Cooking',
-      'Use Case': 'Everyday Cooking',
-      'Price': '₹4,418',
-      'Original Price': '₹6,499',
-      'Discount': '32%',
-      'Marketplace': 'Flipkart'
-    }
+    'Brand': 'MILTON',
+    'Model': 'Classic',
+    'Product Type': 'Infrared Cooktop',
+    'Power': '2200W',
+    'Control Type': 'Touch Panel',
+    'Cooking Surface': 'Crystal Glass',
+    'Temperature Range': '60°C–600°C',
+    'Cooking Modes': 'Stir-Fry, BBQ, Hot Pot & Steam',
+    'Display': 'Digital',
+    'Timer': 'Yes',
+    'Colour': 'Classic Silver',
+    'Heating Technology': 'Infrared',
+    'Suitable For': 'Home & Kitchen Cooking',
+    'Use Case': 'Everyday Cooking',
+    'Price': '₹4,418',
+    'Original Price': '₹6,499',
+    'Discount': '32%',
+    'Marketplace': 'Flipkart'
   },
+
+  faq: [
+    {
+      question: 'What is the MILTON Classic 2200W Infrared Cooktop?',
+      answer:
+        'The MILTON Classic is a 2200W infrared electric cooktop designed for everyday cooking and features a crystal glass surface, touch controls and four preset cooking modes.',
+    },
+    {
+      question: 'What is the power of the MILTON Classic Infrared Cooktop?',
+      answer:
+        'The MILTON Classic Infrared Cooktop has a rated power of 2200W.',
+    },
+    {
+      question: 'What is the temperature range of the MILTON Classic Cooktop?',
+      answer:
+        'The cooktop offers a stated temperature range from 60°C to 600°C.',
+    },
+    {
+      question: 'How many cooking modes does the MILTON Classic have?',
+      answer:
+        'The cooktop has four preset cooking modes: Stir-Fry, BBQ, Hot Pot and Steam.',
+    },
+    {
+      question: 'Does the MILTON Classic have touch controls?',
+      answer:
+        'Yes. The MILTON Classic features a touch-panel control system for operating the cooktop.',
+    },
+    {
+      question: 'Does the MILTON Classic have a digital display?',
+      answer:
+        'Yes. The cooktop features a digital display for showing cooking-related settings such as temperature and wattage.',
+    },
+    {
+      question: 'Does the MILTON Classic Infrared Cooktop have a timer?',
+      answer:
+        'Yes. The product includes a digital timer for convenient cooking-time management.',
+    },
+    {
+      question: 'What is the cooking surface made of?',
+      answer:
+        'The MILTON Classic features a crystal glass cooking surface.',
+    },
+    {
+      question: 'What cooking modes are available on this cooktop?',
+      answer:
+        'The available preset modes are Stir-Fry, BBQ, Hot Pot and Steam.',
+    },
+    {
+      question: 'Is the MILTON Classic suitable for everyday cooking?',
+      answer:
+        'Yes. The cooktop is designed for everyday home cooking and offers multiple preset modes for different cooking requirements.',
+    },
+    {
+      question: 'Is the MILTON Classic Cooktop suitable for apartments?',
+      answer:
+        'Yes. Its compact electric cooking design can be useful for apartments, rented homes and other compact kitchen setups.',
+    },
+    {
+      question: 'What colour is the MILTON Classic Infrared Cooktop?',
+      answer:
+        'The listed colour is Classic Silver.',
+    },
+    {
+      question: 'Does the MILTON Classic support high-temperature cooking?',
+      answer:
+        'The product has a stated temperature range of up to 600°C. Actual cooking performance can vary depending on cookware and cooking conditions.',
+    },
+    {
+      question: 'Is the MILTON Classic good for stir-frying?',
+      answer:
+        'Yes. It includes a dedicated Stir-Fry preset mode designed for stir-frying and similar cooking requirements.',
+    },
+    {
+      question: 'Does the MILTON Classic have a BBQ mode?',
+      answer:
+        'Yes. The cooktop includes a BBQ preset mode.',
+    },
+    {
+      question: 'Does the MILTON Classic have a Hot Pot mode?',
+      answer:
+        'Yes. A Hot Pot preset mode is included for suitable hot-pot-style cooking.',
+    },
+    {
+      question: 'Does the MILTON Classic have a Steam mode?',
+      answer:
+        'Yes. The cooktop includes a Steam preset mode.',
+    },
+    {
+      question: 'What is the current listed price of the MILTON Classic Cooktop?',
+      answer:
+        'The provided deal price is ₹4,418 compared with an original price of ₹6,499, representing a listed discount of 32%. Prices and availability may change.',
+    },
+    {
+      question: 'Where can I buy the MILTON Classic 2200W Infrared Cooktop?',
+      answer:
+        'The product is available through the provided Flipkart affiliate listing. Buyers should check the latest listing for price, seller, availability and delivery details.',
+    },
+    {
+      question: 'Should I check the product details before buying?',
+      answer:
+        'Yes. Buyers should verify the latest Flipkart listing for the exact model, price, seller, warranty, package contents, availability and specifications before purchasing.',
+    }
+  ],
+
+  price: 4418,
+  originalPrice: 6499,
+  discount: 32,
+
+  affiliateUrl: 'https://dl.flipkart.com/s/my0T6fNNNN',
+
+  featured: false,
+  trending: true,
+  bestseller: false,
+
+  highlights: [
+    '2200W powerful heating',
+    'Infrared cooking technology',
+    'Crystal glass cooking surface',
+    'Touch-panel controls',
+    '60°C to 600°C temperature range',
+    '4 preset cooking modes',
+    'Stir-Fry mode',
+    'BBQ mode',
+    'Hot Pot mode',
+    'Steam mode',
+    'Digital temperature display',
+    'Digital watt display',
+    'Digital timer',
+    'Classic Silver colour',
+    'Modern kitchen-friendly design',
+    'Suitable for everyday cooking',
+    'Useful for apartments and compact kitchens',
+    'Suitable for different cooking requirements',
+    'Current listed price ₹4,418',
+    'Original price ₹6,499',
+    'Listed discount 32%',
+    'Available through Flipkart'
+  ],
+
+  pros: [
+    'Powerful 2200W heating',
+    'Wide 60°C–600°C temperature range',
+    'Four preset cooking modes',
+    'Stir-Fry cooking mode',
+    'BBQ cooking mode',
+    'Hot Pot cooking mode',
+    'Steam cooking mode',
+    'Touch-panel controls',
+    'Crystal glass surface',
+    'Digital display',
+    'Digital timer',
+    'Modern Classic Silver design',
+    'Suitable for everyday cooking',
+    'Useful for compact kitchen setups'
+  ],
+
+  cons: [
+    'High-power cooking can consume more electricity',
+    'Glass surface requires careful handling',
+    'Cooking performance can vary depending on cookware',
+    'Users accustomed to gas cooking may need some adjustment',
+    'Requires suitable cookware and proper operating conditions',
+    'Actual temperature and cooking performance may vary with usage',
+    'Price and availability may change on Flipkart'
+  ],
+
+  specs: {
+    'Brand': 'MILTON',
+    'Model': 'Classic',
+    'Product Type': 'Infrared Cooktop',
+    'Heating Technology': 'Infrared',
+    'Power': '2200W',
+    'Control Type': 'Touch Panel',
+    'Cooking Surface': 'Crystal Glass',
+    'Temperature Range': '60°C–600°C',
+    'Cooking Modes': 'Stir-Fry, BBQ, Hot Pot & Steam',
+    'Display': 'Digital',
+    'Timer': 'Yes',
+    'Colour': 'Classic Silver',
+    'Suitable For': 'Home & Kitchen Cooking',
+    'Use Case': 'Everyday Cooking',
+    'Price': '₹4,418',
+    'Original Price': '₹6,499',
+    'Discount': '32%',
+    'Marketplace': 'Flipkart'
+  }
+},
 ];
+
 export const categories: Category[] = [
   { name: 'Electronics', slug: 'electronics', icon: 'Cpu' },
   { name: 'Smartphones', slug: 'smartphones', icon: 'Smartphone' },
@@ -2431,7 +2801,7 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   author: 'VibesDeals Editorial'
 },
   {
-  id: 'b4',
+  id: 'b3',
   title: 'Rockwell 350GTS 5 Star Glass Top Ice Cream Display Deep Freezer: Complete Buying Guide',
   slug: 'rockwell-350gts-ice-cream-display-deep-freezer',
 
@@ -2626,7 +2996,7 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   author: 'Vibes Editorial'
   },
   {
-  id: 'b5',
+  id: 'b4',
   title: 'Vivo X500 Pro Max Camera & Features: 200MP Telephoto, LOFIC Sensor and Ultra-Wide Camera',
   slug: 'vivo-x500-pro-max-camera-features',
 
@@ -2985,5 +3355,569 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   date: '2026-09-26',
 
   author: 'Vibes Editorial'
-     }
+     },
+     {
+  id: 'b5',
+  title: 'Vivo V80 5G Price in India, Full Specifications, Features & Review',
+  slug: 'vivo-v80-5g-price-in-india-specifications-review',
+
+  excerpt:
+    'Vivo V80 5G features a 50MP ZEISS camera system, 50MP telephoto camera, 8MP ultra-wide camera, 50MP ZEISS selfie camera, 7200mAh battery, 90W charging, 144Hz 1.5K OLED display and Snapdragon 7 Gen 4 processor.',
+
+  content: `
+    <p>
+      The <strong>Vivo V80 5G</strong> is a premium camera-focused smartphone
+      designed for users who want a combination of photography, performance,
+      display quality and long battery life.
+    </p>
+
+    <p>
+      Vivo V80 comes with a <strong>6.59-inch 1.5K OLED display</strong>,
+      up to 144Hz refresh rate, Snapdragon 7 Gen 4 processor,
+      7,200mAh battery and 90W FlashCharge.
+    </p>
+
+    <h2>Vivo V80 5G Price in India</h2>
+
+    <p>
+      The official India retail price should be confirmed by Vivo at launch.
+      Pre-launch reports have suggested a starting price of around
+      <strong>₹63,000</strong>, but this should be treated as reported
+      pricing and not as the final official price.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Variant</th>
+          <th>Price Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8GB + 128GB</td>
+          <td>Official configuration; price to be confirmed</td>
+        </tr>
+        <tr>
+          <td>Other Storage Variants</td>
+          <td>May vary by market and final India availability</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      <strong>Price Disclaimer:</strong> Prices can change depending on the
+      official launch price, storage variant, bank offers, exchange offers
+      and retailer discounts. Always check the latest official price before buying.
+    </p>
+
+    <h2>Vivo V80 5G Launch Date in India</h2>
+
+    <p>
+      Vivo has announced the India launch of the Vivo V80 for
+      <strong>October 6, 2026</strong>.
+    </p>
+
+    <h2>Vivo V80 5G Specifications</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Specification</th>
+          <th>Vivo V80 5G</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Brand</td><td>Vivo</td></tr>
+        <tr><td>Model</td><td>Vivo V80</td></tr>
+        <tr><td>Network</td><td>5G</td></tr>
+        <tr><td>Operating System</td><td>OriginOS 7</td></tr>
+        <tr><td>Android Version</td><td>Android 17</td></tr>
+        <tr><td>Processor</td><td>Qualcomm Snapdragon 7 Gen 4</td></tr>
+        <tr><td>Process Technology</td><td>4nm</td></tr>
+        <tr><td>Display</td><td>6.59-inch 1.5K OLED</td></tr>
+        <tr><td>Display Resolution</td><td>2750 × 1260 pixels</td></tr>
+        <tr><td>Refresh Rate</td><td>Up to 144Hz</td></tr>
+        <tr><td>Peak Brightness</td><td>Up to 5000 nits local peak</td></tr>
+        <tr><td>Main Camera</td><td>50MP ZEISS OIS</td></tr>
+        <tr><td>Telephoto Camera</td><td>50MP ZEISS Night Telephoto</td></tr>
+        <tr><td>Ultra-Wide Camera</td><td>8MP</td></tr>
+        <tr><td>Front Camera</td><td>50MP ZEISS Group Selfie</td></tr>
+        <tr><td>Battery</td><td>7,200mAh typical capacity</td></tr>
+        <tr><td>Charging</td><td>90W FlashCharge</td></tr>
+        <tr><td>RAM</td><td>8GB LPDDR4X</td></tr>
+        <tr><td>Internal Storage</td><td>128GB UFS 3.1</td></tr>
+        <tr><td>Expandable Storage</td><td>Not Supported</td></tr>
+        <tr><td>Fingerprint Sensor</td><td>3D Ultrasonic</td></tr>
+        <tr><td>Water/Dust Resistance</td><td>IP68 + IP69</td></tr>
+        <tr><td>Bluetooth</td><td>Bluetooth 5.4</td></tr>
+        <tr><td>NFC</td><td>Supported</td></tr>
+        <tr><td>USB</td><td>USB Type-C 2.0</td></tr>
+        <tr><td>Weight</td><td>Approximately 203g</td></tr>
+        <tr><td>Colors</td><td>Stellar Black, Horizon Blue, Sunrise Anthem</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Vivo V80 5G Display</h2>
+
+    <p>
+      Vivo V80 features a <strong>6.59-inch 1.5K OLED display</strong>
+      with 2750 × 1260 resolution and up to a
+      <strong>144Hz</strong> refresh rate.
+    </p>
+
+    <p>
+      The high refresh rate provides smoother scrolling, animations and
+      supported gaming experiences. The display also supports up to
+      5000 nits local peak brightness under specified conditions.
+    </p>
+
+    <h2>Vivo V80 5G Camera</h2>
+
+    <p>
+      The camera system is one of the biggest highlights of the Vivo V80.
+      It features a dedicated ZEISS camera setup for photography,
+      portraits, night photography, telephoto shots and ultra-wide photography.
+    </p>
+
+    <h3>50MP ZEISS Main Camera</h3>
+
+    <p>
+      Vivo V80 comes with a <strong>50MP ZEISS main camera with OIS</strong>.
+      Optical image stabilization helps reduce the effect of hand movement
+      during photography and video recording.
+    </p>
+
+    <h3>50MP ZEISS Night Telephoto Camera</h3>
+
+    <p>
+      Vivo V80 features a dedicated <strong>50MP ZEISS Night Telephoto
+      camera</strong> designed for portraits, zoom photography and distant subjects.
+    </p>
+
+    <p>
+      Vivo highlights an <strong>85mm portrait perspective</strong> and
+      <strong>100mm Center-Stage Portrait</strong> mode.
+    </p>
+
+    <h3>8MP Ultra-Wide Camera</h3>
+
+    <p>
+      The <strong>8MP ultra-wide camera</strong> is designed for landscapes,
+      architecture, travel photography, group photos and large indoor scenes.
+    </p>
+
+    <h3>50MP ZEISS Group Selfie Camera</h3>
+
+    <p>
+      On the front, Vivo V80 features a
+      <strong>50MP ZEISS Group Selfie camera</strong> for selfies,
+      portraits and group photos.
+    </p>
+
+    <h2>Vivo V80 Camera Specifications</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Camera</th>
+          <th>Specification</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Main Camera</td><td>50MP ZEISS OIS</td></tr>
+        <tr><td>Telephoto Camera</td><td>50MP ZEISS Night Telephoto</td></tr>
+        <tr><td>Ultra-Wide Camera</td><td>8MP</td></tr>
+        <tr><td>Front Camera</td><td>50MP ZEISS Group Selfie</td></tr>
+        <tr><td>Portrait Focal Length</td><td>85mm</td></tr>
+        <tr><td>Center-Stage Portrait</td><td>100mm</td></tr>
+        <tr><td>Optical Stabilization</td><td>OIS on main camera</td></tr>
+        <tr><td>Video Recording</td><td>Up to 4K 60fps</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Vivo V80 Camera Features</h2>
+
+    <ul>
+      <li>50MP ZEISS OIS Main Camera</li>
+      <li>50MP ZEISS Night Telephoto Camera</li>
+      <li>8MP Ultra-Wide Camera</li>
+      <li>50MP ZEISS Group Selfie Camera</li>
+      <li>85mm ZEISS Portrait</li>
+      <li>100mm Center-Stage Portrait</li>
+      <li>AI Creative Camera</li>
+      <li>Live Sticker Collage</li>
+      <li>AI Diwali Portrait 2.0</li>
+      <li>4K Cinematic Video</li>
+      <li>4K 60fps Video Recording</li>
+    </ul>
+        <h2>Vivo V80 5G Video Recording</h2>
+
+    <p>
+      Vivo V80 supports <strong>4K video recording</strong> and
+      <strong>4K 60fps video recording</strong>. The phone also includes
+      cinematic video features aimed at users who create reels, travel videos,
+      social-media content and other mobile videos.
+    </p>
+
+    <h2>Vivo V80 5G Performance</h2>
+
+    <p>
+      The smartphone is powered by the <strong>Qualcomm Snapdragon 7 Gen 4
+      Mobile Platform</strong>. The chipset is built using a 4nm process and
+      is designed to provide a balance between performance and efficiency.
+    </p>
+
+    <p>
+      The Vivo V80 uses <strong>8GB LPDDR4X RAM</strong> and
+      <strong>128GB UFS 3.1 storage</strong> in the listed official
+      configuration.
+    </p>
+
+    <p>
+      The hardware can handle everyday applications, social media,
+      photography, video recording and gaming. Actual gaming performance
+      depends on game settings, temperature, software optimization and
+      network conditions.
+    </p>
+
+    <h2>Vivo V80 5G RAM and Storage</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Memory</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>RAM</td>
+          <td>8GB LPDDR4X</td>
+        </tr>
+        <tr>
+          <td>Internal Storage</td>
+          <td>128GB UFS 3.1</td>
+        </tr>
+        <tr>
+          <td>Expandable Storage</td>
+          <td>Not Supported</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      Storage configurations can vary by market. Buyers should check the exact
+      RAM and storage variant listed by Vivo or the authorized retailer before
+      purchasing.
+    </p>
+
+    <h2>Vivo V80 5G Battery</h2>
+
+    <p>
+      Vivo V80 features a large <strong>7,200mAh battery</strong>. The battery
+      is designed to provide long-lasting usage for everyday tasks,
+      photography, video playback, social media and other activities.
+    </p>
+
+    <p>
+      The phone supports <strong>90W FlashCharge</strong>. Vivo's laboratory
+      testing indicates that the battery can reach approximately 50% charge
+      in around 30 minutes under its specified charging conditions.
+    </p>
+
+    <p>
+      Actual charging time and battery life may vary depending on temperature,
+      network conditions, display brightness, applications and charging
+      conditions.
+    </p>
+
+    <h2>Vivo V80 5G Design</h2>
+
+    <p>
+      Vivo V80 features a premium glass design and a floating-style camera
+      module. The phone weighs approximately <strong>203 grams</strong> and
+      has a slim profile.
+    </p>
+
+    <p>
+      The announced colour options include
+      <strong>Stellar Black, Horizon Blue and Sunrise Anthem</strong>.
+    </p>
+
+    <h2>Vivo V80 IP68 and IP69 Protection</h2>
+
+    <p>
+      Vivo V80 comes with <strong>IP68 and IP69</strong> ratings for dust and
+      water resistance under controlled laboratory conditions.
+    </p>
+
+    <p>
+      Water and dust resistance is not permanent and may reduce over time due
+      to normal wear, drops or physical damage. Users should avoid charging
+      the phone while it is wet and should check Vivo's warranty terms for
+      liquid damage.
+    </p>
+
+    <h2>Vivo V80 5G Software</h2>
+
+    <p>
+      Vivo V80 runs on <strong>Android 17-based OriginOS 7</strong>.
+      The software combines Android features with Vivo's user interface,
+      customization options and AI-powered tools.
+    </p>
+
+    <h2>Vivo V80 AI Features</h2>
+
+    <ul>
+      <li>AI Creative Camera</li>
+      <li>Live Sticker Collage</li>
+      <li>AI Diwali Portrait 2.0</li>
+      <li>Pet Pals</li>
+      <li>Snap Notes</li>
+      <li>Security Shield</li>
+    </ul>
+
+    <h2>Vivo V80 Connectivity</h2>
+
+    <ul>
+      <li>5G connectivity</li>
+      <li>Dual Nano SIM support</li>
+      <li>Wi-Fi</li>
+      <li>Bluetooth 5.4</li>
+      <li>NFC</li>
+      <li>USB Type-C</li>
+      <li>GPS</li>
+      <li>OTG</li>
+      <li>Infrared support</li>
+    </ul>
+
+    <h2>Vivo V80 5G Pros</h2>
+
+    <ul>
+      <li>50MP ZEISS OIS main camera</li>
+      <li>50MP ZEISS Night Telephoto camera</li>
+      <li>50MP ZEISS Group Selfie camera</li>
+      <li>1.5K OLED display</li>
+      <li>Up to 144Hz refresh rate</li>
+      <li>Large 7,200mAh battery</li>
+      <li>90W FlashCharge</li>
+      <li>Snapdragon 7 Gen 4 processor</li>
+      <li>IP68 and IP69 protection</li>
+      <li>4K 60fps video recording</li>
+      <li>Android 17-based OriginOS 7</li>
+      <li>3D ultrasonic fingerprint sensor</li>
+    </ul>
+
+    <h2>Vivo V80 5G Cons</h2>
+
+    <ul>
+      <li>Official India price should be confirmed before purchase</li>
+      <li>USB Type-C connectivity is USB 2.0</li>
+      <li>MicroSD expandable storage is not supported</li>
+      <li>3.5mm analog headphone jack is not supported</li>
+      <li>144Hz refresh rate is available only in supported applications</li>
+      <li>Some AI features may vary by region and software version</li>
+    </ul>
+
+    <h2>Vivo V80 5G Product Description</h2>
+
+    <p>
+      <strong>Vivo V80 5G</strong> is a premium smartphone with a strong focus
+      on mobile photography, portraits, video recording and battery life.
+      It features a <strong>50MP ZEISS OIS main camera, 50MP ZEISS Night
+      Telephoto camera, 8MP ultra-wide camera and 50MP ZEISS Group Selfie
+      camera</strong>.
+    </p>
+
+    <p>
+      The phone is powered by the <strong>Snapdragon 7 Gen 4</strong> processor
+      and comes with <strong>8GB LPDDR4X RAM and 128GB UFS 3.1 storage</strong>
+      in the listed configuration.
+    </p>
+
+    <p>
+      Its 6.59-inch 1.5K OLED display supports up to 144Hz refresh rate,
+      while the 7,200mAh battery and 90W FlashCharge are designed for
+      long-lasting daily use and fast charging.
+    </p>
+
+    <h2>Vivo Brand Overview</h2>
+
+    <p>
+      <strong>Vivo</strong> is a global smartphone brand known for its focus
+      on mobile photography, smartphone design, display technology and
+      camera-focused devices.
+    </p>
+
+    <p>
+      Vivo's V-Series smartphones are particularly focused on portrait
+      photography, camera features, stylish designs and social-media-friendly
+      imaging experiences. The Vivo V80 continues this approach with ZEISS
+      camera technology and AI-powered photography features.
+    </p>
+
+    <h2>Who Should Consider Vivo V80?</h2>
+
+    <ul>
+      <li>Users who prioritize smartphone photography</li>
+      <li>Portrait photography enthusiasts</li>
+      <li>Users who want a dedicated telephoto camera</li>
+      <li>Content creators and vloggers</li>
+      <li>Users looking for a large battery</li>
+      <li>Users who prefer high-refresh-rate OLED displays</li>
+      <li>Users interested in AI photography features</li>
+    </ul>
+
+    <h2>Who May Not Need Vivo V80?</h2>
+
+    <p>
+      Users who mainly use their smartphone for calling, messaging, basic
+      social media and occasional photography may not need all of the
+      Vivo V80's camera and display features. Buyers with a limited budget
+      may also want to compare other smartphones before purchasing.
+    </p>
+
+    <h2>Vivo V80 5G Frequently Asked Questions</h2>
+
+    <h3>What is the Vivo V80 price in India?</h3>
+
+    <p>
+      The official India retail price should be confirmed by Vivo at launch.
+      Pre-launch reports have suggested a starting price around ₹63,000,
+      but this is not the final official price.
+    </p>
+
+    <h3>When will Vivo V80 launch in India?</h3>
+
+    <p>
+      Vivo has announced October 6, 2026 as the India launch date for the
+      Vivo V80.
+    </p>
+
+    <h3>Which processor does Vivo V80 use?</h3>
+
+    <p>
+      Vivo V80 is powered by the Qualcomm Snapdragon 7 Gen 4 Mobile Platform
+      based on a 4nm process.
+    </p>
+
+    <h3>How much RAM does Vivo V80 have?</h3>
+
+    <p>
+      The listed configuration includes <strong>8GB LPDDR4X RAM</strong>.
+    </p>
+
+    <h3>How much storage does Vivo V80 have?</h3>
+
+    <p>
+      The listed configuration includes <strong>128GB UFS 3.1 internal
+      storage</strong>. Expandable storage is not supported.
+    </p>
+
+    <h3>How many cameras does Vivo V80 have?</h3>
+
+    <p>
+      Vivo V80 has three rear cameras: a 50MP ZEISS main camera, a 50MP
+      ZEISS Night Telephoto camera and an 8MP ultra-wide camera. The front
+      camera is a 50MP ZEISS Group Selfie camera.
+    </p>
+
+    <h3>Does Vivo V80 have a 50MP telephoto camera?</h3>
+
+    <p>
+      Yes. Vivo V80 features a <strong>50MP ZEISS Night Telephoto camera</strong>
+      designed for portraits and telephoto photography.
+    </p>
+        <h3>Does Vivo V80 support 4K video?</h3>
+
+    <p>
+      Yes. Vivo V80 supports 4K video recording, including 4K 60fps recording
+      and cinematic video features.
+    </p>
+
+    <h3>How big is the Vivo V80 battery?</h3>
+
+    <p>
+      Vivo V80 has a <strong>7,200mAh</strong> typical-capacity battery and
+      supports 90W FlashCharge.
+    </p>
+
+    <h3>Does Vivo V80 support 144Hz?</h3>
+
+    <p>
+      Yes. Vivo V80 has a 1.5K OLED display with up to a 144Hz refresh rate.
+    </p>
+
+    <h3>Is Vivo V80 waterproof?</h3>
+
+    <p>
+      Vivo V80 has IP68 and IP69 ratings for dust and water resistance under
+      controlled laboratory conditions. It should not be treated as
+      permanently waterproof.
+    </p>
+
+    <h3>Does Vivo V80 support NFC?</h3>
+
+    <p>
+      Yes. Vivo V80 supports NFC.
+    </p>
+
+    <h3>Does Vivo V80 have a microSD card slot?</h3>
+
+    <p>
+      No. Expandable storage is not supported according to the listed
+      specifications.
+    </p>
+
+    <h2>Vivo V80 5G Final Overview</h2>
+
+    <p>
+      The <strong>Vivo V80 5G</strong> combines a ZEISS-focused camera system,
+      Snapdragon 7 Gen 4 performance, a 1.5K 144Hz OLED display and a large
+      7,200mAh battery.
+    </p>
+
+    <p>
+      Its key camera hardware includes a <strong>50MP ZEISS OIS main camera,
+      50MP ZEISS Night Telephoto camera, 8MP ultra-wide camera and 50MP ZEISS
+      Group Selfie camera</strong>.
+    </p>
+
+    <p>
+      The combination of 90W FlashCharge, IP68/IP69 protection, Android
+      17-based OriginOS 7, AI photography tools and cinematic video features
+      makes the Vivo V80 a feature-rich smartphone for users interested in
+      photography, video and battery life.
+    </p>
+
+    <p>
+      Before purchasing, verify the final India price, storage variant,
+      launch offers and availability from Vivo or an authorized retailer.
+    </p>
+
+    <p>
+      <strong>Affiliate Disclosure:</strong> Vibes Deals may earn a commission
+      when you purchase through selected affiliate links. This does not
+      increase the price you pay.
+    </p>
+
+    <p>
+      <strong>Price Disclaimer:</strong> Prices, offers and availability may
+      change after launch. Always verify the latest price and availability
+      before purchasing.
+    </p>
+
+    <p>
+      <strong>Information Disclaimer:</strong> Specifications can vary by
+      market, software version and final retail configuration. Always verify
+      the latest specifications with Vivo or an authorized seller before
+      purchasing.
+    </p>
+  `,
+
+  image: '/assets/aistudio/vivo-v80-5g-price-in-india.png',
+  date: '2026-09-30',
+  author: 'Vibes Editorial'
+     }    
   ];
