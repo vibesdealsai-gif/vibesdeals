@@ -145,7 +145,7 @@ export default async function ProductPage({
             {/* Rating */}
             <div className="flex items-center gap-2 mb-6">
               <div className="flex">
-                {renderStars(product.rating)}
+                {renderStars(product.rating ?? 0)}
               </div>
 
               <span className="font-bold text-gray-900">
@@ -153,7 +153,7 @@ export default async function ProductPage({
               </span>
 
               <span className="text-blue-600">
-                ({product.reviewCount.toLocaleString()} reviews)
+                ({((product.reviewCount ?? 0).toLocaleString())} reviews)
               </span>
             </div>
 

@@ -61,9 +61,9 @@ export function ProductCard({ product }: ProductCardProps) {
 
         {/* Rating */}
         <div className="flex items-center gap-1 mb-3">
-          <div className="flex">{renderStars(product.rating)}</div>
-          <span className="text-xs font-medium text-gray-700 ml-1">{product.rating}</span>
-          <span className="text-xs text-gray-500">({product.reviewCount.toLocaleString()})</span>
+          <div className="flex">{renderStars(product.rating ?? 0)}</div>
+          <span className="text-xs font-medium text-gray-700 ml-1">{product.rating ?? 0}</span>
+          <span className="text-xs text-gray-500">({((product.reviewCount ?? 0).toLocaleString())})</span>
         </div>
 
         {/* Price */}

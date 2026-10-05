@@ -1635,8 +1635,176 @@ The G2 AFT variant is listed as an 11-inch product size, while compatible tripod
     'Discount': '62%'
   }
 },
-];
+  {
+    id: 'p17',
+    name: 'MILTON Classic 2200W Infrared Cooktop – One Touch, 4 Cooking Modes & Powerful 600°C Heating',
+    slug: 'milton-classic-2200w-infrared-cooktop',
+    category: 'Home & Kitchen',
+    brand: 'MILTON',
+    image: '/assets/aistudio/milton-classic-2200w-infrared-cooktop.png',
 
+    description: `The MILTON Classic 2200W Infrared Cooktop is a modern electric cooking appliance designed for convenient everyday cooking. It combines powerful 2200W heating with a crystal glass surface and touch-panel controls.
+
+The cooktop features four preset cooking modes including Stir-Fry, BBQ, Hot Pot and Steam. It also offers a stated temperature range of 60°C to 600°C, along with a digital display and timer.
+
+Its Classic Silver design makes it suitable for modern kitchens, apartments, rented homes, offices and compact cooking spaces.
+
+Actual cooking performance may vary depending on cookware, food quantity, power supply and cooking conditions. Always check the latest Flipkart listing for current price, seller, warranty, package contents and specifications.`,
+
+    about: `MILTON is an Indian consumer brand offering household, kitchen, lifestyle and everyday-use products.
+
+The MILTON Classic 2200W Infrared Cooktop is designed for users looking for an electric cooking appliance with powerful heating, touch controls, multiple preset cooking modes and a modern crystal glass surface.
+
+The product is intended for everyday cooking requirements such as stir-frying, steaming, hot-pot-style cooking and barbecue-style preparations.
+
+Product specifications, seller information, warranty, price and availability may vary. Buyers should verify the latest Flipkart listing before purchasing.`,
+
+    productDetails: `The MILTON Classic 2200W Infrared Cooktop combines 2200W heating with a crystal glass cooking surface and touch-panel controls.
+
+It offers a stated temperature range of 60°C to 600°C and includes four preset cooking modes: Stir-Fry, BBQ, Hot Pot and Steam.
+
+The digital display allows users to monitor cooking-related settings, while the digital timer provides additional convenience during cooking.
+
+The cooktop is designed for everyday home cooking and can be useful in apartments, rented homes, offices and compact kitchen setups.
+
+Users should follow the manufacturer's operating and safety instructions and verify cookware compatibility before use.`,
+
+    additionalInformation: {
+      'Brand': 'MILTON',
+      'Model': 'Classic',
+      'Product Type': 'Infrared Cooktop',
+      'Power': '2200W',
+      'Control Type': 'Touch Panel',
+      'Cooking Surface': 'Crystal Glass',
+      'Temperature Range': '60°C–600°C',
+      'Cooking Modes': 'Stir-Fry, BBQ, Hot Pot & Steam',
+      'Display': 'Digital',
+      'Timer': 'Yes',
+      'Colour': 'Classic Silver',
+      'Heating Technology': 'Infrared',
+      'Suitable For': 'Home & Kitchen Cooking',
+      'Use Case': 'Everyday Cooking',
+      'Price': '₹4,418',
+      'Original Price': '₹6,499',
+      'Discount': '32%',
+      'Marketplace': 'Flipkart'
+    },
+
+    faq: [
+      {
+        question: 'What is the MILTON Classic 2200W Infrared Cooktop?',
+        answer: 'The MILTON Classic is a 2200W infrared electric cooktop with a crystal glass surface, touch controls and four preset cooking modes.'
+      },
+      {
+        question: 'What is the power of the MILTON Classic Cooktop?',
+        answer: 'The MILTON Classic Infrared Cooktop has a rated power of 2200W.'
+      },
+      {
+        question: 'What is the temperature range?',
+        answer: 'The stated temperature range is 60°C to 600°C.'
+      },
+      {
+        question: 'How many cooking modes are available?',
+        answer: 'The cooktop includes four preset modes: Stir-Fry, BBQ, Hot Pot and Steam.'
+      },
+      {
+        question: 'Does it have touch controls?',
+        answer: 'Yes. The MILTON Classic features touch-panel controls.'
+      },
+      {
+        question: 'Does it have a digital display?',
+        answer: 'Yes. The product features a digital display for cooking-related settings.'
+      },
+      {
+        question: 'Does it have a timer?',
+        answer: 'Yes. The cooktop includes a digital timer.'
+      },
+      {
+        question: 'What is the cooking surface made of?',
+        answer: 'The MILTON Classic features a crystal glass cooking surface.'
+      },
+      {
+        question: 'What is the current listed price?',
+        answer: 'The provided deal price is ₹4,418 compared with an original price of ₹6,499. Prices and availability may change.'
+      },
+      {
+        question: 'Where can I buy the MILTON Classic Cooktop?',
+        answer: 'The product is available through the provided Flipkart listing. Check the latest listing for price, seller, availability and delivery details.'
+      }
+    ],
+
+    price: 4418,
+    originalPrice: 6499,
+    discount: 32,
+
+    affiliateUrl: 'https://dl.flipkart.com/s/my0T6fNNNN',
+
+    featured: false,
+    trending: true,
+    bestseller: false,
+
+    highlights: [
+      '2200W powerful heating',
+      'Infrared cooking technology',
+      'Crystal glass cooking surface',
+      'Touch-panel controls',
+      '60°C to 600°C temperature range',
+      '4 preset cooking modes',
+      'Stir-Fry mode',
+      'BBQ mode',
+      'Hot Pot mode',
+      'Steam mode',
+      'Digital display',
+      'Digital timer',
+      'Classic Silver colour',
+      'Suitable for everyday cooking',
+      'Modern kitchen-friendly design',
+      'Useful for compact kitchen setups'
+    ],
+
+    pros: [
+      'Powerful 2200W heating',
+      'Wide 60°C–600°C temperature range',
+      'Four preset cooking modes',
+      'Touch-panel controls',
+      'Crystal glass surface',
+      'Digital display',
+      'Digital timer',
+      'Modern Classic Silver design',
+      'Suitable for everyday cooking'
+    ],
+
+    cons: [
+      'High-power cooking can consume more electricity',
+      'Glass surface requires careful handling',
+      'Cooking performance can vary depending on cookware',
+      'Users accustomed to gas cooking may need some adjustment',
+      'Requires suitable cookware and proper operating conditions',
+      'Price and availability may change on Flipkart'
+    ],
+
+    specs: {
+      'Brand': 'MILTON',
+      'Model': 'Classic',
+      'Product Type': 'Infrared Cooktop',
+      'Heating Technology': 'Infrared',
+      'Power': '2200W',
+      'Control Type': 'Touch Panel',
+      'Cooking Surface': 'Crystal Glass',
+      'Temperature Range': '60°C–600°C',
+      'Cooking Modes': 'Stir-Fry, BBQ, Hot Pot & Steam',
+      'Display': 'Digital',
+      'Timer': 'Yes',
+      'Colour': 'Classic Silver',
+      'Suitable For': 'Home & Kitchen Cooking',
+      'Use Case': 'Everyday Cooking',
+      'Price': '₹4,418',
+      'Original Price': '₹6,499',
+      'Discount': '32%',
+      'Marketplace': 'Flipkart'
+    }
+  },
+];
 export const categories: Category[] = [
   { name: 'Electronics', slug: 'electronics', icon: 'Cpu' },
   { name: 'Smartphones', slug: 'smartphones', icon: 'Smartphone' },

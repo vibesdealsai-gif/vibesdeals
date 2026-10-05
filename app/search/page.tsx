@@ -49,7 +49,7 @@ function SearchContent() {
         result.sort((a, b) => b.discount - a.discount);
         break;
       case 'rating':
-        result.sort((a, b) => b.rating - a.rating);
+        result.sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
         break;
       case 'bestseller':
         result = result.filter(p => p.bestseller);

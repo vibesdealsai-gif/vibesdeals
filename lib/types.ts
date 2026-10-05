@@ -22,8 +22,8 @@ export interface Product {
   discount: number;
 
   // Reviews
-  rating: number;
-  reviewCount: number;
+  rating?: number;
+  reviewCount?: number;
 
   // Affiliate
   affiliateUrl: string;
