@@ -3919,5 +3919,1095 @@ iQOO 9 5G, iQOO 9 5G 12GB RAM 256GB, iQOO 9 5G 120W FlashCharge, iQOO 9 price in
   image: '/assets/aistudio/vivo-v80-5g-price-in-india.png',
   date: '2026-09-30',
   author: 'Vibes Editorial'
-     }    
+     },
+     {
+  id: 'b6',
+  title: 'Realme P4s Lite vs Vivo T5x vs iQOO Z11x: Which Phone Is Better in India?',
+  slug: 'realme-p4s-lite-vs-vivo-t5x-vs-iqoo-z11x',
+  
+  excerpt:
+    'Realme P4s Lite vs Vivo T5x vs iQOO Z11x comparison covering India price, display, processor, performance, camera, battery, charging, 5G, RAM, storage, design and features to help you choose the best phone in India.',
+
+  content: `
+    <p>
+      The <strong>Realme P4s Lite vs Vivo T5x vs iQOO Z11x</strong> comparison
+      is aimed at buyers looking for a smartphone with a large battery,
+      smooth display, good performance and modern connectivity in India.
+      All three phones target different types of users, with major differences
+      in processor, camera, display resolution, charging speed and 5G support.
+    </p>
+
+    <p>
+      The <strong>Realme P4s Lite</strong> focuses on affordability, a large
+      7,000mAh battery and a 120Hz display. The <strong>Vivo T5x 5G</strong>
+      and <strong>iQOO Z11x 5G</strong>, on the other hand, offer a more
+      powerful MediaTek Dimensity 7400-Turbo processor, 7,200mAh battery,
+      44W charging, 5G connectivity and higher-resolution displays.
+    </p>
+
+    <p>
+      In this detailed comparison, we compare the three smartphones based on
+      <strong>India price, display, performance, processor, camera, battery,
+      charging, RAM, storage, 5G, software, design and overall value for
+      money</strong>.
+    </p>
+
+    <h2>Realme P4s Lite vs Vivo T5x vs iQOO Z11x: Quick Comparison</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th>Realme P4s Lite</th>
+          <th>Vivo T5x 5G</th>
+          <th>iQOO Z11x 5G</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Network</td>
+          <td>4G</td>
+          <td>5G</td>
+          <td>5G</td>
+        </tr>
+        <tr>
+          <td>Display</td>
+          <td>6.75-inch LCD</td>
+          <td>6.76-inch LCD</td>
+          <td>6.76-inch LCD</td>
+        </tr>
+        <tr>
+          <td>Resolution</td>
+          <td>1570 × 720 HD+</td>
+          <td>2344 × 1080 FHD+</td>
+          <td>2344 × 1080 FHD+</td>
+        </tr>
+        <tr>
+          <td>Refresh Rate</td>
+          <td>120Hz</td>
+          <td>120Hz</td>
+          <td>120Hz</td>
+        </tr>
+        <tr>
+          <td>Processor</td>
+          <td>Unisoc T7250</td>
+          <td>MediaTek Dimensity 7400-Turbo</td>
+          <td>MediaTek Dimensity 7400-Turbo</td>
+        </tr>
+        <tr>
+          <td>Rear Camera</td>
+          <td>13MP</td>
+          <td>50MP + 2MP</td>
+          <td>50MP + 2MP</td>
+        </tr>
+        <tr>
+          <td>Front Camera</td>
+          <td>5MP</td>
+          <td>32MP</td>
+          <td>32MP</td>
+        </tr>
+        <tr>
+          <td>Battery</td>
+          <td>7,000mAh</td>
+          <td>7,200mAh</td>
+          <td>7,200mAh</td>
+        </tr>
+        <tr>
+          <td>Charging</td>
+          <td>15W</td>
+          <td>44W</td>
+          <td>44W</td>
+        </tr>
+        <tr>
+          <td>RAM</td>
+          <td>Up to 4GB</td>
+          <td>Up to 8GB</td>
+          <td>Up to 8GB</td>
+        </tr>
+        <tr>
+          <td>Storage</td>
+          <td>Up to 128GB</td>
+          <td>Up to 256GB</td>
+          <td>Up to 256GB</td>
+        </tr>
+        <tr>
+          <td>Software</td>
+          <td>ColorOS</td>
+          <td>OriginOS</td>
+          <td>OriginOS</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Realme P4s Lite vs Vivo T5x vs iQOO Z11x Price in India</h2>
+
+    <p>
+      Price is one of the biggest differences between these three smartphones.
+      The <strong>Realme P4s Lite</strong> is positioned as the more affordable
+      option, while the <strong>Vivo T5x 5G</strong> and
+      <strong>iQOO Z11x 5G</strong> target buyers who are willing to spend
+      more for better performance, 5G connectivity and faster charging.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Phone</th>
+          <th>India Starting Price</th>
+          <th>Price Position</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Realme P4s Lite</td>
+          <td>₹16,499*</td>
+          <td>Most affordable</td>
+        </tr>
+        <tr>
+          <td>Vivo T5x 5G</td>
+          <td>₹18,999*</td>
+          <td>Mid-range</td>
+        </tr>
+        <tr>
+          <td>iQOO Z11x 5G</td>
+          <td>₹18,999*</td>
+          <td>Mid-range</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      <strong>Price Disclaimer:</strong> Smartphone prices can change because
+      of bank offers, exchange discounts, festive sales, retailer promotions
+      and storage variants. Always check the latest selling price before buying.
+    </p>
+
+    <h2>Realme P4s Lite Price in India</h2>
+
+    <p>
+      The <strong>Realme P4s Lite</strong> is positioned below the Vivo T5x
+      and iQOO Z11x in terms of starting price. It is designed for buyers
+      who want a large battery and a smooth 120Hz display without spending
+      close to ₹20,000.
+    </p>
+
+    <p>
+      Its lower price also comes with some compromises, including a 4G-only
+      connection, HD+ display resolution, a 13MP rear camera and slower
+      15W charging.
+    </p>
+
+    <h2>Vivo T5x Price in India</h2>
+
+    <p>
+      The <strong>Vivo T5x 5G</strong> starts at around ₹18,999 at launch
+      for the base configuration. The phone is positioned as an all-rounder
+      with a large battery, 5G connectivity, FHD+ 120Hz display and
+      Dimensity 7400-Turbo processor.
+    </p>
+
+    <p>
+      The final selling price may vary depending on the RAM and storage
+      configuration, offers and retailer discounts.
+    </p>
+
+    <h2>iQOO Z11x Price in India</h2>
+
+    <p>
+      The <strong>iQOO Z11x 5G</strong> starts at around ₹18,999 for its
+      base configuration. Higher RAM and storage variants can cost more.
+    </p>
+
+    <p>
+      iQOO positions the Z11x toward users who want strong performance,
+      gaming capability, long battery life and fast charging.
+    </p>
+
+    <h2>Display Comparison</h2>
+
+    <p>
+      All three phones offer a <strong>120Hz refresh rate</strong>, which
+      helps make scrolling, animations and supported gaming experiences
+      smoother than a standard 60Hz display.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Display Feature</th>
+          <th>Realme P4s Lite</th>
+          <th>Vivo T5x</th>
+          <th>iQOO Z11x</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Panel</td>
+          <td>LCD</td>
+          <td>LCD</td>
+          <td>LCD</td>
+        </tr>
+        <tr>
+          <td>Size</td>
+          <td>6.75-inch</td>
+          <td>6.76-inch</td>
+          <td>6.76-inch</td>
+        </tr>
+        <tr>
+          <td>Resolution</td>
+          <td>1570 × 720</td>
+          <td>2344 × 1080</td>
+          <td>2344 × 1080</td>
+        </tr>
+        <tr>
+          <td>Refresh Rate</td>
+          <td>120Hz</td>
+          <td>120Hz</td>
+          <td>120Hz</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Realme P4s Lite Display</h3>
+
+    <p>
+      Realme P4s Lite features a large <strong>6.75-inch HD+ LCD display</strong>
+      with a 120Hz refresh rate. The high refresh rate makes everyday scrolling
+      feel smooth, while the large screen is useful for watching YouTube,
+      browsing websites and using social media.
+    </p>
+
+    <p>
+      However, the HD+ resolution is lower than the Full HD+ panels on the
+      Vivo T5x and iQOO Z11x.
+    </p>
+
+    <h3>Vivo T5x Display</h3>
+
+    <p>
+      Vivo T5x features a <strong>6.76-inch FHD+ LCD display</strong> with
+      a 120Hz refresh rate. The higher resolution provides sharper text,
+      images and video compared with an HD+ panel.
+    </p>
+
+    <h3>iQOO Z11x Display</h3>
+
+    <p>
+      iQOO Z11x also comes with a <strong>6.76-inch FHD+ 120Hz LCD display</strong>.
+      It is a better option for users who consume a lot of video content
+      or want sharper visuals while gaming.
+    </p>
+
+    <p>
+      <strong>Display Winner:</strong> Vivo T5x and iQOO Z11x.
+    </p>
+
+    <h2>Performance and Processor Comparison</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Performance</th>
+          <th>Realme P4s Lite</th>
+          <th>Vivo T5x</th>
+          <th>iQOO Z11x</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Processor</td>
+          <td>Unisoc T7250</td>
+          <td>Dimensity 7400-Turbo</td>
+          <td>Dimensity 7400-Turbo</td>
+        </tr>
+        <tr>
+          <td>GPU</td>
+          <td>Mali-G57</td>
+          <td>Integrated GPU</td>
+          <td>Integrated GPU</td>
+        </tr>
+        <tr>
+          <td>Best For</td>
+          <td>Basic use</td>
+          <td>Gaming + daily use</td>
+          <td>Gaming + performance</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Realme P4s Lite Performance</h3>
+
+    <p>
+      Realme P4s Lite is powered by the <strong>Unisoc T7250</strong> chipset.
+      It is suitable for everyday activities such as WhatsApp, Instagram,
+      YouTube, web browsing, calling and other basic applications.
+    </p>
+
+    <p>
+      It can handle casual gaming, but users looking for high-performance
+      gaming and heavy multitasking should consider the Vivo T5x or iQOO Z11x.
+    </p>
+
+    <h3>Vivo T5x Performance</h3>
+
+    <p>
+      Vivo T5x uses the <strong>MediaTek Dimensity 7400-Turbo</strong>.
+      This is a major performance upgrade compared with the Unisoc T7250.
+    </p>
+
+    <p>
+      The chipset is designed for smoother multitasking, gaming and demanding
+      applications while maintaining a balance between performance and
+      efficiency.
+    </p>
+
+    <h3>iQOO Z11x Performance</h3>
+
+    <p>
+      iQOO Z11x also uses the <strong>MediaTek Dimensity 7400-Turbo</strong>.
+      The combination of this processor, up to 8GB RAM and a 120Hz display
+      makes it the most performance-focused phone in this comparison.
+    </p>
+
+    <p>
+      <strong>Performance Winner:</strong> iQOO Z11x and Vivo T5x.
+    </p>
+
+    <h2>Gaming Comparison</h2>
+
+    <p>
+      For casual gaming, Realme P4s Lite can handle lighter games and
+      everyday gaming requirements. However, its processor is not in the
+      same performance class as the Dimensity 7400-Turbo.
+    </p>
+
+    <p>
+      Vivo T5x and iQOO Z11x are better suited for users who regularly play
+      demanding Android games.
+    </p>
+
+    <p>
+      The <strong>iQOO Z11x</strong> gets an advantage for performance-focused
+      buyers because iQOO's Z series is positioned toward gaming and
+      performance users.
+    </p>
+
+    <p>
+      <strong>Gaming Winner: iQOO Z11x.</strong>
+    </p>
+
+    <h2>Camera Comparison</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Camera</th>
+          <th>Realme P4s Lite</th>
+          <th>Vivo T5x</th>
+          <th>iQOO Z11x</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Main Camera</td>
+          <td>13MP</td>
+          <td>50MP Sony IMX852</td>
+          <td>50MP Sony IMX852</td>
+        </tr>
+        <tr>
+          <td>Secondary Camera</td>
+          <td>Basic auxiliary camera</td>
+          <td>2MP bokeh</td>
+          <td>2MP bokeh</td>
+        </tr>
+        <tr>
+          <td>Front Camera</td>
+          <td>5MP</td>
+          <td>32MP</td>
+          <td>32MP</td>
+        </tr>
+        <tr>
+          <td>Video</td>
+          <td>Up to 1080p</td>
+          <td>Up to 4K</td>
+          <td>Up to 4K</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Realme P4s Lite Camera</h3>
+
+    <p>
+      Realme P4s Lite comes with a <strong>13MP rear camera</strong> and
+      a <strong>5MP front camera</strong>. It is suitable for basic photography,
+      social media images and video calls.
+    </p>
+
+    <p>
+      However, users who are specifically looking for a camera-focused
+      smartphone should consider the Vivo T5x or iQOO Z11x.
+    </p>
+
+    <h3>Vivo T5x Camera</h3>
+
+    <p>
+      Vivo T5x features a <strong>50MP Sony IMX852 primary camera</strong>
+      with a 2MP bokeh camera. On the front, it has a
+      <strong>32MP selfie camera</strong>.
+    </p>
+
+    <p>
+      The higher-resolution main and selfie cameras make the Vivo T5x
+      considerably more attractive for photography, portraits and social
+      media content.
+    </p>
+
+    <h3>iQOO Z11x Camera</h3>
+
+    <p>
+      iQOO Z11x also features a <strong>50MP Sony IMX852 primary camera</strong>
+      with a 2MP bokeh camera and a <strong>32MP front camera</strong>.
+    </p>
+
+    <p>
+      Its camera setup is substantially more capable on paper than the
+      Realme P4s Lite.
+    </p>
+
+    <p>
+      <strong>Camera Winner:</strong> Vivo T5x and iQOO Z11x.
+    </p>
+
+    <h2>Battery and Charging Comparison</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Battery Feature</th>
+          <th>Realme P4s Lite</th>
+          <th>Vivo T5x</th>
+          <th>iQOO Z11x</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Battery Capacity</td>
+          <td>7,000mAh</td>
+          <td>7,200mAh</td>
+          <td>7,200mAh</td>
+        </tr>
+        <tr>
+          <td>Charging</td>
+          <td>15W</td>
+          <td>44W</td>
+          <td>44W</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Realme P4s Lite Battery</h3>
+
+    <p>
+      Realme P4s Lite has a large <strong>7,000mAh battery</strong>, which
+      is one of the biggest highlights of the phone.
+    </p>
+
+    <p>
+      The main disadvantage is its <strong>15W charging speed</strong>.
+      Because of the large battery capacity, charging can take longer than
+      the Vivo T5x and iQOO Z11x.
+    </p>
+
+    <h3>Vivo T5x Battery</h3>
+
+    <p>
+      Vivo T5x comes with a larger <strong>7,200mAh battery</strong> and
+      supports <strong>44W charging</strong>.
+    </p>
+
+    <p>
+      This combination provides both long battery life and substantially
+      faster charging than the Realme P4s Lite.
+    </p>
+
+    <h3>iQOO Z11x Battery</h3>
+
+    <p>
+      iQOO Z11x also packs a <strong>7,200mAh battery</strong> with
+      <strong>44W fast charging</strong>.
+    </p>
+
+    <p>
+      For heavy users and gamers, the large battery provides additional
+      endurance during long sessions.
+    </p>
+
+    <p>
+      <strong>Battery Winner:</strong> Vivo T5x and iQOO Z11x.
+    </p>
+
+    <h2>5G Connectivity Comparison</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Phone</th>
+          <th>5G Support</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Realme P4s Lite</td>
+          <td>No</td>
+        </tr>
+        <tr>
+          <td>Vivo T5x 5G</td>
+          <td>Yes</td>
+        </tr>
+        <tr>
+          <td>iQOO Z11x 5G</td>
+          <td>Yes</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      This is one of the biggest differences between the three smartphones.
+      The <strong>Realme P4s Lite is a 4G smartphone</strong>, while both
+      the Vivo T5x and iQOO Z11x support 5G.
+    </p>
+
+    <p>
+      If you plan to keep your phone for several years, 5G support can be
+      an important factor. In this category, Vivo T5x and iQOO Z11x have
+      a clear advantage.
+    </p>
+
+    <p>
+      <strong>5G Winner: Vivo T5x and iQOO Z11x.</strong>
+    </p>
+
+    <h2>RAM and Storage Comparison</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Phone</th>
+          <th>RAM</th>
+          <th>Storage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Realme P4s Lite</td>
+          <td>Up to 4GB</td>
+          <td>Up to 128GB</td>
+        </tr>
+        <tr>
+          <td>Vivo T5x</td>
+          <td>Up to 8GB</td>
+          <td>Up to 256GB</td>
+        </tr>
+        <tr>
+          <td>iQOO Z11x</td>
+          <td>Up to 8GB</td>
+          <td>Up to 256GB</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      Vivo T5x and iQOO Z11x offer significantly more RAM and storage
+      flexibility. The availability of up to 8GB RAM and 256GB storage
+      makes them better suited for users who install many applications,
+      store large files or play large games.
+    </p>
+
+    <p>
+      <strong>RAM & Storage Winner: Vivo T5x and iQOO Z11x.</strong>
+    </p>
+
+    <h2>Design and Durability Comparison</h2>
+
+    <p>
+      All three phones use a large-battery design, which means they are
+      aimed more toward endurance than ultra-lightweight construction.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th>Realme P4s Lite</th>
+          <th>Vivo T5x</th>
+          <th>iQOO Z11x</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Water/Dust Protection</td>
+          <td>IP64</td>
+          <td>IP68/IP69+</td>
+          <td>IP68/IP69+</td>
+        </tr>
+        <tr>
+          <td>Build Focus</td>
+          <td>Budget durability</td>
+          <td>Durability + daily use</td>
+          <td>Durability + performance</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      Vivo T5x and iQOO Z11x have an advantage in water and dust resistance,
+      making them more attractive for users who frequently travel or use
+      their phones outdoors.
+    </p>
+
+    <h2>Software Comparison</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Phone</th>
+          <th>Software</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Realme P4s Lite</td>
+          <td>ColorOS</td>
+        </tr>
+        <tr>
+          <td>Vivo T5x</td>
+          <td>OriginOS</td>
+        </tr>
+        <tr>
+          <td>iQOO Z11x</td>
+          <td>OriginOS</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>
+      Realme P4s Lite uses the ColorOS software experience, while Vivo T5x
+      and iQOO Z11x use OriginOS. The final software version and available
+      features can depend on the market and software updates.
+    </p>
+
+    <h2>Realme P4s Lite Full Specifications</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Specification</th>
+          <th>Realme P4s Lite</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Brand</td><td>Realme</td></tr>
+        <tr><td>Network</td><td>4G</td></tr>
+        <tr><td>Display</td><td>6.75-inch LCD</td></tr>
+        <tr><td>Resolution</td><td>1570 × 720 pixels</td></tr>
+        <tr><td>Refresh Rate</td><td>120Hz</td></tr>
+        <tr><td>Processor</td><td>Unisoc T7250</td></tr>
+        <tr><td>RAM</td><td>Up to 4GB</td></tr>
+        <tr><td>Storage</td><td>Up to 128GB</td></tr>
+        <tr><td>Rear Camera</td><td>13MP</td></tr>
+        <tr><td>Front Camera</td><td>5MP</td></tr>
+        <tr><td>Battery</td><td>7,000mAh</td></tr>
+        <tr><td>Charging</td><td>15W</td></tr>
+        <tr><td>Operating System</td><td>ColorOS</td></tr>
+        <tr><td>Water Resistance</td><td>IP64</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Vivo T5x Full Specifications</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Specification</th>
+          <th>Vivo T5x 5G</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Brand</td><td>Vivo</td></tr>
+        <tr><td>Network</td><td>5G</td></tr>
+        <tr><td>Display</td><td>6.76-inch LCD</td></tr>
+        <tr><td>Resolution</td><td>2344 × 1080 pixels</td></tr>
+        <tr><td>Refresh Rate</td><td>120Hz</td></tr>
+        <tr><td>Processor</td><td>MediaTek Dimensity 7400-Turbo</td></tr>
+        <tr><td>RAM</td><td>Up to 8GB</td></tr>
+        <tr><td>Storage</td><td>Up to 256GB</td></tr>
+        <tr><td>Main Camera</td><td>50MP Sony IMX852</td></tr>
+        <tr><td>Secondary Camera</td><td>2MP Bokeh</td></tr>
+        <tr><td>Front Camera</td><td>32MP</td></tr>
+        <tr><td>Battery</td><td>7,200mAh</td></tr>
+        <tr><td>Charging</td><td>44W</td></tr>
+        <tr><td>Operating System</td><td>OriginOS</td></tr>
+        <tr><td>Water Resistance</td><td>IP68/IP69+</td></tr>
+      </tbody>
+    </table>
+
+    <h2>iQOO Z11x Full Specifications</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Specification</th>
+          <th>Vivo T5x 5G</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Brand</td><td>Vivo</td></tr>
+        <tr><td>Network</td><td>5G</td></tr>
+        <tr><td>Display</td><td>6.76-inch LCD</td></tr>
+        <tr><td>Resolution</td><td>2344 × 1080 pixels</td></tr>
+        <tr><td>Refresh Rate</td><td>120Hz</td></tr>
+        <tr><td>Processor</td><td>MediaTek Dimensity 7400-Turbo</td></tr>
+        <tr><td>RAM</td><td>Up to 8GB</td></tr>
+        <tr><td>Storage</td><td>Up to 256GB</td></tr>
+        <tr><td>Main Camera</td><td>50MP Sony IMX852</td></tr>
+        <tr><td>Secondary Camera</td><td>2MP Bokeh</td></tr>
+        <tr><td>Front Camera</td><td>32MP</td></tr>
+        <tr><td>Battery</td><td>7,200mAh</td></tr>
+        <tr><td>Charging</td><td>44W</td></tr>
+        <tr><td>Operating System</td><td>OriginOS</td></tr>
+        <tr><td>Water Resistance</td><td>IP68/IP69+</td></tr>
+      </tbody>
+    </table>
+
+    <h2>iQOO Z11x Full Specifications</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Specification</th>
+          <th>iQOO Z11x 5G</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Brand</td><td>iQOO</td></tr>
+        <tr><td>Network</td><td>5G</td></tr>
+        <tr><td>Display</td><td>6.76-inch LCD</td></tr>
+        <tr><td>Resolution</td><td>2344 × 1080 pixels</td></tr>
+        <tr><td>Refresh Rate</td><td>120Hz</td></tr>
+        <tr><td>Processor</td><td>MediaTek Dimensity 7400-Turbo</td></tr>
+        <tr><td>RAM</td><td>Up to 8GB</td></tr>
+        <tr><td>Storage</td><td>Up to 256GB</td></tr>
+        <tr><td>Main Camera</td><td>50MP Sony IMX852</td></tr>
+        <tr><td>Secondary Camera</td><td>2MP Bokeh</td></tr>
+        <tr><td>Front Camera</td><td>32MP</td></tr>
+        <tr><td>Battery</td><td>7,200mAh</td></tr>
+        <tr><td>Charging</td><td>44W</td></tr>
+        <tr><td>Operating System</td><td>OriginOS</td></tr>
+        <tr><td>Water Resistance</td><td>IP68/IP69+</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Realme P4s Lite vs Vivo T5x vs iQOO Z11x: Pros and Cons</h2>
+
+    <h3>Realme P4s Lite Pros</h3>
+
+    <ul>
+      <li>Lower starting price</li>
+      <li>Large 7,000mAh battery</li>
+      <li>120Hz refresh rate</li>
+      <li>Large 6.75-inch display</li>
+      <li>Suitable for basic daily usage</li>
+      <li>Storage expansion support</li>
+    </ul>
+
+    <h3>Realme P4s Lite Cons</h3>
+
+    <ul>
+      <li>No 5G connectivity</li>
+      <li>HD+ display resolution</li>
+      <li>13MP rear camera</li>
+      <li>5MP selfie camera</li>
+      <li>Only 15W charging</li>
+      <li>Lower performance than Vivo T5x and iQOO Z11x</li>
+    </ul>
+
+    <h3>Vivo T5x Pros</h3>
+
+    <ul>
+      <li>Dimensity 7400-Turbo processor</li>
+      <li>5G connectivity</li>
+      <li>7,200mAh battery</li>
+      <li>44W fast charging</li>
+      <li>50MP Sony primary camera</li>
+      <li>32MP front camera</li>
+      <li>FHD+ 120Hz display</li>
+      <li>Up to 256GB storage</li>
+      <li>Strong overall balance</li>
+    </ul>
+
+    <h3>Vivo T5x Cons</h3>
+
+    <ul>
+      <li>More expensive than Realme P4s Lite</li>
+      <li>LCD display instead of AMOLED</li>
+      <li>Higher storage variants cost more</li>
+    </ul>
+
+    <h3>iQOO Z11x Pros</h3>
+
+    <ul>
+      <li>Dimensity 7400-Turbo processor</li>
+      <li>5G connectivity</li>
+      <li>7,200mAh battery</li>
+      <li>44W fast charging</li>
+      <li>50MP Sony IMX852 camera</li>
+      <li>32MP selfie camera</li>
+      <li>FHD+ 120Hz display</li>
+      <li>Up to 8GB RAM and 256GB storage</li>
+      <li>Strong gaming and performance focus</li>
+    </ul>
+
+    <h3>iQOO Z11x Cons</h3>
+
+    <ul>
+      <li>LCD display instead of AMOLED</li>
+      <li>Higher variants cost more</li>
+      <li>Large battery makes it less focused on lightweight design</li>
+    </ul>
+
+    <h2>Which Phone Is Better: Realme P4s Lite vs Vivo T5x vs iQOO Z11x?</h2>
+
+    <p>
+      The answer depends on what you expect from your smartphone.
+    </p>
+
+    <h3>Best Budget Phone: Realme P4s Lite</h3>
+
+    <p>
+      If your budget is limited and you mainly need a phone for
+      <strong>WhatsApp, YouTube, Instagram, calling, browsing and basic
+      gaming</strong>, the Realme P4s Lite can make sense.
+    </p>
+
+    <p>
+      Its 7,000mAh battery and 120Hz display are its biggest advantages.
+      However, the lack of 5G and HD+ display should be considered before
+      purchasing.
+    </p>
+
+    <h3>Best All-Rounder: Vivo T5x</h3>
+
+    <p>
+      The <strong>Vivo T5x 5G</strong> is a better all-rounder for users who
+      want a combination of performance, camera, battery, charging and 5G.
+    </p>
+
+    <p>
+      The Dimensity 7400-Turbo processor, 50MP Sony camera, 32MP selfie
+      camera, 7,200mAh battery and 44W charging make it a major upgrade
+      over the Realme P4s Lite.
+    </p>
+
+    <h3>Best for Gaming: iQOO Z11x</h3>
+
+    <p>
+      If your priority is <strong>gaming and performance</strong>, the
+      iQOO Z11x is the strongest choice among these three smartphones.
+    </p>
+
+    <p>
+      It combines the Dimensity 7400-Turbo chipset with a 120Hz FHD+
+      display, 7,200mAh battery, 44W charging and up to 8GB RAM.
+    </p>
+
+    <h2>Final Verdict</h2>
+
+    <p>
+      The <strong>Realme P4s Lite vs Vivo T5x vs iQOO Z11x</strong> comparison
+      shows that each phone is designed for a different type of buyer.
+    </p>
+
+    <p>
+      The <strong>Realme P4s Lite</strong> is the best choice if your main
+      priorities are affordability, large battery capacity and a smooth
+      120Hz display.
+    </p>
+
+    <p>
+      The <strong>Vivo T5x 5G</strong> is the better balanced option if you
+      want 5G, better cameras, stronger performance, a sharper FHD+ display,
+      7,200mAh battery and faster 44W charging.
+    </p>
+
+    <p>
+      The <strong>iQOO Z11x 5G</strong> is the better option for performance
+      and gaming-focused users. Its Dimensity 7400-Turbo chipset, 120Hz FHD+
+      display, 7,200mAh battery and 44W charging make it a strong choice
+      for demanding users.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Winner</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Lowest Price</td>
+          <td>Realme P4s Lite</td>
+        </tr>
+        <tr>
+          <td>Display</td>
+          <td>Vivo T5x / iQOO Z11x</td>
+        </tr>
+        <tr>
+          <td>Performance</td>
+          <td>Vivo T5x / iQOO Z11x</td>
+        </tr>
+        <tr>
+          <td>Gaming</td>
+          <td>iQOO Z11x</td>
+        </tr>
+        <tr>
+          <td>Camera</td>
+          <td>Vivo T5x / iQOO Z11x</td>
+        </tr>
+        <tr>
+          <td>Battery</td>
+          <td>Vivo T5x / iQOO Z11x</td>
+        </tr>
+        <tr>
+          <td>Charging</td>
+          <td>Vivo T5x / iQOO Z11x</td>
+        </tr>
+        <tr>
+          <td>5G</td>
+          <td>Vivo T5x / iQOO Z11x</td>
+        </tr>
+        <tr>
+          <td>Best Budget Option</td>
+          <td>Realme P4s Lite</td>
+        </tr>
+        <tr>
+          <td>Best Overall</td>
+          <td>Vivo T5x</td>
+        </tr>
+        <tr>
+          <td>Best Performance</td>
+          <td>iQOO Z11x</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Frequently Asked Questions</h2>
+
+    <h3>Which is better, Realme P4s Lite or Vivo T5x?</h3>
+
+    <p>
+      The Vivo T5x is the better overall phone because it offers a more
+      powerful processor, 5G, FHD+ display, better cameras, a larger battery
+      and faster charging. Realme P4s Lite is better if you have a tighter
+      budget.
+    </p>
+
+    <h3>Which is better, Vivo T5x or iQOO Z11x?</h3>
+
+    <p>
+      Both phones offer very similar core hardware, including the
+      Dimensity 7400-Turbo processor, 7,200mAh battery, 44W charging and
+      50MP Sony primary camera. The Vivo T5x is a strong all-rounder, while
+      the iQOO Z11x is more attractive to performance and gaming-focused
+      buyers.
+    </p>
+
+    <h3>Which phone has the best battery?</h3>
+
+    <p>
+      Vivo T5x and iQOO Z11x have the largest battery at 7,200mAh, while
+      Realme P4s Lite has a 7,000mAh battery.
+    </p>
+
+    <h3>Which phone has the fastest charging?</h3>
+
+    <p>
+      Vivo T5x and iQOO Z11x support 44W charging, while Realme P4s Lite
+      supports 15W charging.
+    </p>
+
+    <h3>Does Realme P4s Lite support 5G?</h3>
+
+    <p>
+      No. Realme P4s Lite is a 4G smartphone. Vivo T5x and iQOO Z11x
+      support 5G connectivity.
+    </p>
+
+    <h3>Which phone is best for gaming?</h3>
+
+    <p>
+      The iQOO Z11x is the preferred option for gaming among these three
+      because of its Dimensity 7400-Turbo processor, 120Hz FHD+ display,
+      large 7,200mAh battery and performance-focused positioning.
+    </p>
+
+    <h3>Which phone has the best camera?</h3>
+
+    <p>
+      Vivo T5x and iQOO Z11x have significantly stronger camera hardware
+      than the Realme P4s Lite. Both feature a 50MP Sony IMX852 primary
+      camera and 32MP front camera.
+    </p>
+
+    <h3>Which phone is best under ₹20,000?</h3>
+
+    <p>
+      If you want the lowest price, Realme P4s Lite is worth considering.
+      If your budget is closer to ₹19,000 and you want 5G, better performance,
+      better cameras and faster charging, Vivo T5x and iQOO Z11x are stronger
+      choices.
+    </p>
+
+    <h2>Conclusion</h2>
+
+    <p>
+      Overall, the <strong>Realme P4s Lite</strong> is a budget-focused
+      smartphone, the <strong>Vivo T5x</strong> is a balanced all-rounder,
+      and the <strong>iQOO Z11x</strong> is the more performance-focused
+      option.
+    </p>
+
+    <p>
+      For most users who can spend around ₹19,000, the <strong>Vivo T5x</strong>
+      offers an attractive balance of camera, battery, performance,
+      display and 5G. For gamers and performance enthusiasts, the
+      <strong>iQOO Z11x</strong> is the better choice. If keeping the
+      purchase price as low as possible is the priority, the
+      <strong>Realme P4s Lite</strong> remains the budget option.
+    </p>
+
+    <p>
+      <strong>Affiliate Disclosure:</strong> Vibes Deals may earn a commission
+      when you purchase through selected affiliate links. This does not
+      increase the price you pay.
+    </p>
+
+    <p>
+      <strong>Price Disclaimer:</strong> Smartphone prices, offers,
+      configurations and availability can change. Always verify the latest
+      price and specifications from the official brand or authorized seller
+      before purchasing.
+    </p>
+
+    <p>
+      <strong>Specification Disclaimer:</strong> Specifications and features
+      may vary by market, software version and storage configuration.
+      Please verify the final retail specifications before buying.
+    </p>
+  `,
+
+  image: '/assets/aistudio/realme-p4s-lite-vs-vivo-t5x-vs-iqoo-z11x.png',
+  date: '2026-10-06',
+  author: 'Vibes Editorial'
+   }
   ];
