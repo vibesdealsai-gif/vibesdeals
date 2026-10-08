@@ -38,32 +38,47 @@ export const products: Product[] = [
     category: 'Laptops',
     brand: 'Apple',
     image: '/assets/aistudio/Apple-MacBook-Air-M3-2026.png',
-    description: `Apple MacBook Air M3 (2026) – 13-inch
 
-Experience a powerful combination of performance, portability, and elegant design with the Apple MacBook Air M3 13-inch. Built for students, professionals, creators, and everyday users, this lightweight laptop delivers the performance you need for work, entertainment, productivity, and creative projects in a sleek and portable form factor.
+    description: `Apple MacBook Air M3 13-inch – Detailed Buying Guide
 
-Powered by Apple's M3 chip, the MacBook Air is designed to handle everyday tasks smoothly while providing responsive performance for demanding workflows. From browsing the web and managing documents to editing photos, creating presentations, streaming content, and working across multiple applications, the MacBook Air provides a fast and efficient computing experience.
+The Apple MacBook Air 13-inch with the M3 chip is a thin and lightweight laptop aimed at people who want strong everyday performance without carrying a bulky machine. Although this page uses the existing 2026 URL for continuity, the M3 MacBook Air itself was introduced by Apple in March 2024.
 
-The 13-inch display offers sharp, vibrant visuals with excellent detail, making it ideal for working on documents, watching movies, editing photos, browsing websites, and enjoying your favorite content. The slim bezels and compact design provide an immersive viewing experience while keeping the laptop easy to carry.
+The M3 chip gives this MacBook Air enough performance for common productivity tasks such as web browsing, documents, spreadsheets, video calls, coding, photo editing and light-to-moderate creative work. Apple's M3 platform combines an 8-core CPU with up to a 10-core GPU and a 16-core Neural Engine.
 
-With its thin and lightweight construction, the MacBook Air is designed for people who need a computer that can easily move from home to the office, classroom, coffee shop, or while traveling. Its premium aluminum design gives it a refined appearance while providing a sturdy and durable build.
+The 13.6-inch Liquid Retina display is one of the main reasons to consider this model. It offers a 2560 x 1664 resolution, up to 500 nits brightness, P3 wide colour and True Tone, making the screen suitable for office work, studying, photo viewing and entertainment.
 
-The MacBook Air also offers a comfortable keyboard and responsive trackpad, making everyday navigation, typing, multitasking, and productivity effortless. macOS provides a clean and intuitive user experience with seamless integration across Apple's ecosystem.
+Portability is another major advantage. The MacBook Air uses a thin aluminium design and a fanless cooling system, so it can operate quietly during normal workloads. This makes it particularly appealing for students, office users and people who frequently work in different locations.
 
-Whether you're working on professional projects, attending online meetings, studying, creating content, editing media, browsing the internet, or enjoying entertainment, the Apple MacBook Air M3 13-inch delivers a balanced combination of performance, portability, and premium design.
+However, buyers should pay attention to the configuration. The version listed on this page has 8GB unified memory and a 256GB SSD. That combination can be sufficient for everyday productivity, but users working with large creative projects, virtual machines, extensive multitasking or large media libraries may benefit from a higher-memory or higher-storage configuration.
 
-Key Features:
-• Apple M3 chip for fast and efficient performance
-• 13-inch high-quality display
-• Slim and lightweight portable design
-• Premium aluminum construction
-• Smooth multitasking and responsive performance
-• Comfortable keyboard and precision trackpad
-• Ideal for productivity, study, work, and entertainment
-• Suitable for photo and creative work
-• Fast and intuitive macOS experience
-• Excellent portability for travel and everyday use
-• Premium Apple design and finish`,
+The M3 MacBook Air also includes MagSafe charging, two Thunderbolt/USB 4 ports, a 3.5mm headphone jack, a 1080p FaceTime HD camera, Touch ID and a backlit Magic Keyboard. Apple rates the M3 MacBook Air for up to 18 hours of battery life under its stated testing conditions.
+
+Quick Verdict:
+The MacBook Air M3 13-inch is a strong choice for students, professionals and everyday users who prioritise portability, quiet operation, battery life and a premium display. The biggest thing to check before buying is whether 8GB RAM and 256GB storage are enough for your workload.
+
+Who Should Buy It:
+• Students who need a portable laptop for study and everyday applications
+• Office users working with documents, spreadsheets, browsers and video meetings
+• Developers who prefer macOS and need a compact development machine
+• Creators doing photo editing and moderate video work
+• Travellers who value low weight and long battery life
+• Existing Mac users who want a compact Apple Silicon laptop
+
+Who Should Skip It:
+• Users who regularly need very high sustained workloads for long periods
+• Buyers who need Windows-only software or games
+• Users who require many built-in ports without adapters
+• Professionals whose workflow needs more than 8GB memory or 256GB storage
+• Buyers looking for a large-screen laptop for extensive multitasking
+
+What Makes It Useful:
+The main advantage of this MacBook Air is balance rather than one single specification. The M3 chip provides strong performance, the 13.6-inch display keeps the laptop compact, the fanless design keeps normal operation quiet, and the battery is designed for extended use.
+
+For productivity, the combination works well for browser tabs, office applications, email, video calls and multitasking. For creative work, the M3 media engine and GPU acceleration can help with compatible photo and video applications, although demanding professional workloads may be better suited to a MacBook Pro.
+
+Important Buying Consideration:
+The listed configuration has 8GB unified memory and a 256GB SSD. Storage can become limiting if you keep large photo libraries, video projects, games or offline media on the laptop. Similarly, users who regularly run many memory-intensive applications should consider whether a higher-memory configuration would provide a better long-term fit.`,
+
     price: 172490,
     originalPrice: 185990,
     discount: 7,
@@ -73,10 +88,110 @@ Key Features:
     featured: true,
     trending: true,
     bestseller: true,
-    highlights: ['Apple M3 chip', '13.6-inch Liquid Retina display', 'Up to 18 hours battery life'],
-    pros: ['Incredible performance for the size', 'Silent fanless design', 'Excellent keyboard and trackpad'],
-    cons: ['Base model has limited storage', 'Only two USB-C ports'],
-    specs: { 'Processor': 'Apple M3', 'RAM': '8GB', 'Storage': '256GB SSD', 'Display': '13.6" Liquid Retina' }
+
+    highlights: [
+      'Apple M3 chip with 8-core CPU',
+      '13.6-inch Liquid Retina display',
+      '2560 x 1664 resolution and up to 500 nits brightness',
+      'Up to 18 hours battery life according to Apple',
+      'Fanless design for quiet everyday operation',
+      'MagSafe charging and two Thunderbolt/USB 4 ports'
+    ],
+
+    pros: [
+      'Strong performance in a thin and lightweight design',
+      'Silent fanless operation during normal workloads',
+      'High-quality 13.6-inch Liquid Retina display',
+      'Excellent portability for students and professionals',
+      'Long battery life under Apple testing conditions',
+      'Good keyboard, trackpad and Touch ID experience'
+    ],
+
+    cons: [
+      'The listed configuration has only 8GB unified memory',
+      '256GB SSD may feel restrictive for large files and media libraries',
+      'Only two Thunderbolt/USB 4 ports are built in',
+      'Not the best choice for sustained professional workloads that need active cooling',
+      'macOS may not suit users dependent on Windows-only applications'
+    ],
+
+    specs: {
+      'Processor': 'Apple M3, 8-core CPU',
+      'GPU': 'Up to 10-core GPU',
+      'Neural Engine': '16-core Neural Engine',
+      'RAM': '8GB unified memory',
+      'Storage': '256GB SSD',
+      'Display': '13.6-inch Liquid Retina',
+      'Resolution': '2560 x 1664 pixels',
+      'Brightness': 'Up to 500 nits',
+      'Camera': '1080p FaceTime HD camera',
+      'Battery Life': 'Up to 18 hours',
+      'Charging': 'MagSafe 3',
+      'Ports': '2 x Thunderbolt/USB 4 + 3.5mm headphone jack',
+      'Wireless': 'Wi-Fi 6E, Bluetooth 5.3',
+      'Keyboard': 'Backlit Magic Keyboard with Touch ID',
+      'Operating System': 'macOS'
+    },
+
+    about: `The Apple MacBook Air M3 13-inch is designed around portability, quiet operation and everyday performance. Its M3 chip provides a substantial performance platform for productivity, coding, photo editing and compatible creative applications, while the fanless design keeps normal operation quiet.
+
+The 13.6-inch Liquid Retina display is another important part of the experience. With high resolution, wide colour support, True Tone and up to 500 nits brightness, it is well suited to documents, browsing, media consumption and visual work.
+
+For buyers, the configuration matters as much as the processor. The 8GB memory and 256GB SSD version can work well for everyday users, but people handling large projects or heavy multitasking should consider a configuration with more memory and storage.`,
+
+    productDetails: `The M3 MacBook Air combines Apple's M3 chip, a 13.6-inch Liquid Retina display, MagSafe charging and a compact aluminium design. Apple introduced the M3 MacBook Air in March 2024.
+
+The M3 architecture includes an 8-core CPU, up to a 10-core GPU and a 16-core Neural Engine. Apple also added hardware-accelerated ray tracing and media-engine capabilities to the M3 platform.
+
+For everyday buyers, the most important decision is configuration. The listed model uses 8GB unified memory and 256GB SSD storage. This is suitable for many productivity and study workloads, but users with larger storage or multitasking requirements should consider a higher configuration.`,
+
+    additionalInformation: {
+      'Model Generation': 'MacBook Air with Apple M3 chip, introduced in 2024',
+      'Form Factor': '13-inch thin and lightweight notebook',
+      'Display Technology': 'Liquid Retina IPS display',
+      'Memory Type': 'Unified memory',
+      'Storage Type': 'SSD',
+      'Cooling': 'Fanless design',
+      'Security': 'Touch ID',
+      'Charging Port': 'MagSafe 3',
+      'External Displays': 'M3 model supports up to two external displays with the built-in display off',
+      'Best For': 'Study, office work, coding, browsing, travel and moderate creative workloads'
+    },
+
+    faq: [
+      {
+        question: 'Is the MacBook Air M3 13-inch still worth buying?',
+        answer: 'It can be a good choice when the price is attractive and the buyer wants a lightweight macOS laptop with strong everyday performance. Before buying, compare the current price with newer MacBook Air generations because the M3 is an older generation.'
+      },
+      {
+        question: 'Is 8GB RAM enough for the MacBook Air M3?',
+        answer: '8GB unified memory can be sufficient for browsing, office work, study, video calls and moderate multitasking. Users working with large creative projects, virtual machines or many memory-heavy applications should consider a higher-memory configuration.'
+      },
+      {
+        question: 'Is 256GB storage enough?',
+        answer: '256GB can be enough for documents, applications and cloud-based storage, but it can become limiting for large photo libraries, video files, games and offline media. Buyers with larger storage requirements should consider a higher SSD configuration or external storage.'
+      },
+      {
+        question: 'Does the MacBook Air M3 have a fan?',
+        answer: 'No. The MacBook Air M3 uses a fanless design, which helps keep normal operation quiet. Very demanding sustained workloads can behave differently from workloads on actively cooled MacBook Pro models.'
+      },
+      {
+        question: 'How long does the MacBook Air M3 battery last?',
+        answer: 'Apple rates the M3 MacBook Air for up to 18 hours of battery life under its stated testing conditions. Actual battery life varies depending on brightness, applications, wireless use and workload.'
+      },
+      {
+        question: 'Does MacBook Air M3 support external displays?',
+        answer: "Yes. The M3 MacBook Air supports external displays, including up to two external displays when the laptop display is closed, subject to Apple's supported configurations and resolutions."
+      },
+      {
+        question: 'Who should choose the MacBook Air instead of a MacBook Pro?',
+        answer: 'The MacBook Air is generally better suited to users who prioritise portability, quiet operation and everyday productivity. Users doing sustained demanding workloads may benefit from the active cooling and higher performance options available in MacBook Pro models.'
+      },
+      {
+        question: 'Is this a 2026 MacBook Air model?',
+        answer: 'No. The M3 MacBook Air was introduced by Apple in March 2024. The existing 2026 URL on Vibes Deals is retained for URL continuity and does not mean the M3 is a newly launched 2026 model.'
+      }
+    ]
   },
   {
     id: 'p3',
