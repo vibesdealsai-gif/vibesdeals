@@ -5,18 +5,71 @@ import { Product, Category, BlogPost } from './types';
 export const products: Product[] = [
   {
     id: 'p1',
-    name: 'Sony WH-1000XM6 Wireless Noise Canceling Headphones',
+    name: 'Sony WH-1000XM6 Wireless Noise Cancelling Headphones',
     slug: 'sony-wh-1000xm-wireless-headphones',
     category: 'Electronics',
     brand: 'Sony',
     image: '/assets/aistudio/Sony-WH-1000XM6-The-Best-Wireless-Noise.png',
-    description: `Sony WH-1000XM6 Wireless Noise Cancelling Headphones – Black
 
-    Experience immersive, distraction-free sound with the Sony WH-1000XM6. Designed for music lovers, travelers, professionals, and everyday entertainment, these premium over-ear headphones combine powerful noise cancellation with studio-quality audio.
+    description: `Sony WH-1000XM6 – Detailed Buying Guide
 
-    Powered by Sony’s advanced HD Noise Cancelling Processor QN3 and an intelligent 12-microphone system, the WH-1000XM6 delivers highly effective real-time noise reduction. The Adaptive NC Optimizer automatically adjusts noise cancellation according to your surroundings for a more personalized listening experience.
+The Sony WH-1000XM6 is a premium over-ear wireless headphone designed for people who want strong active noise cancellation, detailed sound and a comfortable listening experience across travel, office work and everyday entertainment.
 
-    Enjoy rich, detailed audio with Sony’s carefully tuned sound profile, developed with mastering engineers for a more authentic studio-inspired experience. With LDAC support, Bluetooth connectivity, multipoint pairing, and a long-lasting battery, these headphones are built for both convenience and premium listening.`,
+Quick Verdict:
+The WH-1000XM6 is a strong choice if your priority is premium noise cancellation combined with high-quality wireless audio. Its biggest strengths are Sony's advanced noise-cancelling processing, adaptive noise control, LDAC support, multipoint connectivity and up to 30 hours of battery life with noise cancellation enabled. The main consideration is value: buyers who mainly listen at home or in quiet environments may not benefit enough from a premium ANC headphone to justify the higher price.
+
+Who Should Buy It:
+• Frequent travellers who want to reduce aircraft, train and road noise
+• Office users who need better concentration in busy environments
+• Music listeners who want premium wireless audio and LDAC support
+• People who regularly switch between a phone and computer using multipoint
+• Users who want long battery life for travel and daily commuting
+• Buyers who prefer premium over-ear comfort and a feature-rich companion app
+
+Who Should Skip It:
+• Buyers who mainly listen in quiet rooms
+• Users looking for the cheapest possible wireless headphones
+• People who specifically need water resistance for workouts or outdoor use
+• Users who prefer compact earbuds instead of over-ear headphones
+• Buyers who do not need active noise cancellation or premium wireless codecs
+
+Noise Cancellation Analysis:
+Noise cancellation is one of the main reasons to consider the WH-1000XM6. Sony uses its HD Noise Cancelling Processor QN3 together with a multi-microphone system to analyse surrounding sound and adjust noise reduction.
+
+For travel, commuting and office environments, ANC is most useful for reducing continuous background sounds such as aircraft engines, trains, traffic and air-conditioning. It should not be treated as a guarantee that every voice or sudden sound will disappear completely. Noise cancellation performance depends on the type of sound, fit of the headphones and listening environment.
+
+The Adaptive NC Optimizer is designed to adjust noise-cancelling behaviour according to conditions around the listener. This makes the headphones more practical for people who move between different environments during the day.
+
+Sound Quality:
+The WH-1000XM6 is aimed at listeners who want more than basic Bluetooth playback. Sony supports LDAC, which can transmit higher-quality audio than standard Bluetooth codecs when the connected device and settings support it.
+
+Sound quality also depends on the source, codec, recording quality, EQ settings and the listener's preferences. The headphones can therefore be a good fit for users who enjoy experimenting with sound settings rather than simply using a fixed audio profile.
+
+Calls and Microphone Use:
+The multi-microphone system is also important for calls because the headphones need to separate the user's voice from surrounding noise. This can be useful for remote work, commuting and everyday phone calls.
+
+However, call quality can still vary with wind, background noise, Bluetooth conditions and the device being used. Buyers should consider the WH-1000XM6 as a premium all-round headphone rather than assuming it will perform identically in every environment.
+
+Battery and Daily Use:
+Sony rates the WH-1000XM6 for up to 30 hours of battery life with noise cancellation enabled. Actual battery life can vary depending on settings, codec, volume, calls and other features.
+
+For frequent travellers, the long rated battery life is particularly useful because it reduces the need to charge the headphones during a normal day or journey. Buyers should still treat the advertised battery figure as a laboratory/manufacturer rating rather than a guaranteed real-world runtime.
+
+Comfort and Portability:
+The over-ear design is intended for extended listening, making the WH-1000XM6 suitable for flights, office sessions and long music-listening periods.
+
+Comfort is personal, however. Head size, glasses, ear shape and preferred clamping pressure can affect how comfortable any over-ear headphone feels. Buyers who strongly prefer lightweight earbuds may find an over-ear model less convenient.
+
+XM6 vs Older Headphones:
+The main reason to choose the WH-1000XM6 over an older premium Sony model is the combination of updated noise-cancelling processing, microphone processing, connectivity features and overall refinement.
+
+Owners of a recent premium ANC headphone do not necessarily need to upgrade immediately. If the existing headphones already provide satisfactory ANC, sound and battery life, the practical benefit of upgrading may be smaller.
+
+Important Buying Consideration:
+Headphone prices, sellers, warranty terms and availability can change. Before buying, verify the exact Sony model, included accessories, seller information and warranty details on the current listing.
+
+This page provides buying guidance based on the listed product information and manufacturer specifications. It does not claim hands-on testing, laboratory noise-cancellation measurements, independent battery testing or personally measured sound quality.`,
+
     price: 37989,
     originalPrice: 49990,
     discount: 24,
@@ -26,10 +79,113 @@ export const products: Product[] = [
     featured: true,
     trending: true,
     bestseller: true,
-    highlights: ['Industry leading noise cancellation', 'Up to 30-hour battery life', 'Ultra-comfortable, lightweight design'],
-    pros: ['Excellent active noise cancellation', 'Superb sound quality', 'Very comfortable for long sessions'],
-    cons: ['Not water resistant', 'Cannot fold up compactly'],
-    specs: { 'Battery Life': '30 Hours', 'Weight': '254g', 'Bluetooth': 'Version 5.3' }
+
+    highlights: [
+      'Advanced active noise cancellation with Sony HD Noise Cancelling Processor QN3',
+      'Multi-microphone noise analysis for adaptive noise cancellation',
+      'Up to 30 hours of battery life with noise cancellation enabled',
+      'LDAC support for compatible high-quality Bluetooth audio',
+      'Multipoint Bluetooth connectivity',
+      'Premium over-ear design for travel, office and everyday listening'
+    ],
+
+    pros: [
+      'Strong active noise cancellation for travel and busy environments',
+      'Detailed wireless audio with LDAC support',
+      'Long rated battery life with ANC enabled',
+      'Useful multipoint connectivity for switching devices',
+      'Feature-rich experience for travel and office use',
+      'Premium over-ear design'
+    ],
+
+    cons: [
+      'Premium price compared with basic wireless headphones',
+      'Not designed as a water-resistant sports headphone',
+      'Over-ear design is less compact than true wireless earbuds',
+      'Actual battery life varies with settings and usage',
+      'Upgrade value may be limited for owners of recent premium ANC headphones'
+    ],
+
+    specs: {
+      'Product Type': 'Over-ear wireless noise cancelling headphones',
+      'Noise Cancelling': 'Active Noise Cancellation',
+      'Noise Cancelling Processor': 'HD Noise Cancelling Processor QN3',
+      'Microphone System': 'Multi-microphone noise processing',
+      'Battery Life': 'Up to 30 hours with noise cancellation enabled',
+      'Bluetooth': 'Bluetooth wireless connectivity',
+      'High-Quality Codec': 'LDAC',
+      'Multipoint': 'Supported',
+      'Design': 'Over-ear',
+      'Use Cases': 'Travel, office, music, calls and entertainment'
+    },
+
+    about: `The Sony WH-1000XM6 is designed as a premium all-purpose wireless headphone for listeners who spend significant time in noisy environments. Its feature set is especially relevant to frequent travellers, commuters and office users who want active noise cancellation together with high-quality wireless audio.
+
+The combination of Sony's noise-cancelling processor, microphone system, adaptive noise control, LDAC and multipoint connectivity makes the headphone more versatile than a basic Bluetooth model. The biggest question for buyers is whether they will use these premium features often enough to justify the price.`,
+
+    productDetails: `The WH-1000XM6 combines active noise cancellation, wireless audio, hands-free calling and device switching in one over-ear design. Its rated battery life of up to 30 hours with noise cancellation enabled makes it suitable for long journeys and daily use.
+
+For music listeners, LDAC support can be useful with compatible devices and high-quality sources. For work, multipoint connectivity can make it easier to move between a computer and smartphone without repeatedly pairing the headphones.
+
+Noise cancellation works best when the headphones fit correctly and the surrounding sound is suitable for ANC. Continuous low-frequency noise is generally a better match for ANC than sudden or irregular sounds.`,
+
+    additionalInformation: {
+      'Brand': 'Sony',
+      'Model': 'WH-1000XM6',
+      'Product Type': 'Premium wireless over-ear headphones',
+      'Noise Cancellation': 'Active Noise Cancellation',
+      'Processor': 'HD Noise Cancelling Processor QN3',
+      'Audio Codec': 'LDAC supported',
+      'Multipoint': 'Yes',
+      'Battery': 'Up to 30 hours with ANC',
+      'Recommended For': 'Travel, office, music and calls',
+      'Listed Price': '₹37,989',
+      'Original Price': '₹49,990',
+      'Listed Discount': '24%'
+    },
+
+    faq: [
+      {
+        question: 'Is the Sony WH-1000XM6 good for travel?',
+        answer: 'Yes. Its active noise cancellation and long rated battery life make it particularly suitable for flights, trains, commuting and other noisy travel environments.'
+      },
+      {
+        question: 'How long does the WH-1000XM6 battery last?',
+        answer: 'Sony rates the WH-1000XM6 for up to 30 hours with noise cancellation enabled. Actual runtime varies depending on volume, codec, calls and other settings.'
+      },
+      {
+        question: 'Does the Sony WH-1000XM6 support LDAC?',
+        answer: 'Yes. LDAC is supported when the connected device and software configuration are compatible with the codec.'
+      },
+      {
+        question: 'Does the WH-1000XM6 support multipoint?',
+        answer: 'Yes. Multipoint connectivity allows the headphones to maintain connections with compatible devices, which is useful when switching between a phone and computer.'
+      },
+      {
+        question: 'Is the WH-1000XM6 good for office work?',
+        answer: 'It can be a strong office option because active noise cancellation can reduce continuous background noise and the microphone system supports hands-free calls. Actual call performance depends on the environment and connected device.'
+      },
+      {
+        question: 'Is the Sony WH-1000XM6 good for music?',
+        answer: 'Yes. It is designed for premium wireless listening and supports LDAC on compatible devices. Sound quality also depends on the audio source, codec, EQ settings and personal preference.'
+      },
+      {
+        question: 'Is the WH-1000XM6 water resistant?',
+        answer: 'It should not be treated as a dedicated water-resistant sports headphone. Buyers who need headphones for heavy workouts or exposure to water should check the exact protection rating and choose a model designed for that use.'
+      },
+      {
+        question: 'Should I upgrade from an older premium ANC headphone?',
+        answer: 'It depends on your current headphone. If your existing model already provides satisfactory noise cancellation, sound and battery life, the practical benefit of upgrading may be limited. New buyers or users with an older model may find the newer feature set more compelling.'
+      },
+      {
+        question: 'Who should buy the Sony WH-1000XM6?',
+        answer: 'It is best suited to frequent travellers, commuters, office users and music listeners who value strong noise cancellation, premium wireless audio, long battery life and multipoint connectivity.'
+      },
+      {
+        question: 'Does this page claim hands-on testing?',
+        answer: 'No. The buying guidance on this page is based on the listed product information and manufacturer specifications. It does not claim independent laboratory testing or personally measured ANC, battery or sound results.'
+      }
+    ]
   },
   {
     id: 'p2',
