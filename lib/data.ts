@@ -806,23 +806,136 @@ Key Features:
     image: '/assets/aistudio/mx-master.png',
     description: `Logitech MX Master 4 Wireless Mouse – Graphite
 
-Take your productivity and creative workflow to the next level with the Logitech MX Master 4. Designed for professionals, creators, and everyday users, this premium wireless mouse combines precision, comfort, and advanced controls in a refined ergonomic design.
+Quick Verdict:
+The Logitech MX Master 4 is a premium productivity-focused wireless mouse designed for people who spend long hours working with documents, spreadsheets, browsers, creative applications, and multiple devices. Its strongest reasons to consider it are the ergonomic right-handed design, quiet clicking, high-resolution tracking, MagSpeed scrolling, customizable controls, and multi-device connectivity.
 
-Enjoy smooth and accurate tracking with responsive cursor control across different surfaces. The advanced scroll wheel provides fast and precise navigation, making it easy to move through long documents, webpages, spreadsheets, and creative projects.
+Who Should Buy It:
+• Professionals who work for several hours at a desk
+• Users who regularly work with documents, spreadsheets, browsing, and creative software
+• People who switch between multiple computers or devices
+• Users who value a premium ergonomic mouse with advanced scrolling and customizable controls
+• Buyers who want precise tracking on a wide range of everyday work surfaces
 
-With wireless connectivity and support for multiple devices, the MX Master 4 is designed for a flexible and efficient workspace. Its ergonomic shape provides comfortable support during extended working sessions, while customizable buttons allow you to personalize controls according to your workflow.
+Who Should Skip It:
+• Left-handed users who need a symmetrical or left-handed mouse
+• People looking for a small and lightweight travel mouse
+• Casual users who only need basic pointer and click functions
+• Buyers who do not need advanced buttons, scrolling, or multi-device features
 
-Whether you're working on documents, editing content, browsing the web, or managing multiple tasks, the Logitech MX Master 4 offers a premium combination of performance, comfort, and convenience.
+Detailed Analysis:
+
+Ergonomic Design:
+The MX Master 4 uses a right-handed ergonomic shape intended to provide more support than a basic compact mouse. The larger body can be useful for desk-based work, especially for users who prefer a fuller palm-resting design. Its size is less convenient for users who frequently carry a mouse in a small laptop bag.
+
+Precision Tracking:
+An 8,000 DPI track-on-glass sensor gives the mouse a wide tracking range and makes it suitable for everyday productivity as well as detailed creative work. High DPI does not automatically make a mouse better for every user, but it gives users more flexibility to adjust cursor sensitivity to their preferred workflow.
+
+Quiet Clicks:
+Quiet clicking is useful in shared offices, libraries, study areas, and other environments where loud mouse clicks can become distracting. This feature is particularly relevant for people who spend many hours performing repetitive clicking tasks.
+
+MagSpeed Scroll Wheel:
+The MagSpeed scroll wheel is one of the key productivity features. It is designed to provide both controlled scrolling and faster navigation through long webpages, documents, spreadsheets, and other content. For users who regularly move through large amounts of information, a good scroll system can make a noticeable difference in everyday workflow.
+
+Customizable Controls:
+The mouse includes multiple buttons that can be customized according to the user's workflow. Depending on the supported software and configuration, these controls can be useful for shortcuts, navigation, application-specific actions, and repetitive tasks. Customization is most valuable for users who are willing to spend time setting the mouse up around their own work habits.
+
+Multi-Device Connectivity:
+Multi-device support makes the MX Master 4 suitable for people who use more than one computer. This can be useful for switching between a work laptop, personal computer, or another compatible device without maintaining a separate mouse for every setup. Compatibility and available features can vary by operating system and connection method.
+
+Office and Creative Work:
+For office users, the combination of precise tracking, advanced scrolling, customizable buttons, and ergonomic design makes the mouse particularly suited to documents, spreadsheets, research, browsing, and productivity applications. Creative users may also benefit from customizable controls when working with editing or design software.
+
+Important Buying Consideration:
+The MX Master 4 is a premium productivity mouse, so its value depends heavily on whether you will use its advanced features. If your normal use only involves basic browsing and clicking, a less expensive mouse may provide better value. Its right-handed shape and relatively large body should also be considered before buying.
+
+Best Use Cases:
+• Office and work-from-home productivity
+• Long document and webpage navigation
+• Spreadsheet and data-heavy workflows
+• Creative and editing applications
+• Multi-computer desk setups
+• Users who prefer customizable mouse controls
 
 Key Features:
-• Premium ergonomic wireless mouse
-• High-precision tracking
-• Advanced scrolling for fast and accurate navigation
-• Customizable buttons for personalized controls
+• 8,000 DPI track-on-glass sensor
+• Quiet Clicks
+• MagSpeed scroll wheel
+• Customizable buttons
 • Multi-device wireless connectivity
-• Comfortable design for extended use
-• Ideal for office work, productivity, and creative tasks
-• Premium Graphite finish The iconic mouse, remastered. Feel every moment of your workflow with even more precision, tactility, and performance, thanks to Quiet Clicks and an 8,000 DPI track-on-glass sensor.`,
+• Right-handed ergonomic design
+• Graphite finish
+
+Pros:
+• Comfortable ergonomic design for desk-based use
+• Precise 8,000 DPI tracking
+• Smooth and versatile MagSpeed scrolling
+• Quiet clicks can reduce workplace distractions
+• Useful multi-device functionality
+• Customizable controls for productivity workflows
+
+Cons:
+• Right-handed design limits suitability for left-handed users
+• Larger body is less convenient for travel
+• Premium pricing may not make sense for basic users
+• Advanced customization requires setup time
+
+Buying Checklist:
+Before buying, consider whether you need an ergonomic right-handed mouse, whether you use multiple devices, whether advanced scrolling is useful for your work, and whether customizable buttons will actually improve your workflow. Also check operating-system compatibility and the current price before purchasing.
+
+This assessment is based on the listed specifications and intended use of the product. It does not claim independent hands-on testing, laboratory sensor testing, or personal battery testing by Vibes Deals.`,
+    about: `The Logitech MX Master 4 is a premium wireless mouse focused on productivity, ergonomics, precise tracking, advanced scrolling, and customizable controls. It is designed primarily for right-handed desk users who want more functionality than a standard office mouse.`,
+    productDetails: `The mouse combines an 8,000 DPI track-on-glass sensor with Quiet Clicks, a MagSpeed scroll wheel, customizable controls, and multi-device wireless connectivity. These features make it particularly suitable for office productivity, creative workflows, research, browsing, and other computer-intensive tasks.`,
+    additionalInformation: {
+      'Best For': 'Office productivity, creative work and multi-device setups',
+      'Sensor': '8,000 DPI track-on-glass sensor',
+      'Scroll Wheel': 'MagSpeed',
+      'Connectivity': 'Bluetooth / Logi Bolt',
+      'Design': 'Right-handed ergonomic',
+      'Clicks': 'Quiet Clicks',
+      'Important Note': 'Check operating-system compatibility and supported features before purchase'
+    },
+    faq: [
+      {
+        question: 'Is the Logitech MX Master 4 good for office work?',
+        answer: 'Yes. Its ergonomic design, precise tracking, advanced scrolling, customizable controls, and multi-device support make it well suited to office and productivity workflows.'
+      },
+      {
+        question: 'Is the MX Master 4 suitable for gaming?',
+        answer: 'It can handle general gaming, but it is primarily designed as a productivity mouse. Competitive gaming users may prefer a lighter mouse with gaming-specific features.'
+      },
+      {
+        question: 'What is the DPI of the MX Master 4?',
+        answer: 'The listed sensor specification is up to 8,000 DPI, giving users a wide range of cursor sensitivity options.'
+      },
+      {
+        question: 'Is the MX Master 4 comfortable for long work sessions?',
+        answer: 'Its right-handed ergonomic shape is designed for extended desk use. Comfort is subjective, so hand size and grip style should be considered before buying.'
+      },
+      {
+        question: 'Does the MX Master 4 support multiple devices?',
+        answer: 'Yes. Multi-device wireless connectivity is one of its key productivity features, allowing compatible devices to be managed from the same mouse.'
+      },
+      {
+        question: 'Is the MX Master 4 good for Mac and Windows?',
+        answer: 'It is designed for use with compatible operating systems, but available functions can vary depending on the operating system and connection method. Check current Logitech compatibility information before purchase.'
+      },
+      {
+        question: 'Is the MX Master 4 good for Photoshop or editing?',
+        answer: 'Its precise tracking and customizable controls can be useful for creative applications such as photo and video editing, especially when shortcuts are configured around a specific workflow.'
+      },
+      {
+        question: 'Is the MX Master 4 suitable for left-handed users?',
+        answer: 'No. Its ergonomic shape is designed primarily for right-handed use, so left-handed users should consider a symmetrical or left-handed alternative.'
+      },
+      {
+        question: 'Is the MX Master 4 good for travel?',
+        answer: 'It can be carried for travel, but its larger ergonomic body is less portable than compact travel mice. It is better suited to a permanent desk setup.'
+      },
+      {
+        question: 'Who should buy the Logitech MX Master 4?',
+        answer: 'It is best suited to professionals, creators, students, and other users who spend significant time at a computer and can benefit from ergonomic comfort, advanced scrolling, precise tracking, and customizable controls.'
+      }
+    ],
     price: 12995,
     originalPrice: 15995,
     discount: 19,
@@ -832,10 +945,36 @@ Key Features:
     featured: false,
     trending: true,
     bestseller: true,
-    highlights: ['Quiet Clicks', '8K DPI tracking', 'MagSpeed scroll wheel'],
-    pros: ['Ergonomic comfort', 'Excellent scrolling experience', 'Multi-device pairing'],
-    cons: ['Right-handed only design', 'Bulky for travel'],
-    specs: { 'Sensor': '8000 DPI', 'Buttons': '7', 'Connectivity': 'Bluetooth / Logi Bolt' }
+    highlights: [
+      'Quiet Clicks',
+      '8K DPI tracking',
+      'MagSpeed scroll wheel',
+      'Customizable controls',
+      'Multi-device connectivity',
+      'Right-handed ergonomic design'
+    ],
+    pros: [
+      'Ergonomic comfort for desk-based work',
+      'Precise 8,000 DPI tracking',
+      'Excellent scrolling experience',
+      'Quiet clicking',
+      'Multi-device pairing',
+      'Useful customizable controls'
+    ],
+    cons: [
+      'Right-handed only design',
+      'Bulky for travel',
+      'Premium price for basic users',
+      'Customization takes setup time'
+    ],
+    specs: {
+      'Sensor': '8000 DPI track-on-glass sensor',
+      'Buttons': '7',
+      'Connectivity': 'Bluetooth / Logi Bolt',
+      'Scroll Wheel': 'MagSpeed',
+      'Design': 'Right-handed ergonomic',
+      'Clicks': 'Quiet Clicks'
+    }
   },
   {
     id: 'p8',
