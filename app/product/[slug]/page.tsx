@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import {
@@ -11,6 +12,27 @@ import {
 } from 'lucide-react';
 import { products } from '@/lib/data';
 import { siteConfig } from '@/config/site';
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+
+  const product = products.find((p) => p.slug === slug);
+
+  if (!product) {
+    return {};
+  }
+
+  return {
+    title: `${product.name} – Price, Features & Review | Vibes Deals`,
+    description: `Check the price, features, specifications, pros and cons of ${product.name} at Vibes Deals. Find out if this product is worth buying.`,
+    alternates: {
+      canonical: `/product/${product.slug}`,
+    },
+  };
+}
 
 export function generateStaticParams() {
   return products.map((product) => ({

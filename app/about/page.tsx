@@ -1,9 +1,9 @@
-import { Metadata } from 'next';
+import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About Vibes Deals | Trending Products, Deals & Online Shopping',
+  title: 'About Vibes Deals | Trending Products, Deals & Shopping Guides',
   description:
-    'Learn about Vibes Deals, a product discovery and deal website helping shoppers find trending products, useful products, online shopping deals, discounts, and curated offers.',
+    'Learn about Vibes Deals, a product discovery and deals website helping shoppers find trending products, useful recommendations and shopping guides.',
   keywords: [
     'Vibes Deals',
     'best online shopping deals',
@@ -16,6 +16,9 @@ export const metadata: Metadata = {
     'product recommendations',
     'shopping guides',
   ],
+  alternates: {
+    canonical: '/about',
+  },
 };
 
 export default function AboutPage() {

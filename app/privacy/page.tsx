@@ -1,9 +1,13 @@
+import type { Metadata } from 'next';
 import { siteConfig } from '@/config/site';
 
-export const metadata = {
-  title: 'Privacy Policy | Online Shopping Deals & Product Recommendations',
+export const metadata: Metadata = {
+  title: 'Privacy Policy | Vibes Deals',
   description:
-    'Read the Privacy Policy for VibesDeals to learn how we collect, use, protect, and manage information when you browse shopping deals, product recommendations, affiliate links, and shopping guides.',
+    'Read the Privacy Policy for Vibes Deals to learn how we collect, use, protect and manage information when you use our website.',
+  alternates: {
+    canonical: '/privacy',
+  },
 };
 
 export default function PrivacyPolicyPage() {

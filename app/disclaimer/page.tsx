@@ -1,4 +1,13 @@
+import type { Metadata } from 'next';
 import { siteConfig } from '@/config/site';
+export const metadata: Metadata = {
+  title: 'Disclaimer | Vibes Deals',
+  description:
+    'Read the Vibes Deals Disclaimer covering product information, prices, affiliate links, recommendations and third-party websites.',
+  alternates: {
+    canonical: '/disclaimer',
+  },
+};
 
 export default function DisclaimerPage() {
   return (

@@ -1,4 +1,13 @@
+import type { Metadata } from 'next';
 import { siteConfig } from '@/config/site';
+export const metadata: Metadata = {
+  title: 'Terms & Conditions | Vibes Deals',
+  description:
+    'Read the Terms & Conditions for using Vibes Deals, including product information, affiliate links, shopping recommendations and website usage.',
+  alternates: {
+    canonical: '/terms',
+  },
+};
 
 export default function TermsPage() {
   return (

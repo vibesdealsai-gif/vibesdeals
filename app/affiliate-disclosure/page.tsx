@@ -1,9 +1,13 @@
+import type { Metadata } from 'next';
 import { siteConfig } from '@/config/site';
 
-export const metadata = {
-  title: 'Affiliate Disclosure | VibesDeals',
+export const metadata: Metadata = {
+  title: 'Affiliate Disclosure | Vibes Deals',
   description:
-    'Learn how VibesDeals uses affiliate links, earns commissions from qualifying purchases, and provides product deals, recommendations, and shopping guides.',
+    'Learn how Vibes Deals uses affiliate links, earns commissions and provides product recommendations through affiliate programs.',
+  alternates: {
+    canonical: '/affiliate-disclosure',
+  },
 };
 
 export default function AffiliateDisclosurePage() {

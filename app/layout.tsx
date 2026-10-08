@@ -16,6 +16,12 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
+metadataBase: new URL('https://vibesdeals.com'),
+
+alternates: {
+  canonical: '/',
+},
+
   title: 'Vibes Deals – Best Deals, Trending Products & Shopping Guides',
   description:
     'Discover the best online deals, trending products, discounts and shopping guides at Vibes Deals. Shop smarter with carefully selected product recommendations.',
