@@ -878,7 +878,68 @@ Key Features:
     highlights: ['Double-Wall Vacuum Insulation', 'MagSlider Lid', 'Dishwasher Safe'],
     pros: ['Keeps drinks hot/cold for hours', 'Indestructible build', 'Fits in most cup holders'],
     cons: ['Lid is not 100% leakproof', 'Premium price for a cup'],
-    specs: { 'Capacity': '20 oz', 'Material': 'Stainless Steel' }
+    specs: { 'Capacity': '20 oz', 'Material': 'Stainless Steel' },
+    about: `The YETI Rambler 20 oz Tumbler is a reusable insulated drinkware option for people who carry coffee, tea, water or cold drinks through the day. Its 20 oz capacity balances everyday use with portability, making it suitable for commuting, desk use, road trips and outdoor activities.
+
+Its stainless-steel construction and double-wall vacuum insulation are key reasons to consider it over a basic single-wall cup. Buyers should still check the exact lid supplied with the listing, because lid design affects spill resistance, cleaning and everyday convenience.
+
+The main trade-off is price: this is a premium tumbler. It makes the most sense for someone who will use it regularly and values durable construction and insulation rather than someone who only needs an occasional cup.`,
+
+    productDetails: `The 20 oz size is useful for a serving of coffee, tea or water without choosing a much larger travel vessel. The double-wall vacuum-insulated design is intended to help drinks retain temperature longer than an uninsulated cup. Actual performance varies with starting temperature, drink volume, lid use and surrounding conditions.
+
+The included MagSlider lid can help reduce splashes during normal handling, but buyers should not assume the tumbler is completely leakproof. Keep it upright in a bag and verify the exact lid and product variant on the seller page before ordering.
+
+For everyday care, follow the manufacturer's current cleaning instructions. Check whether the exact lid components are dishwasher-safe and clean them regularly, especially after milk-based or sweetened drinks.`,
+
+    additionalInformation: {
+      'Brand': 'YETI',
+      'Product Name': 'Rambler 20 oz Tumbler',
+      'Product Type': 'Reusable insulated drinkware',
+      'Capacity': '20 oz',
+      'Material': 'Stainless steel',
+      'Insulation': 'Double-wall vacuum insulation',
+      'Lid': 'MagSlider lid listed in product highlights; verify included variant',
+      'Suitable Uses': 'Coffee, tea, water, commuting, office and outdoor use',
+      'Care': "Follow the manufacturer's cleaning instructions",
+      'Price Check': 'Confirm current price, seller and included accessories before purchase',
+      'Warranty': 'Check current manufacturer warranty and seller terms'
+    },
+
+    faq: [
+      {
+        question: 'What is the capacity of the YETI Rambler tumbler?',
+        answer: 'This listing is for the 20 oz version. Check the product title and seller details before ordering to ensure you select the intended size.'
+      },
+      {
+        question: 'Can it hold both hot and cold drinks?',
+        answer: 'Yes. Its double-wall vacuum insulation is designed for hot and cold beverages. Temperature retention depends on use and surrounding conditions.'
+      },
+      {
+        question: 'Is the tumbler completely leakproof?',
+        answer: 'Do not assume it is leakproof. The lid can help reduce splashes, but it is safest to carry the tumbler upright and verify the exact lid design.'
+      },
+      {
+        question: 'Is it suitable for daily office use?',
+        answer: 'Yes. The 20 oz capacity can suit coffee, tea or water at a desk, during commuting or while travelling.'
+      },
+      {
+        question: 'How should I clean the tumbler?',
+        answer: 'Follow YETI’s current care instructions and check the cleaning guidance for the exact lid components supplied with your product.'
+      },
+      {
+        question: 'Will it fit in every vehicle cup holder?',
+        answer: 'Not necessarily. Cup-holder dimensions vary by vehicle, so check the tumbler dimensions against your vehicle before buying.'
+      },
+      {
+        question: 'Is the premium price worth it?',
+        answer: 'It may suit frequent users who value insulation and durable construction. Occasional users may find a lower-cost reusable cup sufficient.'
+      },
+      {
+        question: 'What should I verify before placing an order?',
+        answer: 'Confirm the 20 oz size, seller, lid variant, current price, delivery details and applicable warranty or return terms.'
+      }
+    ],
+
   },
 {
     id: 'p7',
