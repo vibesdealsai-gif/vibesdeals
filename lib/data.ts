@@ -1161,7 +1161,68 @@ highlights: [
     'Best For': 'Ice cream, frozen foods, retail and commercial storage',
     'Usage': 'Commercial / Retail / Food Storage',
     'Brand': 'Rockwell'
-  }
+  },
+
+  about: `The Rockwell 550 GREEN Deep Freezer is listed as a double-door freezer intended for storing frozen products in retail and commercial environments. It may suit ice cream shops, grocery stores, cafés, restaurants and businesses that need regular access to frozen inventory.
+
+Before deciding, assess how much frozen storage you actually need, how frequently the lid or doors will be opened, the space available for installation and the expected daily operating hours. Confirm the exact rated capacity and configuration with the seller because the product name alone does not establish the usable storage volume.
+
+This page is an informational buying guide, not a claim of independent hands-on testing. Verify current specifications, delivery terms, warranty and service support before placing an order.`,
+
+  productDetails: `The listing identifies the product as Rockwell 550 GREEN Deep Freezer with a double-door configuration, fast-cooling design and a stated 5 Star energy rating.
+
+The exact capacity, dimensions, electrical input, rated power, operating temperature range and installation requirements should be confirmed from the current manufacturer documentation or retailer listing. Do not estimate electricity costs from the star rating alone; actual consumption depends on the unit's verified power data, operating conditions, ambient temperature and usage.
+
+Check whether delivery, installation, warranty coverage and local service are included in the final purchase terms.`,
+
+  additionalInformation: {
+    'Brand': 'Rockwell',
+    'Model': '550 GREEN — confirm exact model number',
+    'Product Type': 'Deep Freezer',
+    'Configuration': 'Double Door',
+    'Stated Energy Rating': '5 Star — verify label and applicable rating details',
+    'Cooling Description': 'Fast Cooling',
+    'Capacity': 'Confirm exact rated capacity with seller',
+    'Recommended Use': 'Frozen food, ice cream, retail and commercial storage',
+    'Listed Price': '₹39,000 — verify current price',
+    'Warranty': 'Confirm duration and coverage with seller',
+    'Service': 'Confirm local service availability before purchase'
+  },
+
+  faq: [
+    {
+      question: 'Who should consider the Rockwell 550 GREEN Deep Freezer?',
+      answer: 'It may suit shops, ice cream businesses, cafés, restaurants and other users who regularly need substantial frozen-product storage. Confirm the actual capacity and intended-use guidance before buying.'
+    },
+    {
+      question: 'What is the exact storage capacity?',
+      answer: 'The product name uses 550, but the exact rated capacity and usable volume should be confirmed from the current manufacturer specification or seller listing.'
+    },
+    {
+      question: 'Is it suitable for home use?',
+      answer: 'It may be larger than many households need. Check the dimensions, available floor space, electrical requirements and expected storage needs before deciding.'
+    },
+    {
+      question: 'How much electricity does it consume?',
+      answer: 'Exact consumption cannot be confirmed from the information recorded here. Ask the seller for verified power or energy-consumption figures. Actual use varies with ambient temperature, loading, settings and door-opening frequency.'
+    },
+    {
+      question: 'Does the 5 Star rating guarantee a particular electricity bill?',
+      answer: 'No. A rating alone does not establish your actual bill. Verify the applicable energy label and consumption data, then consider your local electricity tariff and usage.'
+    },
+    {
+      question: 'What should I check about the double-door design?',
+      answer: 'Confirm the exact configuration, internal compartments, usable storage volume and door clearance. Make sure the installation area allows convenient access.'
+    },
+    {
+      question: 'What warranty and service support are available?',
+      answer: 'Warranty duration, exclusions and local service availability are not confirmed here. Check the written terms with the seller before ordering.'
+    },
+    {
+      question: 'Is ₹39,000 the current price?',
+      answer: '₹39,000 is the price recorded in this website’s product data. The retailer price, offers, delivery charges and availability can change, so verify the final amount before purchase.'
+    }
+  ]
   },
 {
   id: 'p10',
