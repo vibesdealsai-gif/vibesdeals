@@ -1477,67 +1477,76 @@ category: 'Fashion',
 brand: 'Crocs',
 image: '/assets/aistudio/crocs-classic-crafted-clog.png',
 
-description: `Crocs Unisex Adult Classic Crafted Clog is a versatile and comfortable slip-on footwear option designed for everyday casual wear. Known for its lightweight construction, easy-to-wear design, and relaxed fit, the Classic Clog can be suitable for daily activities, casual outings, travel, and leisure.
+description: `The Crocs Unisex Adult Classic Crafted Clog is a casual slip-on footwear option for people who want an easy-to-wear style for everyday activities. Its recognizable clog silhouette pairs with casual clothing and can be considered for home use, relaxed outings, travel and leisure.
 
-The iconic clog-style design offers a practical combination of comfort and convenience. Its slip-on construction makes it easy to put on and remove, while the versatile appearance makes it easy to pair with different casual outfits.
+The simple slip-on construction makes it convenient to put on and remove. The open clog-style design is different from a closed sneaker, so buyers should consider the type of activity and level of foot coverage they need before choosing it. It is casual footwear rather than specialist running, hiking or protective work footwear.
 
-The Classic Clog is available in a variety of colours and sizes, although exact colour, size and stock availability may vary depending on the retailer and selected product variant. Always check the Amazon product page for the latest available options before purchasing.`,
+Crocs models, materials, fit and available options can differ by listing. Before ordering, confirm that the selected Amazon listing is the intended Classic Crafted Clog, then check the size chart, colour, seller, return policy and current price. Do not assume every size fits the same as other shoe brands; use the listing's sizing guidance to select your pair.`,
+    about: `The Crocs Classic Crafted Clog is designed for adults looking for straightforward casual footwear. Its clog-inspired shape and slip-on format make it a convenient option for everyday routines, relaxed outings and travel when a casual shoe is appropriate.
 
-about: `The Crocs Unisex Adult Classic Crafted Clog is designed for people looking for comfortable, easy-to-wear footwear for everyday use. Its classic clog silhouette provides a casual look that works well for home, outdoor leisure, travel and everyday activities.
+When choosing footwear, comfort and fit are personal. Check the product listing's sizing information and measure your foot if needed. Consider whether you prefer a secure fit or more room around the toes, and review the return or exchange policy before buying.
 
-The slip-on construction makes the clog convenient for quick use, while the lightweight design is intended to provide comfortable wear throughout the day. The versatile styling also makes it easy to combine with casual clothing.
+The name and appearance alone do not confirm every material or construction detail. Compare the exact product title, photos and specifications on the seller's page so you know you are ordering the intended version rather than a different Crocs style.`,
+    productDetails: `This listing describes unisex adult clog-style footwear with a slip-on design. It may suit casual wear, everyday errands, relaxed travel and leisure activities. Suitability depends on the fit, conditions and activity.
 
-Crocs Classic Clogs are available in multiple colour and size options. Since available variants can change, shoppers should verify the selected colour, size and availability on Amazon before placing an order.`,
+Buying checklist:
+- Confirm the exact model name and product photos.
+- Select the correct adult size using the seller's size chart.
+- Check the colour and size variant before adding the item to your cart.
+- Review the seller details, delivery estimate and return or exchange terms.
+- Compare the final checkout price rather than relying on an old listed price.
+- If you need footwear for work, sports, long hikes or wet and slippery environments, check whether this style provides the specific support, grip and protection you require.
 
-productDetails: `The Classic Clog features the recognizable Crocs clog design with a slip-on construction for convenient everyday use. Its versatile styling makes it suitable for casual wear, leisure activities, travel and day-to-day use.
-
-The product is designed as unisex adult footwear. Available sizes and colours may vary according to the selected Amazon listing and current stock.
-
-For the most accurate information about the selected variant, including size, colour, seller, price and availability, check the Amazon product page before purchasing.`,
-
-additionalInformation: {
+Care: Follow the care guidance supplied with the actual product. Remove ordinary dirt gently and let the footwear dry appropriately; avoid harsh cleaning methods unless the manufacturer says they are suitable. Check the product label for material-specific instructions.`,
+    additionalInformation: {
 'Brand': 'Crocs',
-'Product Type': 'Classic Clog',
+'Product Name': 'Unisex Adult Classic Crafted Clog',
 'Category': 'Casual Footwear',
+'Product Type': 'Clog-style slip-on footwear',
 'Gender': 'Unisex Adult',
-'Closure Type': 'Slip-On',
-'Style': 'Clog',
-'Available Sizes': 'Multiple adult sizes; availability may vary',
-'Available Colours': 'Multiple colour options; availability may vary',
-'Use': 'Casual, Everyday, Travel and Leisure',
-'Price': '₹5,495',
-'Original Price': '₹5,495',
-'Discount': '0%',
+'Closure': 'Slip-On',
+'Style': 'Classic Clog',
+'Use': 'Casual wear, everyday activities and leisure',
+'Sizing': 'Check the size chart for the selected listing',
+'Colours': 'Verify available colours on the product page',
+"Care": "Follow the manufacturer care instructions",
+'Price Check': 'Confirm current price and offers before checkout',
 'Marketplace': 'Amazon'
 },
-
 faq: [
 {
-question: 'Is the Crocs Classic Clog suitable for men and women?',
-answer: 'Yes. The product is designed as unisex adult footwear. Always check the Amazon size chart and selected variant before ordering.'
+question: 'Is this Crocs clog designed for men and women?',
+answer: 'The listing describes it as unisex adult footwear. Confirm the exact model and available sizes on the product page.'
 },
 {
-question: 'Are different sizes available?',
-answer: 'Multiple adult sizes may be available, but size availability can change depending on the selected colour and current Amazon stock.'
+question: 'How should I choose the correct size?',
+answer: 'Use the size chart for the selected listing and compare it with your usual foot measurements. Do not rely only on another brand’s size.'
 },
 {
-question: 'Are different colours available?',
-answer: 'Yes, Crocs Classic Clogs are offered in multiple colour options. Available colours can vary by Amazon listing and stock.'
+question: 'Can I wear the Classic Crafted Clog every day?',
+answer: 'It is described as casual footwear for everyday activities and leisure. Comfort depends on your fit and the activity.'
 },
 {
-question: 'Is this clog suitable for everyday wear?',
-answer: 'The Classic Clog is designed as casual everyday footwear and can be used for activities such as casual outings, travel and leisure.'
+question: 'Is it suitable for running or hiking?',
+answer: 'It is casual clog-style footwear, not specialist running or hiking footwear. Choose shoes designed for the activity and conditions you expect.'
 },
 {
-question: 'Is the Crocs Classic Clog easy to wear?',
-answer: 'Yes. Its clog-style slip-on construction is designed to make putting on and removing the footwear convenient.'
+question: 'What colours are available?',
+answer: 'Available colours and sizes depend on the selected listing and current stock. Check the variant options before ordering.'
 },
 {
-question: 'What should I check before buying?',
-answer: 'Check the selected size, colour, seller, current price and availability on the Amazon product page before completing your purchase.'
+question: 'How do I clean the clogs?',
+answer: 'Follow the care instructions provided with the product. Use a gentle cleaning method appropriate for its confirmed material.'
+},
+{
+question: 'What should I check before placing an order?',
+answer: 'Verify the exact model, size, colour, seller, delivery details, return policy and final checkout price.'
+},
+{
+question: 'Does the listed price guarantee a discount?',
+answer: 'No. Prices and offers can change. Check the live product page and final checkout total before purchasing.'
 }
 ],
-
 price: 5495,
 originalPrice: 5495,
 discount: 0,
