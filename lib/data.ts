@@ -356,26 +356,61 @@ For everyday buyers, the most important decision is configuration. The listed mo
     category: 'Home & Kitchen',
     brand: 'Ninja',
     image: '/assets/aistudio/Ninja-AF101-Air-Fryer.png',
-    description: `Ninja AF101 Air Fryer – Black
+    description: `Ninja AF101 Air Fryer – Detailed Buying Guide
 
-Enjoy deliciously crispy meals with less oil using the Ninja AF101 Air Fryer. Designed for convenient everyday cooking, this compact countertop appliance makes it easy to prepare a variety of favorite foods with a crispy texture and satisfying results.
+Quick Verdict:
+The Ninja AF101 is a compact countertop air fryer designed for everyday cooking with hot air instead of traditional deep frying. Its listed 4-quart capacity and 1500W power make it worth considering for smaller households that want to prepare snacks, vegetables and side dishes conveniently.
 
-The Ninja AF101 offers multiple cooking functions, including Air Fry, Roast, Reheat, and Dehydrate, giving you the flexibility to prepare different meals and snacks in one convenient appliance. Its powerful hot-air cooking technology circulates heated air around your food for even cooking and crisping.
+Before buying, check the exact model, included accessories, warranty and current price on the retailer's page. Actual cooking results depend on the food, quantity and preparation method.
 
-The compact design makes it a practical choice for kitchens with limited counter space, while the easy-to-use controls allow you to select your preferred cooking function, temperature, and time with ease.
+Who Should Consider It:
+• People who regularly prepare fries, vegetables, snacks and small batches of food
+• Small households looking for a countertop cooking appliance
+• Buyers who prefer air frying and roasting over frequent deep frying
+• People who value removable parts and convenient cleanup
+• Users who want more than one cooking mode in a single appliance
 
-Whether you're preparing crispy fries, roasted vegetables, reheating leftovers, or making homemade snacks, the Ninja AF101 provides a simple and convenient way to enjoy delicious meals every day.
+Who Should Compare Alternatives:
+• Large families that regularly cook several portions at once
+• Buyers who need to cook a whole large chicken or large batches in one go
+• People with very limited counter or storage space
+• Buyers who primarily need a large oven or a multi-function cooker
+• Anyone whose budget is below the current listed price
 
-Key Features:
-• Versatile air frying and cooking appliance
-• Air Fry, Roast, Reheat, and Dehydrate functions
-• Hot-air circulation for crispy results
-• Requires less oil than traditional frying
-• Easy-to-use digital controls
-• Compact countertop-friendly design
-• Ideal for everyday meals and snacks
-• Easy and convenient cooking experience
-• Premium Black finish`,
+Capacity and Everyday Cooking:
+The listed capacity is 4 quarts. Usable space depends on the shape and amount of food, so avoid overcrowding the basket. Cooking in smaller batches can help food cook and crisp more evenly. If you routinely prepare meals for several people, compare larger-capacity models before deciding.
+
+Cooking Functions:
+The product listing describes Air Fry, Roast, Reheat and Dehydrate functions. These provide flexibility for snacks, vegetables and reheating suitable foods. Check the exact controls and functions on the specific model listing before purchase, as regional variants and included accessories can differ.
+
+Power Consumption:
+The listed power rating is 1500W. At full rated power, one hour of operation would use approximately 1.5 kWh (units) as a theoretical maximum. Actual usage depends on cooking time, thermostat cycling and the selected temperature. For example, 20 minutes at continuous full rated power would equal about 0.5 kWh; this is an estimate, not a measured consumption figure.
+
+Cleaning and Maintenance:
+Allow the appliance to cool before cleaning. Follow the manufacturer's instructions for the basket and crisper plate, and confirm which parts are dishwasher-safe for your exact model. Avoid abrasive tools and never immerse the main electrical unit in water.
+
+Advantages:
+• Multiple listed cooking functions in one appliance
+• Compact countertop format compared with many full-size ovens
+• Can reduce the need for added oil in recipes compared with deep frying
+• Useful for snacks, vegetables and smaller everyday portions
+
+Limitations:
+• The 4-quart capacity may require batches for larger households
+• Counter space and storage are still required
+• Cooking noise, timing and crispness vary by food and quantity
+• It does not guarantee that every food will be healthier or oil-free
+• The premium price should be compared with other air fryers available locally
+
+Before You Buy:
+1. Confirm the exact model number and 4-quart capacity on the retailer page.
+2. Compare the current price with other models of similar capacity.
+3. Check warranty coverage, return terms and available service in your area.
+4. Confirm the basket and accessories included in the box.
+5. Review the manufacturer's safety, cleaning and cooking instructions.
+
+Editorial Note:
+This is a product-information buying guide, not a claim of hands-on testing. Features and listed prices should be verified against the current retailer and manufacturer information before purchase.`,
     price: 24690,
     originalPrice: 29990,
     discount: 18,
@@ -388,7 +423,55 @@ Key Features:
     highlights: ['4 Quart Capacity', '4 Programmable Cooking Functions', 'Dishwasher Safe Parts'],
     pros: ['Very easy to clean', 'Cooks fast and evenly', 'Compact footprint'],
     cons: ['May be too small for large families', 'Can be loud during operation'],
-    specs: { 'Capacity': '4 Quarts', 'Wattage': '1500W', 'Weight': '10.58 lbs' }
+    specs: { 'Capacity': '4 Quarts', 'Wattage': '1500W', 'Weight': '10.58 lbs' },
+    about: `The Ninja AF101 is aimed at buyers who want a compact air fryer for everyday snacks and smaller portions. Its listed 4-quart capacity is an important factor when deciding whether it suits your household. Compare basket size, cooking modes, cleaning requirements, warranty and current price before ordering.`,
+    productDetails: `Capacity: 4 quarts as listed. Rated power: 1500W as listed. The product listing describes Air Fry, Roast, Reheat and Dehydrate functions. Confirm the precise model, included parts, dishwasher-safe components and warranty from the retailer or manufacturer before purchase. Actual cooking times and results vary by recipe and quantity.`,
+    additionalInformation: {
+      'Brand': 'Ninja',
+      'Model': 'AF101',
+      'Finish': 'Black',
+      'Listed Capacity': '4 Quarts',
+      'Listed Power': '1500W',
+      'Listed Weight': '10.58 lbs',
+      'Cooking Functions': 'Air Fry, Roast, Reheat, Dehydrate (verify exact variant)',
+      'Product Type': 'Air Fryer',
+      'Price Note': 'Listed price; verify current retailer price',
+      'Variant Note': 'Confirm model, accessories and warranty before purchase'
+    },
+    faq: [
+      {
+        question: 'What is the listed capacity of the Ninja AF101?',
+        answer: 'The product details list a 4-quart capacity. The usable amount depends on the food and how it is arranged in the basket.'
+      },
+      {
+        question: 'Which cooking functions are listed?',
+        answer: 'The listing describes Air Fry, Roast, Reheat and Dehydrate. Verify the functions on the exact model page before ordering.'
+      },
+      {
+        question: 'How much electricity does the Ninja AF101 use?',
+        answer: 'Its listed rating is 1500W. At continuous full rated power, 20 minutes would equal about 0.5 kWh, but actual usage varies with cooking time and thermostat cycling.'
+      },
+      {
+        question: 'Is the Ninja AF101 suitable for a large family?',
+        answer: 'Its listed 4-quart capacity may require multiple batches for larger households. Compare larger-capacity models if you routinely cook many portions at once.'
+      },
+      {
+        question: 'Does air frying mean food needs no oil?',
+        answer: 'Not always. Some foods can be prepared with less added oil than deep frying, but results depend on the recipe and ingredients.'
+      },
+      {
+        question: 'Are the removable parts dishwasher-safe?',
+        answer: 'Check the instructions for your exact model to confirm which parts are dishwasher-safe. Let components cool before cleaning.'
+      },
+      {
+        question: 'What should I check before purchasing?',
+        answer: 'Confirm the model number, capacity, included accessories, warranty, return policy, local service availability and current retailer price.'
+      },
+      {
+        question: 'Is this a hands-on review?',
+        answer: 'No. This page is an informational buying guide and does not claim independent hands-on testing.'
+      }
+    ],
   },
 {
     id: 'p4',
