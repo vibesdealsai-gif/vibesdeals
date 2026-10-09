@@ -1148,7 +1148,64 @@ Ideal for smartphones, laptops, tablets, and accessories, the Noise 100W GaN Cha
     highlights: ['100W Max Output', 'GaNPrime Technology', '4 Ports (3C1A)'],
     pros: ['Compact size', 'Powerful enough for laptops', 'Reliable Noise quality'],
     cons: ['Can get warm during heavy use', 'Power splits when using multiple ports'],
-    specs: { 'Output': '100W Max', 'Ports': '3x USB-C, 1x USB-A', 'Technology': 'GaN' }
+    specs: { 'Output': '100W Max', 'Ports': '3x USB-C, 1x USB-A', 'Technology': 'GaN' },
+    about: `The Noise 100W GaN PD Charger is a multi-port adapter for people who charge phones, tablets, laptops and other USB devices. Its listed configuration has three USB-C ports and one USB-A port, helping reduce the need to carry several chargers.
+
+GaN technology supports a compact charger design. The advertised maximum output is 100W, but that does not mean every connected device receives 100W simultaneously. Charging speed depends on the device, cable, supported protocol and how power is shared across ports.
+
+Before buying, verify the exact model, port layout, supported output profiles, safety certifications and warranty on the seller's listing.`,
+    productDetails: `Check the output profile required by your laptop or phone. USB Power Delivery support is useful for many modern devices, but compatibility and charging speed vary by model.
+
+When multiple devices are connected, available power may be divided between ports. Review the manual for individual-port and combined-output limits, and use a correctly rated cable for laptop charging.
+
+The charger may become warm during normal use. Keep it ventilated and stop using it if you notice unusual heat, a burning smell or visible damage.`,
+    additionalInformation: {
+      'Brand': 'Noise',
+      'Product Name': 'GaN Charger 100W PD',
+      'Product Type': 'Multi-port USB charger',
+      'Maximum Advertised Output': '100W; verify supported output profiles',
+      'Ports Listed': '3 USB-C and 1 USB-A',
+      'Technology': 'GaN',
+      'Compatibility': 'Devices supporting the charger output profiles',
+      'Multi-device Charging': 'Available power may be shared across ports',
+      'Cable': 'Use a cable rated for the required charging power',
+      'Safety': 'Verify certifications, seller details and warranty',
+      'Price Check': 'Confirm current price and included accessories'
+    },
+    faq: [
+      {
+        question: 'Does it support 100W charging?',
+        answer: 'The listing advertises up to 100W maximum output. Confirm the supported profile and port limits for your device.'
+      },
+      {
+        question: 'How many ports does it have?',
+        answer: 'The listed configuration is three USB-C ports and one USB-A port. Verify the current listing before ordering.'
+      },
+      {
+        question: 'Can it charge a laptop?',
+        answer: 'It may charge compatible USB-C laptops. Check the laptop wattage requirement and use a suitable cable.'
+      },
+      {
+        question: 'Can I charge multiple devices at once?',
+        answer: 'The multi-port design supports connecting several devices, but available power may be divided between ports.'
+      },
+      {
+        question: 'Will it fast-charge every phone?',
+        answer: 'No. Fast charging depends on the phone, supported charging protocol and cable.'
+      },
+      {
+        question: 'Does GaN mean it never gets hot?',
+        answer: 'No. It may become warm under load. Keep it ventilated and stop use if it becomes unusually hot or shows damage.'
+      },
+      {
+        question: 'Is a cable included?',
+        answer: 'Included accessories can vary. Check the current seller listing and package contents.'
+      },
+      {
+        question: 'What should I check before buying?',
+        answer: 'Verify model, port layout, output profiles, safety certifications, warranty, seller and current price.'
+      }
+    ]
   },
 {
   id: 'p9',
