@@ -21,12 +21,11 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex items-center h-16 gap-4 md:gap-8">
           {/* Logo */}
-          <Link href="/" className="flex items-center flex-shrink-0" aria-label="Vibes Deals Home">
-            <img
-              src="/vibes-deals-logo-transparent.png"
-              alt="Vibes Deals"
-              className="h-10 w-auto max-w-[180px] object-contain"
-            />
+          <Link href="/" className="flex items-center gap-2 flex-shrink-0">
+            <ShoppingBag className="w-8 h-8 text-orange-400" />
+            <span className="font-jakarta font-bold text-2xl tracking-tight hidden sm:block">
+              Vibes<span className="text-orange-400">Deals</span>
+            </span>
           </Link>
 
           {/* Search Bar (Desktop & Tablet) */}
